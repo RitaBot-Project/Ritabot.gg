@@ -20,9 +20,9 @@ toc: true
 # TZD = time zone designator (Z or +hh:mm or -hh:mm)
 ---
 
-## What is Rita and who are we?
+## What is RITA and who are we?
 
-*Rita is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord, Self-hosted on Heroku (or a local install) and Completely 100% Free. She is maintained by a small group of users, each with different backgrounds and some learning as we go.*
+*RITA is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord, Self-hosted on Heroku (or a local install) and Completely 100% Free. She is maintained by a small group of users, each with different backgrounds and some learning as we go.*
 
 ## Why did you make Rita?
 
@@ -34,7 +34,7 @@ toc: true
 
 *Originally called discord-translator and made by Aziz, then forked By NotMyself and renamed Louie, forked again By AlooAkbar and renamed C-3P0, its code was neglected, not maintained, left outdated and iterations made private for commercial gains.*
 
-## Why Rita and what does it stand for?
+## Why RITA and what does it stand for?
 
 *I and a group of fellow C-3P0 users decided that collectively we could do better, plagued with crashes, API changes, relentless bugs and issues, the drive to make something better was born.*
 
@@ -42,4 +42,4 @@ toc: true
 
 ------
 
-*There you have it, the story, dramatized and electrified for effect, but all true, of how Rita was born.*
+*There you have it, the story, dramatized and electrified for effect, but all true, of how RITA was born.*

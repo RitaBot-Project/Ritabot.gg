@@ -62,13 +62,13 @@ These commands are available only to admins.
 
 Miscellaneous Commands
 
-### [Requesting features or reporting bugs](https://github.com/ZyC0R3/Rita/issues)
+### [Requesting features or reporting bugs](https://github.com/RitaBot-Project/RitaBot/issues)
 
 Request a feature or report a bug, we are grateful for both!
 
 ### Have concerns? 
 
-* Join the [Rita Discord Server](https://discord.gg/mgNR64R) if you require any assistance.
+* Join the [RITA Discord Server](https://discord.gg/mgNR64R) if you require any assistance.
   * Keep up to date with changes and report bugs.
-  * For feature requests or issues feel free to use our [issue tracker](https://github.com/ZyC0R3/Rita/issues) to submit a ticket as well as joining our Discord.  
+  * For feature requests or issues feel free to use our [issue tracker](https://github.com/RitaBot-Project/RitaBot/issues) to submit a ticket as well as joining our Discord.  
 

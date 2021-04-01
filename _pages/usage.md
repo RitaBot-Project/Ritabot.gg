@@ -67,5 +67,5 @@ Use this command within any channel the bot has permissions
 
 ### Requesting features, reporting bugs and more
 
-* Join the [Official Rita Discord Server](https://discord.gg/mgNR64R) to get support 
-  * Keep up to date with changes and report bugs, alternatively you can submit your request via a Github [issue tracker](https://github.com/ZyC0R3/Rita/issues). *There is always someone that can help you.*
+* Join the [Official RITA Discord Server](https://discord.gg/mgNR64R) to get support 
+  * Keep up to date with changes and report bugs, alternatively you can submit your request via a Github [issue tracker](https://github.com/RitaBot-Project/RitaBot/issues). *There is always someone that can help you.*

@@ -58,7 +58,7 @@ The fastes way to install the current node and npm versions (https://nodejs.org/
 It is recommend to install git and pull from your fork or main:
 * Install git: `sudo apt-get install git`
 * Create the folder for the source: `mkdir Rita`
-* Clone the repository: `git clone https://github.com/ZyC0R3/RitaBot.git`
+* Clone the repository: `git clone https://github.com/RitaBot-Project/RitaBot.git`
 * Checkout the branch you need: `git checkout --track origin/1.1.7`
 
 Alternative: move the source code with WinSCP from your local environment to the Pi.
@@ -73,7 +73,7 @@ Use WinSCP to copy your .env file from your local environment to the Pi.
 
 ### Step 9 - Run the code
 * Install gulp is installed: `sudo npm install -g gulp` (not sure if still necessary)
-* Make sure you are in the Rita folder
+* Make sure you are in the RITA folder
 * Get and install all packages of RITA: `npm install`
 * Build the code: `npm run-script build`
 * Start the bot: `npm run-script start`
@@ -101,7 +101,7 @@ Update method via command line, minimal GUI interface needed
       * The other and HIGHLY prefered method is to simply checkout the modifed files to avoid merge conflicts  (use "`git checkout -- . ` to discard changes all changes working directory)
         * Once you think you've gotten the branch back to `working tree clean` state by running `git status` one more time. You are ready to move on to Step 2
 * Step 2: Now just run the following commands in order
-  * `git remote add upstream https://github.com/ZyC0R3/RitaBot.git`
+  * `git remote add upstream https://github.com/RitaBot-Project/RitaBot.git`
   * `git fetch upstream`
   * `git checkout master`
   * `git rebase upstream/master`

@@ -20,11 +20,11 @@ toc: true
 # TZD = time zone designator (Z or +hh:mm or -hh:mm)
 ---
 
-Rita is an automatic translation bot built using `discord.js` and `Google Translate API`. With speed, efficiency, security and ease kept in mind, find the perfect guide for you below.
+RITA is an automatic translation bot built using `discord.js` and `Google Translate API`. With speed, efficiency, security and ease kept in mind, find the perfect guide for you below.
 
 ## Build Status and Bot Info
 
-Take a look at the current build Status of Rita, is she up to scratch [Click Here](/secure/)
+Take a look at the current build Status of RITA is she up to scratch [Click Here](/secure/)
 
 ## Features
 
@@ -50,7 +50,7 @@ Are you a little behind the curve, do you need to update your bot [Click Here](/
 
 ## C-3PO to RITA Bot Migration (EXPERIMENTAL)
 
-If you already have a Heroku Bot Using C-3P0 and want to change to Rita [Click Here](/migration/)
+If you already have a Heroku Bot Using C-3P0 and want to change to RITA [Click Here](/migration/)
 
 ## Heroku Database Support
 
@@ -78,11 +78,11 @@ Look no further for example commands [Click Here](/wiki/)
 
 ## Credits & License
 
-This project was originally released by Aziz under the MIT license. He chose to take the project private/commercial at version 0.4.2 Beta. Bobby Johnson forked the project and renamed it Louie after his dog. AlooAkbar forked Louie and added the necessary modifications for the simple and free deployment of the bot using Heroku. ZyC0R3 Picked up the fork and as part of a team fixed over 200 errors and brought it into the modern age, All would like to thank Aziz for his hard work and making these early versions OSS so that others may learn and build on his hard work to share with the community.
+This project was originally released by Aziz under the MIT license. He chose to take the project private/commercial at version 0.4.2 Beta. Bobby Johnson forked the project and renamed it Louie after his dog. AlooAkbar forked Louie and added the necessary modifications for the simple and free deployment of the bot using Heroku. RitaBot-Project Picked up the fork and as part of a team fixed over 200 errors and brought it into the modern age, All would like to thank Aziz for his hard work and making these early versions OSS so that others may learn and build on his hard work to share with the community.
 
 ## Design Team
 
-* Zycore / [ZyC0R3](https://github.com/ZyC0R3)
+* Zycore / [RitaBot-Project](https://github.com/RitaBot-Project)
 * Artanis / [ArtanisTheOne](https://github.com/ArtanisTheOne)
 * Lord Lazarus / [Jshep89](https://github.com/JShep89)
 * Z3US / [cyberlooper](https://github.com/cyberlooper)

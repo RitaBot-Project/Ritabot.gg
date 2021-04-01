@@ -7,8 +7,8 @@ header:
     - label: "Quick Start Guide"
       url: "/quick-start-guide/"
 excerpt: >
-  A Real-Time Interchangeable Translating Assistant, Rita, is a translation bot built using discord.js and Google Translate API.<br />
-  <small><a href="https://github.com/ZyC0R3/RitaBot/releases/tag/1.2.0">Latest release v1.2.0-3</a></small>
+  A Real-Time Interchangeable Translating Assistant, RITA is a translation bot built using discord.js and Google Translate API.<br />
+  <small><a href="https://github.com/RitaBot-Project/RitaBot/releases/tag/1.2.1">Latest release v1.2.1-12</a></small>
 feature_row:
   - image_path: /assets/images/2.jpg
     alt: "customizable"

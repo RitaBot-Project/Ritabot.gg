@@ -25,12 +25,12 @@ toc: true
 * You must have a bot already running on your server, if not then refer to [Setting up a New Bot Manually](/new-bot/)
 
 ### Step 2 - Fork this Repository 
-* Complete a Pull Request from the master Branch of ZyC0R3/Rita to your master branch
+* Complete a Pull Request from the master Branch of RitaBot-Project/RITA to your master branch
   * Detailed instructions with example can be found here: https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the-cli/
 
 --- OR ---
 * Simply Fork this repository if you have not done so already, or if you are updateing from the "Deploy to Heroku" method.
-  * Click [here](https://github.com/ZyC0R3/RitaBot/fork) or use the button in the upper righthand side of this page to fork the repository so that it will be associated with your Github account.
+  * Click [here](https://github.com/RitaBot-Project/RitaBot/fork) or use the button in the upper righthand side of this page to fork the repository so that it will be associated with your Github account.
 
 ### Step 3 - Deploy Update in Heroku
 * Log in to your Heroku account.

@@ -19,9 +19,9 @@ toc: true
 # ss = two digits of second (00 through 59)
 # TZD = time zone designator (Z or +hh:mm or -hh:mm)
 ---
-Rita is an automatic translation bot built using `discord.js` and `Google Translate API`.
+RITA is an automatic translation bot built using `discord.js` and `Google Translate API`.
 
-This Method does not need you to Fork this repository, you can run your bot straight off the Rita Master Branch. For update instructions click [here](/update/)
+This Method does not need you to Fork this repository, you can run your bot straight off the RITA Master Branch. For update instructions click [here](/update/)
 
 ## Deploy to Heroku.
 
@@ -37,7 +37,7 @@ This Method does not need you to Fork this repository, you can run your bot stra
 
 ### Step 2 - Deploy to Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Zyc0r3/RitaBot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/RitaBot-Project/RitaBot)
 
 * In the custom variable of **DISCORD_TOKEN** put in the copied token of your created bot.
 * **DO NOT CHANGE** the **NODE_MODULES_CACHE** Variable unless you know about Heroku Caching.

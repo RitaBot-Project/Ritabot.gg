@@ -28,7 +28,7 @@ toc: true
 1. You have an already up and running C-3P0 Bot.
 2. You are using Heroku to run the old version.
 3. Make sure you do not disable, reset or delete your database (preferably Postgres from Heroku)
-4. You have already completed a Pull Request from the master Branch of ZyC0R3/Rita to your master branch.
+4. You have already completed a Pull Request from the master Branch of RitaBot-Project/RITA to your master branch.
 
 ### Step 2 - Migrate
 * Go to Heroku and click your app of C-3PO, and locate the **Deploy** section. Scroll down until you see the current fork your C-3PO bot is running off of, next to it there should be a button saying **Disconnect**

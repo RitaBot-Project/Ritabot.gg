@@ -3,8 +3,8 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="RITA, Discord, Discord Translator, Best Discord Translator, Free Discord Translator, powerful translation bot, open source, open source translator, language translator discord, Discord Translation, Discord Translator Bot">
-    <meta name="description" content="Rita Discord Translator,  one of the most powerful open-source and free Discord Translation bots out there. Helping thousands of people cross the language barrier daily, make your Discord Translation Bot today. ">
+    <meta name="keywords" content="RITA Discord, Discord Translator, Best Discord Translator, Free Discord Translator, powerful translation bot, open source, open source translator, language translator discord, Discord Translation, Discord Translator Bot">
+    <meta name="description" content="RITA Discord Translator,  one of the most powerful open-source and free Discord Translation bots out there. Helping thousands of people cross the language barrier daily, make your Discord Translation Bot today. ">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <meta name="google-site-verification" content="A4ifm6blQ-yy-FDOU1oJRvGeNBHzdOyRiI4lEWZOv-k" />
     <title>Discord Translator - RITA</title>
@@ -513,7 +513,7 @@
 
     <meta property="og:title" content="Discord Translator - RITA">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="Rita Discord Translator,  one of the most powerful open-source and free Discord Translation bots out there. Helping thousands of people cross the language barrier daily, make your Discord Translation Bot today. ">
+    <meta property="og:description" content="RITA Discord Translator,  one of the most powerful open-source and free Discord Translation bots out there. Helping thousands of people cross the language barrier daily, make your Discord Translation Bot today. ">
     <meta name="theme-color" content="#b1363e">
     <link rel="canonical" href="https://ritabot.gg/">
     <meta property="og:url" content="https://ritabot.gg/">
@@ -529,7 +529,7 @@
   <body class="u-body u-overlap u-overlap-contrast u-overlap-transparent">
 <header class="u-clearfix u-header u-header" id="sec-80f3"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="https://ritabot.gg/" class="u-border-2 u-border-white u-image u-image-circle u-logo u-image-1" data-image-width="173" data-image-height="173" title="Logo">
-          <img src="https://camo.githubusercontent.com/f4347ebe1c014c0c0eb925518c4ca9b760c3fbd95c336ca0004e1cc6a137c6cc/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f594f3461307173645658334771336461724c2f67697068792e676966" class="u-logo-image u-logo-image-1" data-image-width="67.4616" alt="Discord Translator Bot | Rita Logo">
+          <img src="https://camo.githubusercontent.com/f4347ebe1c014c0c0eb925518c4ca9b760c3fbd95c336ca0004e1cc6a137c6cc/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f594f3461307173645658334771336461724c2f67697068792e676966" class="u-logo-image u-logo-image-1" data-image-width="67.4616" alt="Discord Translator Bot | RITA Logo">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1.25rem; letter-spacing: 0px;">
@@ -570,7 +570,7 @@
     <section class="u-align-left u-clearfix u-image u-shading u-section-2" src="" id="sec-b180" data-image-width="2520" data-image-height="1417">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-custom-font u-font-merriweather u-text u-title u-text-1" data-animation-name="flipIn" data-animation-duration="1750" data-animation-delay="0" data-animation-direction="X">RITA</h1>
-        <p class="u-large-text u-text u-text-variant u-text-2" data-animation-name="fadeIn" data-animation-duration="1250" data-animation-delay="0" data-animation-direction="Up">Rita is an open-source Discord Translation bot. Built using Google Translate API and Discord.js, Rita allows communication across the language barrier that many communities have. Rita is completely free, no costs of any kind associated with running the bot or translating.&nbsp;<br>
+        <p class="u-large-text u-text u-text-variant u-text-2" data-animation-name="fadeIn" data-animation-duration="1250" data-animation-delay="0" data-animation-direction="Up">RITA is an open-source Discord Translation bot. Built using Google Translate API and Discord.js, RITA allows communication across the language barrier that many communities have. RITA is completely free, no costs of any kind associated with running the bot or translating.&nbsp;<br>
           <br>Start your unlimited Translation Bot today!
         </p>
         <a href="/quick-start-guide/" class="u-border-3 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1">Start Now</a>
@@ -583,8 +583,8 @@
             <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
               <div class="u-container-layout u-container-layout-1">
                 <h1 class="u-text u-text-1">Git</h1>
-                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-variant u-text-2">Using Github to share Rita with the world. Check it out below!</p>
-                <a href="https://github.com/Zyc0r3/RitaBot.git" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1" target="_blank">Github</a>
+                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-variant u-text-2">Using Github to share RITA with the world. Check it out below!</p>
+                <a href="https://github.com/RitaBot-Project/RitaBot.git" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1" target="_blank">Github</a>
               </div>
             </div>
             <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
@@ -614,8 +614,8 @@
             <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-4">
               <div class="u-container-layout u-container-layout-4">
                 <h1 class="u-text u-text-7">Powerful</h1>
-                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-body-alt-color u-text-variant u-text-8">Using Discord.js and Google Translate, Rita is one of the most powerful free Discord Translation Bots in the world.</p>
-                <a href="https://github.com/Zyc0r3/google-translate-api" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-4" target="_blank">Check It Out</a>
+                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-body-alt-color u-text-variant u-text-8">Using Discord.js and Google Translate, RITA is one of the most powerful free Discord Translation Bots in the world.</p>
+                <a href="https://github.com/RitaBot-Project/google-translate-api" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-4" target="_blank">Check It Out</a>
               </div>
             </div>
           </div>
@@ -627,7 +627,7 @@
     
     
 <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-1c6a"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">© 2018-2021 ZyC0R3. Maintained by Zycore and Artanis</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">© 2018-2021 RitaBot-Project. Maintained by Zycore and Artanis</p>
       </div></footer>
   </body>
 </html>

@@ -10,7 +10,7 @@ toc: true
 
 ---
 
-Rita is a an automatic translation bot built using `discord.js` and `Google Translate API`. From our desktops to yours.  
+RITA is a an automatic translation bot built using `discord.js` and `Google Translate API`. From our desktops to yours.  
 
 ## Setting up a Bot Manually
 
@@ -18,13 +18,13 @@ Rita is a an automatic translation bot built using `discord.js` and `Google Tran
 
 ### Step 1 - Fork this repository
 * If you don't yet have a Github account, [create one](https://github.com/join)! It's free and easy.
-* Click [here](https://github.com/ZyC0R3/RitaBot/fork) or click the icon below to fork our project.
+* Click [here](https://github.com/RitaBot-Project/RitaBot/fork) or click the icon below to fork our project.
 
-  * <iframe src="https://ghbtns.com/github-btn.html?user=Zyc0r3&repo=RitaBot&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+  * <iframe src="https://ghbtns.com/github-btn.html?user=RitaBot-Project&repo=RitaBot&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
-* While you're at it we would greatly appreciate adding a **star** to our project to promote Rita in Github for others to benefit too. You can do that by clicking the icon below and then clicking the ***Star*** image in the top-right corner of the [repo](https://github.com/Zyc0r3/RitaBot).
+* While you're at it we would greatly appreciate adding a **star** to our project to promote RITA in Github for others to benefit too. You can do that by clicking the icon below and then clicking the ***Star*** image in the top-right corner of the [repo](https://github.com/RitaBot-Project/RitaBot).
   
-  * <iframe src="https://ghbtns.com/github-btn.html?user=Zyc0r3&repo=RitaBot&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+  * <iframe src="https://ghbtns.com/github-btn.html?user=RitaBot-Project&repo=RitaBot&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
 
 ### Step 2 - Create a new [Discord App](https://discordapp.com/developers/applications/me/create)

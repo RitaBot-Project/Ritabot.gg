@@ -27,7 +27,7 @@ RITA is not perfect and there are many places to make mistakes while setting up 
 
 ### RITA is unresponsive
 
-*Make sure you have [forked](https://github.com/Zyc0r3/RitaBot/fork) the repository and connected your Github account to Heroku "Deploy" section before proceeding*
+*Make sure you have [forked](https://github.com/RitaBot-Project/RitaBot/fork) the repository and connected your Github account to Heroku "Deploy" section before proceeding*
 
 * This occurs on the first deploy of the bot, no discernible reason has been found as to why.
   * Go to your [Heroku Page](https://heroku.com/):
