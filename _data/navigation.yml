@@ -1,0 +1,145 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Install RITA"
+    url: /new-bot/
+  - title: "About Us"
+    url: /about/
+  - title: "Wiki"
+    url: /wiki/
+  - title: "Common Issues"
+    url: /common-issues/
+  - title: "Support"
+    url: /support/
+
+# documentation links
+docs:
+  - title: "Build Status & Info"
+    url: /secure/
+  - title: "Whats New 1.2.1"
+    url: /whats-new/
+  - title: "Donate"
+    url: /donate/
+  - title: "Usage, Commands & Settings"
+    children:
+      - title: "Usage"
+        url: /usage/
+      - title: "Translate Channel Automatic"
+        url: /trans-auto/
+      - title: "Translate by Reacting"
+        url: /trans-reac/
+      - title: "Translate Last Message"
+        url: /trans-last/
+      - title: "Translate Custom Message"
+        url: /trans-cust/
+      - title: "Settings"
+        url: /trans-sett/
+      - title: "Misc. Commands"
+        url: /trans-misc/
+
+  - title: "Deploy to Heroku"
+    url: /deploy/
+    children:
+      - title: "1. Create"
+        url: /deploy/#step-1---create-a-new-discord-app
+      - title: "2. Build"
+        url: /deploy/#step-2---deploy-to-heroku
+      - title: "3. Invite"
+        url: /deploy/#step-3---invite-your-bot-to-your-server-and-configure-it
+        
+  - title: "Setting up a New Bot"
+    url: /new-bot/
+    children:
+      - title: "1. Fork"
+        url: /new-bot/#step-1---fork-this-repository
+      - title: "2. Create"
+        url: /new-bot/#step-2---create-a-new-discord-app
+      - title: "3. Build"
+        url: /new-bot/#step-3---create-a-heroku-account
+      - title: "4. Invite"
+        url: /new-bot/#step-4---invite-your-bot-to-your-server-and-configure-it
+
+  - title: "How to Update"
+    url: /update/
+    children:
+      - title: "1. Checklist"
+        url: /update/#step-1---checklist
+      - title: "2. Fork"
+        url: /update/#step-2---fork-this-repository
+      - title: "3. Deploy"
+        url: /update/#step-3---deploy-update-in-heroku
+      - title: "4. Updating Database"
+        url: /update/#step-4---updating-database
+
+  - title: "C-3PO to RITA Bot Migration"
+    url: /migration/
+    children:
+      - title: "1. Checklist"
+        url: /migration/#step-1---checklist
+      - title: "2. Migrate"
+        url: /migration/#step-2---migrate
+
+  - title: "Heroku Database Support"
+    url: /dbsupport/
+    children:
+      - title: "1. Checklist"
+        url: /dbsupport/#step-1---checklist
+      - title: "2. Connect"
+        url: /dbsupport/#step-2---connect
+
+  - title: "Local Installation Support"
+    url: /local/
+    children:
+      - title: "1. Local db"
+        url: /local/#step-1---create-a-local-db
+      - title: "2. .env File"
+        url: /local/#step-2---create-a-new-.env-file
+      - title: "3. Install nodejs"
+        url: /local/#step-3---install-nodejs
+      - title: "4. Start Bot"
+        url: /local/#step-4---run-and-start-the-bot
+      - title: "5. Configure Bot"
+        url: /local/#step-5---configure-bot
+
+  - title: "Setup on a Raspberry Pi"
+    url: /raspberry-pi/
+    children:
+      - title: "1. Write to SD card"
+        url: /raspberry-pi/#step-1---write-to-sd-card
+      - title: "2. Enable SSH"
+        url: /raspberry-pi/#step-2---enable-ssh
+      - title: "3. Start and Login"
+        url: /raspberry-pi/#step-3---start-and-login
+      - title: "4. Initial Setup"
+        url: /raspberry-pi/#step-4---initial-setup
+      - title: "5. Install node and npm"
+        url: /raspberry-pi/#step-5---install-node-and-npm
+      - title: "6. Get the code"
+        url: /raspberry-pi/#step-6---get-the-code
+      - title: "7. Install the db"
+        url: /raspberry-pi/#step-7---install-the-db
+      - title: "8. Copy your .env"
+        url: /raspberry-pi/#step-8---copy-your-.env
+      - title: "9. Run the code"
+        url: /raspberry-pi/#step-9---run-the-code
+      - title: "10. Autostart"
+        url: /raspberry-pi/#step-10---autostart
+      - title: "11. Update"
+        url: /raspberry-pi/#step-11---updating-the-bot
+
+  - title: "Troubleshooting"
+    children:
+    - title: "Webhook Log"
+      url: /troubleshooting/
+    - title: "Common Issues"
+      url: /common-issues/
+
+  - title: "License"
+    url: /license/
+
+  - title: About Rita
+    url: /about/
+
+  - title: Support
+    url: /support/

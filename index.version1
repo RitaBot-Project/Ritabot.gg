@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="RITA, Discord, Discord Translator, Best Discord Translator, Free Discord Translator, powerful translation bot, open source, open source translator, language translator discord, Discord Translation, Discord Translator Bot">
+    <meta name="description" content="Rita Discord Translator,  one of the most powerful open-source and free Discord Translation bots out there. Helping thousands of people cross the language barrier daily, make your Discord Translation Bot today. ">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <meta name="google-site-verification" content="A4ifm6blQ-yy-FDOU1oJRvGeNBHzdOyRiI4lEWZOv-k" />
+    <title>Discord Translator - RITA</title>
+    <link rel="stylesheet" href="/index/page.css" media="screen">
+    <script class="u-script" type="text/javascript" src="/index/jquery-1.9.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="/index/page.js" defer=""></script>
+    <link rel="canonical" href="https://ritabot.gg/">
+    <link rel="icon" href="/index/images/favicon.png">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,990i|Ubuntu:300,300i,400,400i,500,500i,700,700i">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDKDENQV5L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZDKDENQV5L');
+</script>
+    <style class="u-style">.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+.u-section-2 .u-sheet-1 {
+  min-height: 866px;
+}
+.u-section-2 .u-text-1 {
+  animation-duration: 1750ms;
+  margin: 241px 960px 0 0;
+}
+.u-section-2 .u-text-2 {
+  animation-duration: 1250ms;
+  margin: 33px 248px 0 14px;
+}
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  margin: 37px auto 60px 18px;
+}
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 714px;
+  }
+  .u-section-2 .u-text-1 {
+    margin-right: 760px;
+  }
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 62px;
+  }
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 903px;
+  }
+  .u-section-2 .u-text-1 {
+    margin-right: 540px;
+  }
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+  .u-section-2 .u-btn-1 {
+    margin-top: 48px;
+  }
+}
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 677px;
+  }
+  .u-section-2 .u-text-1 {
+    margin-right: 360px;
+  }
+}
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 911px;
+  }
+  .u-section-2 .u-text-1 {
+    margin-right: 160px;
+  }
+}</style>
+    <style class="u-style">.u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://i.pinimg.com/originals/d4/ac/d8/d4acd879c28c1ca116846c1ab6170b59.jpg");
+  min-height: 882px;
+}
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 485px;
+  margin-bottom: 0;
+}
+.u-section-3 .u-layout-cell-1 {
+  min-height: 400px;
+}
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+.u-section-3 .u-text-1 {
+  text-transform: none;
+  margin: 27px 340px 0 121px;
+}
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 13px 102px 0 121px;
+}
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  font-size: 1.125rem;
+  margin: 27px auto 0 133px;
+}
+.u-section-3 .u-layout-cell-2 {
+  min-height: 404px;
+}
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+.u-section-3 .u-text-3 {
+  text-transform: none;
+  margin: 20px 181px 0 0;
+}
+.u-section-3 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 13px 181px 0 0;
+}
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0 13px;
+}
+.u-section-3 .u-layout-wrap-2 {
+  width: 1286px;
+  margin: -779px 0 60px auto;
+}
+.u-section-3 .u-layout-cell-3 {
+  min-height: 428px;
+}
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+.u-section-3 .u-text-5 {
+  text-transform: none;
+  margin: 13px 306px 0 89px;
+}
+.u-section-3 .u-text-6 {
+  font-size: 1.25rem;
+  margin: -48px 69px 0 89px;
+}
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  border-style: solid;
+  margin: 13px auto 0 104px;
+}
+.u-section-3 .u-layout-cell-4 {
+  min-height: 428px;
+}
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+.u-section-3 .u-text-7 {
+  text-transform: none;
+  margin: 13px 220px 0 20px;
+}
+.u-section-3 .u-text-8 {
+  font-size: 1.25rem;
+  margin: 13px 89px 0 20px;
+}
+.u-section-3 .u-btn-4 {
+  background-image: none;
+  border-style: solid;
+  margin: 12px auto 0 20px;
+}
+@media (max-width: 1199px) {
+  .u-section-3 {
+    min-height: 839px;
+  }
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 435px;
+  }
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 334px;
+  }
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-right: 157px;
+  }
+  .u-section-3 .u-text-2 {
+    width: auto;
+  }
+  .u-section-3 .u-btn-1 {
+    margin-top: 23px;
+    margin-left: 148px;
+  }
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 334px;
+  }
+  .u-section-3 .u-text-3 {
+    margin-right: 81px;
+  }
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin-top: 12px;
+    margin-right: 84px;
+    margin-left: 3px;
+  }
+  .u-section-3 .u-btn-2 {
+    margin-top: 8px;
+    margin-left: 12px;
+  }
+  .u-section-3 .u-layout-wrap-2 {
+    margin-top: -776px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 456px;
+  }
+  .u-section-3 .u-text-5 {
+    width: auto;
+    margin-top: 60px;
+    margin-right: 159px;
+    margin-left: 121px;
+  }
+  .u-section-3 .u-text-6 {
+    width: auto;
+    margin-top: -45px;
+    margin-right: 103px;
+    margin-left: 121px;
+  }
+  .u-section-3 .u-btn-3 {
+    margin-top: 12px;
+    margin-left: 140px;
+  }
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 456px;
+  }
+  .u-section-3 .u-text-7 {
+    width: auto;
+    margin-top: 56px;
+    margin-right: 105px;
+    margin-left: 12px;
+  }
+  .u-section-3 .u-text-8 {
+    width: auto;
+    margin-top: 20px;
+    margin-right: 81px;
+    margin-left: 15px;
+  }
+  .u-section-3 .u-btn-4 {
+    margin-left: 0;
+  }
+}
+@media (max-width: 991px) {
+  .u-section-3 {
+    min-height: 863px;
+  }
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 348px;
+  }
+  .u-section-3 .u-text-1 {
+    margin-top: 34px;
+    margin-right: 107px;
+    margin-left: 55px;
+  }
+  .u-section-3 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 47px;
+    margin-left: 66px;
+  }
+  .u-section-3 .u-btn-1 {
+    margin-top: 8px;
+    margin-left: 85px;
+  }
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 348px;
+  }
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+  }
+  .u-section-3 .u-text-4 {
+    margin-top: 20px;
+    margin-right: 12px;
+    margin-left: 0;
+  }
+  .u-section-3 .u-btn-2 {
+    margin-top: 23px;
+    margin-left: 21px;
+  }
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+  .u-section-3 .u-text-5 {
+    margin-top: 91px;
+    margin-right: calc(((100% - 720px) / 2) + 300px);
+    margin-left: calc(((100% - 720px) / 2) + 240px);
+  }
+  .u-section-3 .u-text-6 {
+    margin-top: -36px;
+    margin-right: calc(((100% - 720px) / 2) + 215px);
+    margin-left: calc(((100% - 720px) / 2) + 254px);
+  }
+  .u-section-3 .u-btn-3 {
+    width: 143px;
+    margin-top: 31px;
+    margin-right: calc(((100% - 720px) / 2) + 281px);
+    margin-left: auto;
+  }
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 420px;
+  }
+  .u-section-3 .u-text-7 {
+    margin-top: 91px;
+    margin-right: 7px;
+    margin-left: 0;
+  }
+  .u-section-3 .u-text-8 {
+    margin-top: 30px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .u-section-3 .u-btn-4 {
+    margin-top: 31px;
+  }
+}
+@media (max-width: 767px) {
+  .u-section-3 {
+    min-height: 1288px;
+  }
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 578px;
+  }
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 287px;
+  }
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-3 .u-text-1 {
+    margin-top: 20px;
+    margin-right: 133px;
+    margin-left: 78px;
+  }
+  .u-section-3 .u-text-2 {
+    margin-top: 34px;
+  }
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 300px;
+  }
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-3 .u-text-3 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 319px;
+    margin-left: 66px;
+  }
+  .u-section-3 .u-text-4 {
+    margin-top: 30px;
+    margin-right: 136px;
+    margin-left: 66px;
+  }
+  .u-section-3 .u-btn-2 {
+    margin-top: 18px;
+    margin-left: 78px;
+  }
+  .u-section-3 .u-layout-wrap-2 {
+    margin-top: -1171px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 334px;
+  }
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-3 .u-text-5 {
+    margin-top: 27px;
+    margin-right: 393px;
+    margin-left: 78px;
+  }
+  .u-section-3 .u-text-6 {
+    margin-top: -42px;
+    margin-right: 269px;
+    margin-left: 66px;
+  }
+  .u-section-3 .u-btn-3 {
+    margin-top: 18px;
+    margin-right: auto;
+    margin-left: 85px;
+  }
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 250px;
+  }
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-3 .u-text-7 {
+    margin-top: -11px;
+    margin-right: 199px;
+    margin-left: 78px;
+  }
+  .u-section-3 .u-text-8 {
+    margin-top: 9px;
+    margin-right: 47px;
+    margin-left: 66px;
+  }
+  .u-section-3 .u-btn-4 {
+    margin-top: 18px;
+    margin-left: 86px;
+    padding: 10px 30px 11px;
+  }
+}
+@media (max-width: 575px) {
+  .u-section-3 {
+    min-height: 1014px;
+  }
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 524px;
+  }
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 238px;
+  }
+  .u-section-3 .u-container-layout-1 {
+    padding-top: 14px;
+  }
+  .u-section-3 .u-text-1 {
+    margin-top: 34px;
+    margin-right: 81px;
+    margin-left: 46px;
+  }
+  .u-section-3 .u-text-2 {
+    margin-top: 7px;
+    margin-right: 67px;
+    margin-left: 46px;
+  }
+  .u-section-3 .u-btn-1 {
+    margin-top: 18px;
+    margin-bottom: -17px;
+    margin-left: 62px;
+  }
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+  .u-section-3 .u-text-3 {
+    margin-right: 185px;
+    margin-left: 0;
+  }
+  .u-section-3 .u-text-4 {
+    margin-top: 25px;
+    margin-right: 73px;
+    margin-left: 40px;
+  }
+  .u-section-3 .u-btn-2 {
+    margin-left: 27px;
+  }
+  .u-section-3 .u-layout-wrap-2 {
+    margin-top: -1014px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 359px;
+  }
+  .u-section-3 .u-text-5 {
+    margin-top: 0;
+    margin-right: 225px;
+    margin-left: 76px;
+  }
+  .u-section-3 .u-text-6 {
+    margin-top: -25px;
+    margin-right: 115px;
+    margin-left: 65px;
+  }
+  .u-section-3 .u-btn-3 {
+    margin-top: 16px;
+    margin-left: 76px;
+  }
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 204px;
+  }
+  .u-section-3 .u-text-7 {
+    margin-top: -97px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: 40px;
+  }
+  .u-section-3 .u-text-8 {
+    margin-top: 28px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .u-section-3 .u-btn-4 {
+    margin-top: 0;
+    margin-bottom: -1px;
+    margin-left: 62px;
+  }
+}</style>
+    
+
+    <meta property="og:title" content="Discord Translator - RITA">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Rita Discord Translator,  one of the most powerful open-source and free Discord Translation bots out there. Helping thousands of people cross the language barrier daily, make your Discord Translation Bot today. ">
+    <meta name="theme-color" content="#b1363e">
+    <link rel="canonical" href="https://ritabot.gg/">
+    <meta property="og:url" content="https://ritabot.gg/">
+  
+<!-- Google Analytics --> 
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179123801-1"></script>
+ <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "UA-179123801-1");
+</script></head>
+  <body class="u-body u-overlap u-overlap-contrast u-overlap-transparent">
+<header class="u-clearfix u-header u-header" id="sec-80f3"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://ritabot.gg/" class="u-border-2 u-border-white u-image u-image-circle u-logo u-image-1" data-image-width="173" data-image-height="173" title="Logo">
+          <img src="https://camo.githubusercontent.com/f4347ebe1c014c0c0eb925518c4ca9b760c3fbd95c336ca0004e1cc6a137c6cc/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f594f3461307173645658334771336461724c2f67697068792e676966" class="u-logo-image u-logo-image-1" data-image-width="67.4616" alt="Discord Translator Bot | Rita Logo">
+        </a>
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1.25rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg><use xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-3 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="/" style="padding: 6px 16px;">Home</a>
+<div class="u-nav-popup fake u-hidden">               <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-nav-link">Menu Item 1</a></li><li class="u-nav-item"><a class="u-nav-link">Menu Item 2</a></li><li class="u-nav-item"><a class="u-nav-link">Menu Item 3</a></li>               </ul>           </div></li><li class="u-nav-item"><a class="u-border-3 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="/new-bot/" style="padding: 6px 16px;">Install RITA</a>
+</li><li class="u-nav-item"><a class="u-border-3 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="/common-issues" style="padding: 6px 16px;">Common Issues</a>
+</li><li class="u-nav-item"><a class="u-border-3 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="/support/" style="padding: 6px 16px;">Support</a>
+</li><li class="u-nav-item"><a class="u-border-3 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="/wiki/" style="padding: 6px 16px;">Wiki</a>
+</li><li class="u-nav-item"><a class="u-border-3 u-border-active-white u-border-hover-white u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="/about/" style="padding: 6px 16px;">About</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/" style="padding: 6px 16px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/new-bot/" style="padding: 6px 16px;">Install RITA</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/common-issues" style="padding: 6px 16px;">Common Issues</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/support/" style="padding: 6px 16px;">Support</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/wiki/" style="padding: 6px 16px;">Wiki</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/about/" style="padding: 6px 16px;">About</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    
+    <section class="u-align-left u-clearfix u-image u-shading u-section-2" src="" id="sec-b180" data-image-width="2520" data-image-height="1417">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-custom-font u-font-merriweather u-text u-title u-text-1" data-animation-name="flipIn" data-animation-duration="1750" data-animation-delay="0" data-animation-direction="X">RITA</h1>
+        <p class="u-large-text u-text u-text-variant u-text-2" data-animation-name="fadeIn" data-animation-duration="1250" data-animation-delay="0" data-animation-direction="Up">Rita is an open-source Discord Translation bot. Built using Google Translate API and Discord.js, Rita allows communication across the language barrier that many communities have. Rita is completely free, no costs of any kind associated with running the bot or translating.&nbsp;<br>
+          <br>Start your unlimited Translation Bot today!
+        </p>
+        <a href="/quick-start-guide/" class="u-border-3 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1">Start Now</a>
+      </div>
+    </section>
+    <section class="u-align-left u-clearfix u-image u-shading u-section-3" src="" id="Resources" data-image-width="1600" data-image-height="1000">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout u-container-layout-1">
+                <h1 class="u-text u-text-1">Git</h1>
+                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-variant u-text-2">Using Github to share Rita with the world. Check it out below!</p>
+                <a href="https://github.com/Zyc0r3/RitaBot.git" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1" target="_blank">Github</a>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
+              <div class="u-container-layout u-container-layout-2">
+                <h1 class="u-text u-text-3">Support</h1>
+                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-variant u-text-4">&nbsp;Need someone to help you with something? Join our Discord!</p>
+                <a href="https://discord.gg/mgNR64R" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-2" target="_blank">Discord</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-layout-wrap u-layout-wrap-2">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-3">
+              <div class="u-container-layout u-container-layout-3">
+                <h1 class="u-text u-text-5">
+                  <font class="u-text-body-alt-color">Free<br>
+                  </font>
+                  <br>
+                </h1>
+                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-body-alt-color u-text-variant u-text-6">100% Free, No costs whatsoever. Completely open-source for everyone.</p>
+                <a href="/about/" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-3">About Us</a>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-4">
+              <div class="u-container-layout u-container-layout-4">
+                <h1 class="u-text u-text-7">Powerful</h1>
+                <p class="u-custom-font u-font-ubuntu u-large-text u-text u-text-body-alt-color u-text-variant u-text-8">Using Discord.js and Google Translate, Rita is one of the most powerful free Discord Translation Bots in the world.</p>
+                <a href="https://github.com/Zyc0r3/google-translate-api" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-4" target="_blank">Check It Out</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <style class="u-overlap-style">.u-overlap:not(.u-sticky-scroll) .u-header {
+}</style>
+    
+    
+<footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-1c6a"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">© 2018-2021 ZyC0R3. Maintained by Zycore and Artanis</p>
+      </div></footer>
+  </body>
+</html>
