@@ -1,3 +1,13 @@
+---
+title: "RitaBot Trial"
+permalink: /trial/
+excerpt: ""
+last_modified_at: 2020-03-10T14:00:00+01:00   #Please Update, The +00:00 is the Time Zone difference
+
+toc: true
+---
+
+
 ## Discord Bot Trial
 
 Thank you for taking part in our bot trial of a main-stream RitaBot. Usually Rita is a self-hosted bot but we might be bringing her out soon 😉. By using her you are helping us "stress-test" her. RitaBot is an [open-source discord bot translation project](https://github.com/RitaBot-Project/RitaBot) which is completely open-source & free.
