@@ -49,5 +49,5 @@ This Method does not need you to Fork this repository, you can run your bot stra
 
 * Replace the CLIENTID string in the following URL with your own apps client id from Step 2: https://discordapp.com/oauth2/authorize?&client_id=CLIENTID&scope=bot&permissions=8
 * Visit the resulting URL and add your bot to any server where you have admin privileges.
-* Once added, your bot should show up more or less instantaneously. Type `!t help` within the discord chat for more details on how to use it. Happy translating!
+* Once added, your bot should show up more or less instantaneously. Type `!tr help` within the discord chat for more details on how to use it. Happy translating!
 

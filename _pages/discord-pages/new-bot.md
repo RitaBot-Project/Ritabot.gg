@@ -62,7 +62,7 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
 * Visit the resulting URL and add your bot to any server where you have admin privileges.
 
 ### Step 5 - Redeploy your bot
-* Go back to [Heroku](https://heroku.com/) and go to the "Deploy" Section of your Heroku Application. Scroll down to 'Manual Deploy' and click deploy for the **master** branch. Once deployed type in the chat `!t help` and then `!t embed on` or `!t embed off`. Then translate away ;)
+* Go back to [Heroku](https://heroku.com/) and go to the "Deploy" Section of your Heroku Application. Scroll down to 'Manual Deploy' and click deploy for the **master** branch. Once deployed type in the chat `!tr help` and then `!tr embed on` or `!tr embed off`. Then translate away ;)
 
 
 

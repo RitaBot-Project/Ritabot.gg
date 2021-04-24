@@ -22,7 +22,7 @@ toc: true
 
 **Important Note**
 
-* The bot's default prefix is `!t` or `!translate` - All commands must start with this prefix for the bot to process them.
+* The bot's default prefix is `!tr` or `!translate` - All commands must start with this prefix for the bot to process them.
 
 * Your bot must have a set of permissions for it to function correctly. Here are the permissions your bot requires to function:
   * Read Permission

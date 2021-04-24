@@ -37,7 +37,7 @@ toc: true
 
 ## Prefix and Commands
 
-The bot's default prefix is `!t`, or `!translate ` - All commands must start with this prefix for the bot to process them.
+The bot's default prefix is `!tr`, or `!translate ` - All commands must start with this prefix for the bot to process them.
 
 
 ### Command structure
@@ -52,7 +52,7 @@ The bot's default prefix is `!t`, or `!translate ` - All commands must start wit
 !translate help modules
 ```
 ```c++
-!t help modules
+!tr help modules
 ```
 ```c++
 @Translator help modules

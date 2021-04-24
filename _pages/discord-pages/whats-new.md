@@ -22,7 +22,7 @@ toc: true
 
 **Important Note**
 
-*The bot's default prefix is !t (or !translate) - however this can be changed by the user.
+*The bot's default prefix is !tr (or !translate) - however this can be changed by the user.
 Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).*
 
 ----
@@ -33,13 +33,13 @@ Bot must have proper permissions in all relevant channels for full functionality
   * `embed`: This command allows you to change the type of message that is sent to the translation channel, in embedded format or standard text. Standard text shows the users avatar and name instead of the bot.
   * `bot2bot`: This allows for messages sent from other bots, in non embedded format to be translated as well. (Due to limitations this has been implimented but is **disabled** for now)
   * `updatedb`: As the new variables above are stored in the DB, they need new Columns to be added to function, as such `updatedb` will complete these actions.
-  * `!t settings updatebot` Has been **Modified** - This is not needed as of yet and with the similarities to the `!t settings updatedb` command, it may cause accidental issues.
+  * `!tr settings updatebot` Has been **Modified** - This is not needed as of yet and with the similarities to the `!tr settings updatedb` command, it may cause accidental issues.
   
 ### Code changes
 * Major code changes, new code implementations will change the DB and produce errors on first build, but this is a safe version to update to. Follow the below instructions to fix the DB.
   * Step 1: Make a pull request and update from **Master** branch. 
     * Once you update the bot and it initializes you WILL get a DB error, this is normal. (we are working on suppressing these)
-  * Step 2: `!t settings updatedb`
+  * Step 2: `!tr settings updatedb`
     * This will throw another error but it will build the missing columns.
     * The default value for `embed` is **on** and `bot2bot` is **off**.
     * Running this multiple times will cause errors to be posted to webhook channel, this will be a "Value exists" error. This is intended to prevent you from destroying the DB

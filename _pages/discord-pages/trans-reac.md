@@ -22,7 +22,7 @@ toc: true
 
 **Important Note**
 
-*The bot's default prefix is !t (or !translate) - All commands must start with this prefix for the bot to process them.
+*The bot's default prefix is !tr (or !translate) - All commands must start with this prefix for the bot to process them.
 Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).*
 
 *Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**.*

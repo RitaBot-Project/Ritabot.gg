@@ -18,9 +18,9 @@ RITA is not perfect and there are many places to make mistakes while setting up 
 
 * This occurs when you invited the bot to the Discord Server before it was online and the `embedvalue` is not saving correctly.
   * Go to Discord and run these commands in order:
-    * `!t settings dbfix`
-    * `!t settings updatedb`
-    * `!t embed on` or `!t embed off`
+    * `!tr settings dbfix`
+    * `!tr settings updatedb`
+    * `!tr embed on` or `!tr embed off`
 
 * Once the commands have been sent the bot should not stop translations anymore and shall only send one message every 24 hours regarding the bot restart.
        
@@ -35,7 +35,7 @@ RITA is not perfect and there are many places to make mistakes while setting up 
     * Scroll down to the "Manual Deploy."
     * Deploy the *master* branch.
 
-* Your bot will now be working once finished deploying and then type in `!t embed on` or `!t embed off` (They are two different translation styles!) to finish setting up the bot for translation.
+* Your bot will now be working once finished deploying and then type in `!tr embed on` or `!tr embed off` (They are two different translation styles!) to finish setting up the bot for translation.
     
 
 
@@ -43,9 +43,9 @@ RITA is not perfect and there are many places to make mistakes while setting up 
 
 * This occurs when you have no `embedvalue` in your database, either you have not typed it in/set it or it has not saved correctly.
   * Go to Discord and send the following commands:
-    * `!t settings dbfix`
-    * `!t settings updatedb`
-    * `!t embed on` or `!t embed off`
+    * `!tr settings dbfix`
+    * `!tr settings updatedb`
+    * `!tr embed on` or `!tr embed off`
 
 * Your bot should now translate and `embedvalue` and/or your server has been entered into your database and correctly saved.
 
@@ -54,7 +54,7 @@ RITA is not perfect and there are many places to make mistakes while setting up 
 
 * This appears because your bot entered the server before it was online or operational. 
   * Go to Discord and send the following commands:
-    * `!t settings dbfix`
+    * `!tr settings dbfix`
    
 * Your bot has now updated the database to correspond to the servers it is in. Please note that if you had this error you may need to go through the [following entry](https://ritabot.gg/common-issues/#translation-stops-every-24-hours-or-so).
 

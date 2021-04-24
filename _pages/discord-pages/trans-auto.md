@@ -131,6 +131,6 @@ Stop all automatic translations for specific user in server
 **`[lang]`** values can be language names in English, native language names or ISO 639-1 codes. For example, **`german`** **`de`** and **`deutsch`** will all work the same.
 
 * Messages by all bots are currently ignored to avoid loops, but we are working on different bot modes to enable bot translation.
-    * Any message that begins with `!t` or `!translate` will be determined to be a bot command and thus shall not be allowed to be translated.  
+    * Any message that begins with `!tr` or `!translate` will be determined to be a bot command and thus shall not be allowed to be translated.  
 
 **If you have a community of many languages it would be suggested to create language roles and only give those roles access to view their language channels, blocking @everyone from viewing but allowing @Language Role to view, to tidy up the server and stop users from receiving notifications from languages they dont speak.**

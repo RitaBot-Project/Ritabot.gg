@@ -109,4 +109,4 @@ Update method via command line, minimal GUI interface needed
     * enter your username and password from your Github account that's linked to the bot to complete the `git push`
   * Restart your stopped Web Dyno on the Heroku website.
   * Go to `Depploy` page on your Heroku app overview, scroll to the bottom and click `Deploy Branch` at the bottom in the Manual Deploy section.
-* Congrats update to new bot is complete. You can verify the update by checking the version of the bot after it finishes rebooting with the trusty `!t stats` command
+* Congrats update to new bot is complete. You can verify the update by checking the version of the bot after it finishes rebooting with the trusty `!tr stats` command

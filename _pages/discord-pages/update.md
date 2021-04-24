@@ -41,6 +41,6 @@ toc: true
 
 * You will need to run three commands for your database to be updated to the new versions needs. Your bot shall not function until all of these have been run.
 * Please run the following commands in consecutive order: 
-  * **`!t settings updatedb`**
-  * **`!t settings dbfix`**
-  * **`!t embed on/off`** (you can decide which way to send messages and change this value at any time).
+  * **`!tr settings updatedb`**
+  * **`!tr settings dbfix`**
+  * **`!tr embed on/off`** (you can decide which way to send messages and change this value at any time).

@@ -22,7 +22,7 @@ toc: true
 
 **Important Note**
 
-*The bot's default prefix is !t (or !translate) - All commands must start with this prefix for the bot to process them.
+*The bot's default prefix is !tr (or !translate) - All commands must start with this prefix for the bot to process them.
 Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).*
 
 *Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**.*
@@ -34,8 +34,8 @@ A chain is a collection of messages by the same author, to keep things simple.
 
 # Commands
 ```c++
-> !t last
-> !t last [n] to [lang] from [lang]
+> !tr last
+> !tr last [n] to [lang] from [lang]
 ```  
 
 # Parameters
@@ -51,8 +51,8 @@ A chain is a collection of messages by the same author, to keep things simple.
 
 # Examples
 ```c++
-> !t last 2
-> !t last to english  
-> !t last to english, german, french
-> !t last -6 to english from german
+> !tr last 2
+> !tr last to english  
+> !tr last to english, german, french
+> !tr last -6 to english from german
 ```

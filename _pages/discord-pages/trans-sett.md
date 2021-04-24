@@ -22,7 +22,7 @@ toc: true
 
 **Important Note**
 
-*The bot's default prefix is !t (or !translate) - All commands must start with this prefix for the bot to process them.
+*The bot's default prefix is !tr (or !translate) - All commands must start with this prefix for the bot to process them.
 Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).*
 
 *Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**.*
@@ -34,11 +34,11 @@ Bot must have proper permissions in all relevant channels for full functionality
 # Set default server language
 This changes the default Language of the server.
 ```c++
-> !t settings setLang to [lang]
+> !tr settings setLang to [lang]
 ```
 
 # Disconnect bot from server
 **DO NOT USE** unless you really need to.
 ```c++
-> !t settings disconnect
+> !tr settings disconnect
 ```

@@ -38,7 +38,7 @@ Take a look at the current build Status of RITA is she up to scratch [Click Here
 ## Usage
 
 * Create your own with the instructions below.
-* Write `!translate help` or `!t help` and `!t help modules` for a list of commands.
+* Write `!translate help` or `!tr help` and `!tr help modules` for a list of commands.
 
 ## Setting up a New Bot (RECOMMENDED)
 

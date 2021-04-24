@@ -21,7 +21,7 @@ toc: true
 ---
 **Important Note**
 
-* The bot's default prefix is `!t` or `!translate` - All commands must start with this prefix for the bot to process them.
+* The bot's default prefix is `!tr` or `!translate` - All commands must start with this prefix for the bot to process them.
 
 * Your bot must have a set of permissions for it to function correctly. Here are the permissions your bot requires to function:
   * Read Permission
@@ -40,8 +40,8 @@ Translates a custom message entered by user.
 
 # Command
 ```c++
-> !t this: [msg]   <----- translates to default server language  
-> !t this to [lang]: [msg] <----- detects language and translates to your to langugae
+> !tr this: [msg]   <----- translates to default server language  
+> !tr this to [lang]: [msg] <----- detects language and translates to your to langugae
 ```
 
 # Parameters
@@ -53,8 +53,8 @@ Translates a custom message entered by user.
 
 # Examples
 ```c++
-> !t this: bonjour  
-> !t this to spanish: hello world  
-> !t this to arabic, hebrew: I love you  
-> !t this to de from en: how are you?
+> !tr this: bonjour  
+> !tr this to spanish: hello world  
+> !tr this to arabic, hebrew: I love you  
+> !tr this to de from en: how are you?
 ```
