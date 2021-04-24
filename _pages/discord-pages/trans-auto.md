@@ -22,7 +22,7 @@ toc: true
 
 **Important Note**
 
-* The bot's default prefix is `!t` or `!translate` - All commands must start with this prefix for the bot to process them.
+* The bot's default prefix is `!tr` or `!translate` - All commands must start with this prefix for the bot to process them.
 
 * Please also note that the brackets \[ ] are not intended to be in commands. They are only there for illustrative purposes to help you understand how to send a command. If you put a bracket in a command it will not work.
 
@@ -63,7 +63,7 @@ The language to translate from.
 # Examples  
 Using full language names
 ```c++
-> !t channel from english to spanish for #target-channel
+> !tr channel from english to spanish for #target-channel
 ```
 
 Using language short codes
