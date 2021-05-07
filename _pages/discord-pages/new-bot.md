@@ -31,10 +31,12 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
 * Give your app the name you would like your bot to be then click **Create App**
   * *I like the name **C-3PO**, but feel free to pick something different if you fear George Lucas's wrath.*
 * Copy the **CLIENT ID** of your bot, you will need it later
+ ![](../../assets/images/Client_ID.png)
 * Scroll down to the **Bot** section
 * Click the **Create a Bot User** button
 * Click the **Yes, do it!** button
 * Copy the bot's **TOKEN**, you will need it later
+![](../../assets/images/Token_ID.png)
     * **CLIENT ID** will be a string of numbers while your bots **TOKEN** will be a huge mix of letters and numbers.
 
 
@@ -47,6 +49,7 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
 * Scroll down to the manual deploy section, and make sure the **master** branch is selected. Click deploy branch, and wait for the successfully deployed message.
 * Go to the **Resources** tab and look for the addons section. Search 'Heroku Postgres', and add 'Hobby Dev - Free' version of Heroku Postgres. This will be automatically attached as your bot's database.
 * Go to the **Settings** tab. Click to reveal Config Variables, then add then add the following:
+![](../../assets/images/Config_vars.png)
   * **KEY:** =  DISCORD_TOKEN
   * **Value:** = *Your discord bot's token that you copied earlier.*
   * **KEY:** =  NODE_MODULES_CACHE
