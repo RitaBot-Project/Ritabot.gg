@@ -58,6 +58,7 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
 
 * Go to the **Overview** tab and click configure dynos. Turn off the default `web npm start` dyno and turn on the `worker node src/bot.js` dyno. Your bot will now be up and running!
   * Make sure to do this or your bot shall crash!
+![](../../assets/images/Dynos.png)
 
 ### Step 4 - Invite your bot to your server and configure it!
 * Replace the **CLIENTID** string in the following URL with your own apps client id from Step 2
