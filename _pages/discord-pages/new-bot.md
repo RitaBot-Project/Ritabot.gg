@@ -46,7 +46,9 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
 
 * Create a new app. It's name must be unique and composed of all lowercase letters and dashes. Something like `yourname-discordbot` is fine
 * Under **Deployment Method** select Github. Connect to your Github account and search for **RitaBot**, once it appears click on it to connect your fork.
+![](../../assets/images/Deploy_part_1.png)
 * Scroll down to the manual deploy section, and make sure the **master** branch is selected. Click deploy branch, and wait for the successfully deployed message.
+![](../../assets/images/Deploy_part_2.png)
 * Go to the **Resources** tab and look for the addons section. Search 'Heroku Postgres', and add 'Hobby Dev - Free' version of Heroku Postgres. This will be automatically attached as your bot's database.
 * Go to the **Settings** tab. Click to reveal Config Variables, then add then add the following:
 ![](../../assets/images/Config_vars.png)
