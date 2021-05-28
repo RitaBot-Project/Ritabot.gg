@@ -27,7 +27,7 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
   * <iframe src="https://ghbtns.com/github-btn.html?user=RitaBot-Project&repo=RitaBot&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
 
-### Step 2 - Create a new [Discord App](https://discordapp.com/developers/applications/me/create)
+### Step 2 - Create a new [Discord App](https://discordapp.com/developers/applications)
 * Give your app the name you would like your bot to be then click **Create App**
   * *I like the name **C-3PO**, but feel free to pick something different if you fear George Lucas's wrath.*
 * Copy the **CLIENT ID** of your bot, you will need it later
