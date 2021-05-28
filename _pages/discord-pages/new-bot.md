@@ -40,7 +40,7 @@ RITA is a an automatic translation bot built using `discord.js` and `Google Tran
     * **CLIENT ID** will be a string of numbers while your bots **TOKEN** will be a huge mix of letters and numbers.
 
 
-### Step 3 - Create a Heroku account
+### Step 3 - Create a [Heroku account](https://signup.heroku.com/login)
 
 *Heroku is a PaAs (platform as a service). They provide hosting services for free so this will be where your bot will be hosted. You can always run your bot locally or on a personal machine (though the hosting device would constantly need to allocate memory and power to the Bot for it to be online), look at [this page](https://ritabot.gg/local/) for more assistance*
 
