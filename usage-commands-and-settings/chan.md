@@ -11,11 +11,6 @@ _Please note that when you setup an auto command the target channel will not sen
 !tr auto to [lang] for # [same channel dest]
 ```
 
-```
-!tr channel from [lang] to [lang] for # [dest]
-!tr auto to [lang] for  # [same channel dest]
-```
-
 ### Parameters
 
 * for **`[dest]`** The target channel you want the translation of the from **`[lang]`** to go to.
@@ -24,11 +19,8 @@ _Please note that when you setup an auto command the target channel will not sen
 * from **`[lang]`**\
   &#x20;The language to translate from.
 * NOTE : Auto is for a single ( same channel ) translations, as photos, and Gifs, will not be duplicated or sent.
-* for **`[dest]`** The target channel you want the translation of the from **`[lang]`** to go to.
-* to **`[lang]`** _(optional)_\
-  The language to translate to, defaults to server default language if none provided.
-* from **`[lang]`**\
-  The language to translate from.
+
+
 
 ## Examples <a href="#examples" id="examples"></a>
 
@@ -39,21 +31,11 @@ Using full language names
 > !tr auto to spanish for #current-channel
 ```
 
-```
-> !tr channel from english to spanish for #target-channel
-> !tr auto to spanish for #target-channel
-```
-
 Using language short codes
 
 ```
 > !tr channel from en to es for #target-channel
 > !tr auto to es for #current-channel
-```
-
-```
-> !tr channel from en to es for #target-channel
-> !tr auto to es for #target-channel
 ```
 
 Using Auto detection
