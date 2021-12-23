@@ -40,7 +40,7 @@ Using language short codes
 
 ![English to Spanish, translating to the Spanish Channel](../.gitbook/assets/IMG\_20211222\_230640.jpg)
 
-![Translating all supported languages to Spanish in the #general-en channel ( same channel )](../.gitbook/assets/IMG\_20211222\_230849.jpg)
+![Translating all supported languages to Spanish in the #general-en channel ( same channel ) Not Recommended for more than 3 languages](../.gitbook/assets/IMG\_20211222\_230849.jpg)
 
 Using Auto detection
 
@@ -86,23 +86,22 @@ To stop an automatic translation task, simply go the origin channel of the task 
 > !tr stop
 > !tr stop task [id] = Stops Specific task
 > !tr stop for [me] Stops DM Task for you
-> !tr for @user = Stops task for user
-> !tr stop for #channel Stops task for a specific channel
-> !tr stop for all = Stops all tasks for crrent channel
-> !tr stop for server = Stops all tasks serverwide
+> !tr for [@user] = Stops task for user
+> !tr stop for [#channel] Stops task for a specific channel
+> !tr stop for [all] = Stops all tasks for crrent channel
+> !tr stop for [server] = Stops all tasks serverwide
 ```
 
 
 
 ### Parameters
 
-* Task Id, run !tr tasks and note the Task ID of the item you want stopped.
-* for \[me] - Stops translations via DM to yourself.
-* for **`[destination]`** - The destination, otherwise known as the target channel to stop the translation to.
-* for **`[user]`** - The user, otherwise known as the server member to stop the translation to.
-* for \[me] - Stops translations via DM to yourself.
-* for **`[destination]`** - The destination, otherwise known as the target channel to stop the translation to.
-* for **`[user]`** - The user, otherwise known as the server member to stop the translation to.
+* **\[id],** ID number for the task you want to stop.
+* for **\[me]** - Stops translations via DM to yourself.
+* for **`[user]`** - Stops the task for user.
+* for **`[channel]`** - Stops the task from the channel posted to the channel destination.
+* for **\[all]** - Stops all translations in the channel its posted in.
+* for \[server] - Stops all translations being done in your server.
 
 ### Admins/Mods <a href="#adminsmods" id="adminsmods"></a>
 
@@ -124,7 +123,7 @@ Stop all automatic translations for specific user in server
 > !tr stop for [@UserID]
 ```
 
-
+Stop a translation being to to a user.
 
 ```
 > !tr stop task [ID]
