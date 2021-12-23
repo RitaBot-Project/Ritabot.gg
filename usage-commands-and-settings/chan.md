@@ -48,10 +48,6 @@ Using Auto detection
 >!tr auto to ru for #current-channel
 ```
 
-```
->!tr auto to ru for #target-channel
-```
-
 ### Server Admins/Mods <a href="#server-adminsmods" id="server-adminsmods"></a>
 
 Send translations to same channel ( Not recommended for more than 3 languages )
@@ -127,6 +123,14 @@ Stop all automatic translations for specific user in server
 ```
 > !tr stop for [@UserID]
 ```
+
+*
+
+```
+> !tr stop task [ID]
+```
+
+Stop a single task by running !tr task, and taking note of the ID of the item to remove.
 
 _Help command for stop: **`!translate help stop`**_
 
