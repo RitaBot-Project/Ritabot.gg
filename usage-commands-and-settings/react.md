@@ -16,9 +16,13 @@ description: >-
 
 **react** - \[on/off] disabes the ablity to use flag reactions to translate.
 
-reactpersist - \[on/off] removes theat tran....
+reactpersist - \[on/off] removes the translation after 60 seconds
 
-Translates a message in the server when you react to it with a flag emoji.
+flagpersist - \[on/off] removes the flag.
+
+* _Recommended to use reactpersist and flagpersist together._&#x20;
+
+## Translates a message in the server when you react to it with a flag emoji.
 
 The full Supported list can be found below
 
