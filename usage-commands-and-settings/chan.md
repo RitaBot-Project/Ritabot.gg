@@ -7,8 +7,13 @@ _Please note that when you setup an auto command the target channel will not sen
 ## Command <a href="#command" id="command"></a>
 
 ```
-!tr channel from [lang] to [lang] for [dest]
-!tr auto to [lang] for [dest]
+!tr channel from [lang] to [lang] for # [dest]
+!tr auto to [lang] for # [same channel dest]
+```
+
+```
+!tr channel from [lang] to [lang] for # [dest]
+!tr auto to [lang] for  # [same channel dest]
 ```
 
 ### Parameters
@@ -18,10 +23,21 @@ _Please note that when you setup an auto command the target channel will not sen
   &#x20;The language to translate to, defaults to server default language if none provided.
 * from **`[lang]`**\
   &#x20;The language to translate from.
+* NOTE : Auto is for a single ( same channel ) translations, as photos, and Gifs, will not be duplicated or sent.
+* for **`[dest]`** The target channel you want the translation of the from **`[lang]`** to go to.
+* to **`[lang]`** _(optional)_\
+  The language to translate to, defaults to server default language if none provided.
+* from **`[lang]`**\
+  The language to translate from.
 
 ## Examples <a href="#examples" id="examples"></a>
 
 Using full language names
+
+```
+> !tr channel from english to spanish for #target-channel
+> !tr auto to spanish for #current-channel
+```
 
 ```
 > !tr channel from english to spanish for #target-channel
@@ -32,10 +48,19 @@ Using language short codes
 
 ```
 > !tr channel from en to es for #target-channel
+> !tr auto to es for #current-channel
+```
+
+```
+> !tr channel from en to es for #target-channel
 > !tr auto to es for #target-channel
 ```
 
 Using Auto detection
+
+```
+>!tr auto to ru for #current-channel
+```
 
 ```
 >!tr auto to ru for #target-channel
@@ -54,24 +79,22 @@ Send translations to another channel in server (recommended)
 
 ```
 > !tr channel from english to spanish for #target-channel
-> !tr auto to spanish for #target-channel
+```
+
+```
+> !tr channel from english to spanish for #target-channel
+> !tr auto to spanish for #current-channel
 ```
 
 Send translations to multiple channels in the server at once
 
 ```
 > !tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4
-> !tr auto to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4
 ```
 
-Send translations to channels in other servers the bot is in
-
-*   You need to copy the CHANNEL\_ID of the target channel in the other server
-
-    ```
-    > !tr channel from english to russian for <#CHANNEL_ID>
-    > !tr auto to russian for <#CHANNEL_ID>
-    ```
+```
+> !tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4
+```
 
 ### Stopping Translations <a href="#stopping-translations" id="stopping-translations"></a>
 
@@ -87,8 +110,14 @@ To stop an automatic translation task, simply go the origin channel of the task 
 > !tr stop for server = Stops all tasks serverwide
 ```
 
+
+
 ### Parameters
 
+* Task Id, run !tr tasks and note the Task ID of the item you want stopped.
+* for \[me] - Stops translations via DM to yourself.
+* for **`[destination]`** - The destination, otherwise known as the target channel to stop the translation to.
+* for **`[user]`** - The user, otherwise known as the server member to stop the translation to.
 * for \[me] - Stops translations via DM to yourself.
 * for **`[destination]`** - The destination, otherwise known as the target channel to stop the translation to.
 * for **`[user]`** - The user, otherwise known as the server member to stop the translation to.
