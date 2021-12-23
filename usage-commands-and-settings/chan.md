@@ -124,7 +124,7 @@ Stop all automatic translations for specific user in server
 > !tr stop for [@UserID]
 ```
 
-*
+
 
 ```
 > !tr stop task [ID]
