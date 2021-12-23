@@ -1,4 +1,22 @@
+---
+description: >-
+  Flag reactions work right after installing Rita, no commands are needed as
+  long as Rita has been given the Recommend permission of Admin.
+---
+
 # Translate - Reaction Translation
+
+## Flag Reactions
+
+```
+> !tr react [on/off]
+> !tr settings reactpersist [on/off]
+. !tr settings flagpersist  [on/off]
+```
+
+**react** - \[on/off] disabes the ablity to use flag reactions to translate.
+
+reactpersist - \[on/off] removes theat tran....
 
 Translates a message in the server when you react to it with a flag emoji.
 
