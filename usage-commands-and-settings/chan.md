@@ -96,7 +96,7 @@ To stop an automatic translation task, simply go the origin channel of the task 
 
 ### Parameters
 
-* **\[id],** ID number for the task you want to stop.
+* **\[id],** ID number for the task you want to stop, run !tr tasks to get id.
 * for **\[me]** - Stops translations via DM to yourself.
 * for **`[@user]`** - Stops the task for user.
 * for **`[channel]`** - Stops the task from the channel posted to the channel destination.
@@ -129,7 +129,7 @@ Stop all automatic translations for specific channel in server
 > !tr stop for all
 ```
 
-Stop all automatic translations for specific user in server
+Stop all automatic translations for the channel.
 
 ```
 > !tr stop for server
