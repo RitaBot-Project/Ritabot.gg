@@ -50,14 +50,14 @@ Using Auto detection
 
 ### Server Admins/Mods <a href="#server-adminsmods" id="server-adminsmods"></a>
 
-Send translations to same channel (not recommended)
+Send translations to same channel ( Not recommended for more than 3 languages )
 
 ```
 > !tr channel from english to spanish for #current-channel
 > !tr auto to spanish for #current-channel
 ```
 
-Send translations to another channel in server (recommended)
+Send translations to another channel in server ( Recommended )
 
 ```
 > !tr channel from english to spanish for #target-channel
