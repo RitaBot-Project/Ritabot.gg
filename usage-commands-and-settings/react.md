@@ -16,11 +16,11 @@ description: >-
 
 **react** - \[on/off] disabes the ablity to use flag reactions to translate.
 
-reactpersist - \[on/off] removes the translation after 60 seconds
+**reactpersist** - \[on/off] removes the translation after 60 seconds
 
-flagpersist - \[on/off] removes the flag.
+**flagpersist** - \[on/off] removes the flag.
 
-* _Recommended to use reactpersist and flagpersist together._&#x20;
+* _<mark style="color:yellow;">Recommended to use reactpersist and flagpersist together.</mark>_&#x20;
 
 ## Translates a message in the server when you react to it with a flag emoji.
 
