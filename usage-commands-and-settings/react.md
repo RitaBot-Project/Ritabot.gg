@@ -46,22 +46,22 @@ The full Supported list can be found below
 |  :flag\_az:  | :flag\_az: |             Azerbaijan             |                   Azerbaijani                   | az                 |
 |  :flag\_bs:  | :flag\_bs: |               Bahamas              |                     English                     | en                 |
 |  :flag\_bh:  | :flag\_bh: |               Bahrain              |                      Arabic                     | ar                 |
-|              | :flag\_bd: |             Bangladesh             |                     Bengali                     | bn                 |
-|              | :flag\_bb: |              Barbados              |                     English                     | en                 |
-|              | :flag\_by: |               Belarus              |               Belarusian, Russian               | be, ru             |
-|              | :flag\_be: |               Belgium              |              Dutch, French, German              | nl, fr, de         |
-|              | :flag\_bz: |               Belize               |                 English, Spanish                | en, es             |
-|              | :flag\_bj: |                Benin               |                      French                     | fr                 |
-|              | :flag\_bm: |               Bermuda              |                     English                     | en                 |
-|              | :flag\_bt: |               Bhutan               |                     Dzongkha                    | dz                 |
-|              | :flag\_bo: |               Bolivia              |                     Spanish                     | es                 |
-|              | :flag\_ba: |       Bosnia And Herzegovina       |            Bosnian, Croatian, Serbian           | bs, hr, sr         |
-|              | :flag\_bw: |              Botswana              |                     English                     | en                 |
-|              | :flag\_bv: |            Bouvet Island           |                    Norwegian                    | no                 |
-|              | :flag\_br: |               Brazil               |                    Portuguese                   | pt                 |
-|              | :flag\_io: |   British Indian Ocean Territory   |                     English                     | en                 |
-|              | :flag\_bn: |          Brunei Darussalam         |                  Malay, English                 | ms, en             |
-|              | :flag\_bg: |              Bulgaria              |                    Bulgarian                    | bg                 |
+| :flag\__bd_: | :flag\_bd: |             Bangladesh             |                     Bengali                     | bn                 |
+|  :flag\_bb:  | :flag\_bb: |              Barbados              |                     English                     | en                 |
+|  :flag\_by:  | :flag\_by: |               Belarus              |               Belarusian, Russian               | be, ru             |
+|  :flag\_be:  | :flag\_be: |               Belgium              |              Dutch, French, German              | nl, fr, de         |
+|  :flag\_bz:  | :flag\_bz: |               Belize               |                 English, Spanish                | en, es             |
+|  :flag\_bj:  | :flag\_bj: |                Benin               |                      French                     | fr                 |
+|   :fag\_bm:  | :flag\_bm: |               Bermuda              |                     English                     | en                 |
+| :flag\__bt:_ | :flag\_bt: |               Bhutan               |                     Dzongkha                    | dz                 |
+|  :flag\_bo:  | :flag\_bo: |               Bolivia              |                     Spanish                     | es                 |
+|  :flag\_ba:  | :flag\_ba: |       Bosnia And Herzegovina       |            Bosnian, Croatian, Serbian           | bs, hr, sr         |
+|  :flag\_bw:  | :flag\_bw: |              Botswana              |                     English                     | en                 |
+|  :flag\_bv:  | :flag\_bv: |            Bouvet Island           |                    Norwegian                    | no                 |
+|  :flag\_br:  | :flag\_br: |               Brazil               |                    Portuguese                   | pt                 |
+|  :flag\_io:  | :flag\_io: |   British Indian Ocean Territory   |                     English                     | en                 |
+|  :flag\_bn:  | :flag\_bn: |          Brunei Darussalam         |                  Malay, English                 | ms, en             |
+|  :flag\_bg:  | :flag\_bg: |              Bulgaria              |                    Bulgarian                    | bg                 |
 |              | :flag\_bf: |            Burkina Faso            |                      French                     | fr                 |
 |              | :flag\_bi: |               Burundi              |                  French, Rundi                  | fr, rn             |
 |              | :flag\_kh: |              Cambodia              |                  Central Khmer                  | km                 |
