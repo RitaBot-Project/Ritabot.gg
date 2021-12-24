@@ -39,13 +39,13 @@ The full Supported list can be found below
 | :flag\__aq:_ | :flag\_aq: |             Antarctica             |                       null                      | null               |
 |  :flag\_ag:  | :flag\_ag: |         Antigua And Barbuda        |                     English                     | en                 |
 |  :flag\_ar:  | :flag\_ar: |              Argentina             |                     Spanish                     | es                 |
-|              | :flag\_am: |               Armenia              |                     Armenian                    | hy                 |
-|              | :flag\_aw: |                Aruba               |                      Dutch                      | nl                 |
-|              | :flag\_au: |              Australia             |                     English                     | en                 |
-|              | :flag\_at: |               Austria              |                      German                     | de                 |
-|              | :flag\_az: |             Azerbaijan             |                   Azerbaijani                   | az                 |
-|              | :flag\_bs: |               Bahamas              |                     English                     | en                 |
-|              | :flag\_bh: |               Bahrain              |                      Arabic                     | ar                 |
+|  :flag\_am:  | :flag\_am: |               Armenia              |                     Armenian                    | hy                 |
+|  :flag\_aw:  | :flag\_aw: |                Aruba               |                      Dutch                      | nl                 |
+|  :flag\_au:  | :flag\_au: |              Australia             |                     English                     | en                 |
+|  :flag\_at:  | :flag\_at: |               Austria              |                      German                     | de                 |
+|  :flag\_az:  | :flag\_az: |             Azerbaijan             |                   Azerbaijani                   | az                 |
+|  :flag\_bs:  | :flag\_bs: |               Bahamas              |                     English                     | en                 |
+|  :flag\_bh:  | :flag\_bh: |               Bahrain              |                      Arabic                     | ar                 |
 |              | :flag\_bd: |             Bangladesh             |                     Bengali                     | bn                 |
 |              | :flag\_bb: |              Barbados              |                     English                     | en                 |
 |              | :flag\_by: |               Belarus              |               Belarusian, Russian               | be, ru             |
