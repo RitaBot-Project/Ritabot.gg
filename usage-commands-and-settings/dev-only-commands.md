@@ -12,14 +12,14 @@ description: These commands are strictly restricted to the developers and Bot ow
 * **`!tr unblacklist [ServerID]` -** Unblacklists a designated server, allowing Rita to once again join the server.
 * **`!tr warn [ServerID]` -** Sends a warning that suspicious behaviour has been detected coming from a designated server to the system channel of that server.
 * **`!tr unwarn [ServerID]`** **-** Sends a message that the suspicious behaviour has been corrected and removes the server from the the warned server list.
-* **`!tr check [ServerID]` -** Checks if a designated server has been sent a warning.
-* **`!tr checkperms [ServerID]`** **-** Allows us to check if rita has the proper permissions in a designated server.
-* **`!tr server [ServerID]`** **-** ???
+* **`!tr check [ServerID]` -** Allows the developers team to check Rita's settings, errors, and permissions to troubleshoot problems.
 * **`!tr settings updatedb` -** Updates the Database with all current data
   * no longer required, Rita now does this on her own.
 * **`!tr settings listservers` -** Prints a list of all servers that Rita is currently in.
 * **`!tr invite server [ServerID]` -** Creates a server invite to the designated Server.
   * This command will only be used if we receive a large number of errors from your server and we are unable to reach you via other means!!
+* **!tr settings reset** - Will reset all settings to the default values.
+* **!tr stop for server or \[ServerID]** - Will stop all translations tasks server wide.
 
 ### **Parameters**
 
