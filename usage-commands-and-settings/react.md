@@ -273,6 +273,7 @@ The full Supported list can be found below
 |            | :flag\_ye: | Yemen                              | Arabic                                          | ar                 |   |
 |            | :flag\_zm: | Zambia                             | English                                         | en                 |   |
 |            | :flag\_zw: | Zimbabwe                           | Chichewa, English, Xhosa, Southern Sotho, Shona | ny, en, xh, st, sn |   |
+|            |            |                                    |                                                 |                    |   |
 
 {% hint style="info" %}
 **Important Note**
