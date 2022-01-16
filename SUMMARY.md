@@ -22,6 +22,7 @@
 
 ## Installation
 
+* [Hosting on PebbleHost](installation/hosting-on-pebble.md)
 * [Hosting on Heroku](installation/hosting-on-heroku.md)
 * [Hosting Locally](installation/hosting-locally.md)
 * [How to update](installation/how-to-update.md)
