@@ -1,4 +1,4 @@
-# Translate - Custom Message
+# Custom Message
 
 ## Translate - Custom Message <a href="#page-title" id="page-title"></a>
 

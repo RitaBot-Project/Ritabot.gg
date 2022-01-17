@@ -2,12 +2,12 @@
 description: '!!Command is currently disabled due to coding errors!!'
 ---
 
-# Translate - Last Message
+# Last Message
 
 ## Translate - Last Message <a href="#page-title" id="page-title"></a>
 
 Translates last message chain(s) in channel.\
-&#x20;A chain is a collection of messages by the same author, to keep things simple.
+A chain is a collection of messages by the same author, to keep things simple.
 
 ## Commands <a href="#commands" id="commands"></a>
 

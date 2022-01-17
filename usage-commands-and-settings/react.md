@@ -4,7 +4,7 @@ description: >-
   long as Rita has been given the Recommend permission of Admin.
 ---
 
-# Translate - Reaction Translation
+# Reaction Translation
 
 ## Flag Reactions
 

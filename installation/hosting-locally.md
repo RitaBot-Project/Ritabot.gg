@@ -2,7 +2,7 @@
 description: This page will walk you through how to host Rita Locally
 ---
 
-# Hosting Locally
+# Locally
 
 ### Local Installation Support <a href="#local-installation-support" id="local-installation-support"></a>
 
