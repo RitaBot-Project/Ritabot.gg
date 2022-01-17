@@ -1,4 +1,4 @@
-# Translate - Channel Translation
+# Channel Translation
 
 _Automatically translates any new messages in the current channel and forwards them to the target channel. Admins/mods can set forwarding to the same channel(not recommended) or other channels(recommended)._
 
@@ -38,9 +38,9 @@ Using language short codes
 > !tr auto to es for #current-channel
 ```
 
-![English to Spanish, translating to the Spanish Channel](../.gitbook/assets/IMG\_20211222\_230640.jpg)
+![English to Spanish, translating to the Spanish Channel](../../.gitbook/assets/IMG\_20211222\_230640.jpg)
 
-![Translating all supported languages to Spanish in the #general-en channel ( same channel ) Not Recommended for more than 3 languages](../.gitbook/assets/IMG\_20211222\_230849.jpg)
+![Translating all supported languages to Spanish in the #general-en channel ( same channel ) Not Recommended for more than 3 languages](../../.gitbook/assets/IMG\_20211222\_230849.jpg)
 
 Using Auto detection
 
