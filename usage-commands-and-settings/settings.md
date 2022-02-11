@@ -44,9 +44,9 @@ This command will allow you to use either embed or webhook translation Styles.
   * !tr help embed
 ```
 
-This is embed style:                                         This is webhook style:  &#x20;
+This is embed style: This is webhook style:
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (3) (1).png>) ![](<../.gitbook/assets/image (1) (1).png>)
 
 ## Language Detection
 
@@ -56,7 +56,7 @@ This command will add a source Language marker to the translated text.
 * !tr settings langdetect [on/off]
 ```
 
-&#x20;                                            ![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## Bot to Bot Translation Status
 
