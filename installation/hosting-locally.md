@@ -4,6 +4,8 @@ description: This page will walk you through how to host Rita Locally
 
 # Locally
 
+!!**NOTICE**: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it!! For updated info on the future of the Ritabot-Project be sure to follow the **ANNOUNCEMENTS** channel in our Discord Server: [https://discord.com/invite/v62WNej](https://discord.com/invite/v62WNej)
+
 ### Local Installation Support <a href="#local-installation-support" id="local-installation-support"></a>
 
 The bot can also be run locally without Heroku. The local setup requires more steps since the database needs to be setup and the development tools need be installed. Start with the steps 1 and 2 in [Setting up a New Bot](https://ritabot.gg/local/#new-bot) and the continue as follows:

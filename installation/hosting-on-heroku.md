@@ -7,6 +7,8 @@ description: >-
 
 # Heroku
 
+!!**NOTICE**: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it!! For updated info on the future of the Ritabot-Project be sure to follow the **ANNOUNCEMENTS** channel in our Discord Server: [https://discord.com/invite/v62WNej](https://discord.com/invite/v62WNej)
+
 ## 1. Github
 
 #### __[_Fork this repository_](https://github.com/RitaBot-Project/RitaBot/fork) by clicking the hyperlink <a href="#step-1---fork-this-repository" id="step-1---fork-this-repository"></a>
