@@ -16,10 +16,10 @@ toc: true
 <p>For the purposes of this Privacy Policy:</p>
 <ul>
 <li>
-<p><strong>Account</strong> means a unique account created in the service "Discord" used to access our Service.</p>
+<p><strong>Account</strong> means a unique account created in the service Discord used to access our Service.</p>
 </li>
 <li>
-<p><strong>Discord</strong>refers to Discord LLC's service, "Discord" (not associated with RitaBot or our Service.)</p>
+<p><strong>Discord</strong> refers to Discord LLC's service, "Discord" (not associated with RitaBot or our Service.)</p>
 </li>
 <li>
 <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to RitaBot.</p>
