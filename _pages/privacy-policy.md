@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-permalink: /privacy-policy/
+permalink: /privacy-policy
 excerpt: "RitaBot Privacy Policy"
 toc: true
 
