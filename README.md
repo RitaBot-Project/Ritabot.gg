@@ -25,17 +25,12 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 * 🗣️ Speak with others across multiple channels using the `!tr channel` command.
 * 📣 Have automatic translations sent to user's DM's.
 * 🪝 Use webhooks to send translations in a beautiful, user-like manner.
-* 🆓 RitaBot is 100% free, we are completely donation based and do not charge users for simply connecting with others.
 * 🇺🇸 🇫🇷 🇪🇸 Use flag reactions to translate any message. Simply add a reaction of the country of your choice and a translation will popup with languages of that country.
 * 💪 The most powerful free Translator Bot. Providing fast, free & automatic translation to thousands.
-* 📖 Completely open-source. Host your own RitaBot if the main one does not suit your needs.&#x20;
+* 📖 Completely open-source. Host your own RitaBot if the main one does not suit your needs.
 * ❤ Made with love by the Rita Dev Team
 * 🖋 Using an MIT License Rita is completely customizable for whatever you like. Change a command, add a new feature. Whatever you can think of.
 
 {% hint style="success" %}
 If you have any suggestions for future features feel free to join our [**Discord Server**](https://discord.gg/mgNR64R) and ping a dev with a thorough explanation.
 {% endhint %}
-
-|   |
-| - |
-
