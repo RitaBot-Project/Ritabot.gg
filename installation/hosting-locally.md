@@ -4,6 +4,8 @@ description: This page will walk you through how to host Rita Locally
 
 # Locally
 
+### All development and support of the self-hosted version has now been discontinued
+
 !!**NOTICE**: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it!! For updated info on the future of the Ritabot-Project be sure to follow the **ANNOUNCEMENTS** channel in our Discord Server: [https://discord.com/invite/v62WNej](https://discord.com/invite/v62WNej)
 
 ### Local Installation Support <a href="#local-installation-support" id="local-installation-support"></a>
