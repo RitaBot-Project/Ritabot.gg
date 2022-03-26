@@ -4,6 +4,8 @@ description: THis page walks you through how to update to the latest version of 
 
 # How to update
 
+### All development and support of the self-hosted version has now been discontinued
+
 #### Step 1 - Checklist <a href="#step-1---checklist" id="step-1---checklist"></a>
 
 * You must have a bot already running on your server, if not then refer to [Setting up a New Bot Manually](https://ritabot.gg/new-bot/)
