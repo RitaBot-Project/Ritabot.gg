@@ -6,7 +6,7 @@
 ## What's New
 
 * [Coming Soon](whats-new-1/coming-soon.md)
-* [V1.3.0](whats-new/130.md)
+* [V1.3.0 Alpha](whats-new/130.md)
 * [RITA UPDATE](whats-new/rita-update.md)
 
 ## Usage, Commands & Settings
