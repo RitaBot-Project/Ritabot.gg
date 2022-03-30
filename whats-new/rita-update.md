@@ -4,6 +4,10 @@ description: 01/04/2022 - Update on the state of RITA 1.3.0 Public Release.
 
 # RITA UPDATE
 
+{% hint style="success" %}
+If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
+{% endhint %}
+
 ### **First things first**
 
 Since the beginning of February RITA’s public version has been offline, this was due to a series of events outside of our control. Starting with a DDOS attack and then a series of direct Takedown requests targeted at RITA because of a petty feud. For the most part, this has been resolved.
@@ -125,3 +129,7 @@ We understand that this may be a shock to some of you, and may not be something 
 If you have a question we have not answered, please reach out and ask it.
 
 These decisions have been agreed upon by the Core RITA Dev Team. If you have any issues please raise them privately or open a ticket for us to respond.&#x20;
+
+{% hint style="success" %}
+If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
+{% endhint %}
