@@ -42,7 +42,11 @@ Due to the impending shutdown of all V11 and V12 API, the self-hosting option ha
 
 ### Can I use a personal API Key using Self-Hosting instead?&#x20;
 
-At this time, we cannot offer that option as the self-hosting option will require a full rewrite to be V13 compatible. As such, ALL self-hosting will be unavailable and unsupported. This may change in the future but not till 2023 at the earliest. Is the payment per server or per user? The subscription will be a mix of per-user/per-server. Each server you wish to have RITA active in will require you to be the owner of the server (Yes owner not admin) to purchase the subscription. This owner could theoretically use this single license in any server they are the owner of, however, it will only work on 1 server at a time.
+At this time, we cannot offer that option as the self-hosting option will require a full rewrite to be V13 compatible. As such, ALL self-hosting will be unavailable and unsupported. This may change in the future but not till 2023 at the earliest.&#x20;
+
+### Is the payment per server or per user?&#x20;
+
+The subscription will be a mix of per-user/per-server. Each server you wish to have RITA active in will require you to be the owner of the server (Yes owner not admin) to purchase the subscription. This owner could theoretically use this single license in any server they are the owner of, however, it will only work on 1 server at a time.
 
 ### Why is this limited to owners and not admins?&#x20;
 
