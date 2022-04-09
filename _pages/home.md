@@ -28,4 +28,6 @@ feature_row:
 * We hope to have a smaller tier during release
 * Beggining release will have 250 task limit (task eg channel to channel translation)
 
-# Join our [Discord](https://discord.gg/yQg3MtHnm5)
+# Join our [Discord](https://discord.gg/yQg3MtHnm5) for updates, information and inquiries
+
+# This website will be revamped for release
