@@ -9,9 +9,6 @@ toc: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_banner1.jpg
-  actions:
-    - label: "We are currently in the process of releasing RitaBot again. Please join our Discord for updates."
-      url: "/quick-start-guide/"
 feature_row:
   - image_path: /assets/images/2.jpg
     alt: "customizable"
@@ -20,7 +17,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Get Started"
 ---
-{% include feature_row %}
 # RitaBot is currently being released
 
 * We expect release to be by the end of April
