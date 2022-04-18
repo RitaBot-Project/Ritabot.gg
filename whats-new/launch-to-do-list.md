@@ -20,26 +20,6 @@ That's all we have, for now. So keep an eye on this page, as we progress we will
 
 RITA 1.3.0 will be launched on: **TBA**
 
-##
-
-<details>
-
-<summary>Core Commands</summary>
-
-The following command need to be Added and a full round of testing conducted before launch. These are vital to core functionality of RITA and operational status when launch takes place.
-
-*   #### **!tr find \[Server Name/Owner] (Owner ID / Username / Tag)**
-
-    Searching for a server by Variables will allow us to manage user request without having to pull a full server list or refer to DB.
-*   #### **!tr sub**&#x20;
-
-    Subscription Command, Variables and Error Catching.
-*   #### **!tr check \[ {server/server-user} /channel/user] {server id} (id)**
-
-    This needs to be fully tested and allow for correct checking of Server Channel and Users, both in Local and Target server.
-
-</details>
-
 ## Core Commands
 
 The following command need to be Added and a full round of testing conducted before launch. These are vital to core functionality of RITA and operational status when launch takes place.
