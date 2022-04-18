@@ -60,14 +60,14 @@ Commands we want to try and introduce for launch, but may not be fully tested or
 
 ## Help Commands
 
-All the following help command responces need to be Updated, Checked, Tested and Published before Launch
+All the following help command responses need to be Updated, Checked, Tested and Published before Launch.
 
 *   #### **!tr help sub**
 
     New command needs to be created with info about sub process.
 *   [ ] **!tr ticket**
 
-    Info on how to raise a support ticket, link to server ticket channel and info about the diffrent support ticekts avaliable.
+    Info on how to raise a support ticket, link to server ticket channel and info about the different support tickets available.
 *   [ ] **!tr help auto**
 
     Update info on HOW TO USE the help auto command, and what it should not be used for.
@@ -106,9 +106,9 @@ All the following help command responces need to be Updated, Checked, Tested and
 
 ## Testing
 
-Full Test of all core functions, Commands, Restriction and Transaltion fucntions, across multiple servers.
+Full Test of all Core Functions, Commands, Restriction and Translation Functions, across multiple servers.
 
-> Full Testing guide can not be released at this time, But will be in the future. As fucntions expand and new with new releases, the test guide will be expanded upon, and will be shows with version updates. This will allow us to ensure that users are aware of what stage we are in for release and an estimated ETA.
+> Full Testing guide can not be released at this time, But will be in the future. As functions expand and new with new releases, the test guide will be expanded upon, and will be shown with version updates. This will allow us to ensure that users are aware of what stage we are in the release process and an estimated ETA.
 
 ## 1.3.1 & Beyond
 
