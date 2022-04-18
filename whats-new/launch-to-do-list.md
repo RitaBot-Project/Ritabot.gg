@@ -99,10 +99,10 @@ All the following help command responses need to be Updated, Checked, Tested and
 
 ## Roles and Responsability
 
-* [ ] Guidelines for Comunity Helpers
+* [ ] Guidelines for Community Helpers
 * [ ] Guidelines for Bot Helpers
 * [ ] Community Guidelines & Ticket expectations
-* [ ] Core team Guidlines, Roles and responsabilities
+* [ ] Core Team Guidelines, Roles and responsabilities
 
 ## Testing
 
