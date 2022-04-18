@@ -10,11 +10,15 @@ _Users who wish to receive automatic translations in private must **enable DMs**
 
 ## Help <a href="#help" id="help"></a>
 
-**`!tr help`** - Shows RITA's help menu for all help commands.\
-**`!tr help modules`** - Shows RITA's help menu for all modules.\
-**`!tr help commands`** - Shows RITA's help examples for common commands. Such as Translation Commands, Information Commands, Style Commands, Misc Commands, and Debug Commands.\
-**`!tr help [command]`** - Give usage info for each command.\
-&#x20;    Example: **`!tr help last`** - will open the help menu for the command last.
+**`!tr help`** - Shows RITA's help menu for all help commands.
+
+**`!tr help modules`** - Shows RITA's help menu for all modules.
+
+**`!tr help commands`** - Shows RITA's help examples for common commands. Such as Translation Commands, Information Commands, Style Commands, Misc Commands, and Debug Commands.
+
+**`!tr help [command]`** - Give usage info for each command.
+
+Example: **`!tr help last`** - will open the help menu for the command last.
 
 ## Links <a href="#links" id="links"></a>
 
@@ -26,13 +30,15 @@ _Users who wish to receive automatic translations in private must **enable DMs**
 
 ## Version <a href="#version" id="version"></a>
 
-**`!tr version`** - Shows the current version of the bot.\
-**`!tr history` -** Shows list of previous bot versions.\
+**`!tr version`** - Shows the current version of the bot.
+
+**`!tr history` -** Shows list of previous bot versions.
+
 **`!tr history [version]` -** show all the revisions made to the designated version.
 
-### &#x20;   Parameters
+### Parameters
 
-&#x20; **  `[version]`** **-** Version number.
+\*\* `[version]`\*\* **-** Version number.
 
 ## Tasks <a href="#tasks" id="tasks"></a>
 
@@ -40,15 +46,17 @@ _Users who wish to receive automatic translations in private must **enable DMs**
 
 ## Donate <a href="#doante" id="doante"></a>
 
-**`!tr donate oc`**` ``` - Donation link for open Collective. **`!tr donate github`** - Donation link for GitHub.
+**`!tr donate oc`**` ``` - Donation link for open Collective.&#x20;
+
+**`!tr donate github`** - Donation link for GitHub.
 
 ## Prefix
 
 **`!tr prefix [prefix]`** - Sets custom bot prefix
 
-#### &#x20;   parameters
+#### parameters
 
-&#x20; **  `[prefix] - custom prefix`**
+\*\* `[prefix] - custom prefix`\*\*
 
 ## ID Info
 

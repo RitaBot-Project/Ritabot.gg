@@ -4,6 +4,10 @@ layout: landing
 
 # Launch To-Do List
 
+{% hint style="success" %}
+If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
+{% endhint %}
+
 V1.3.0 will soon be upon us. Changes can be seen [here](130.md), With these changes, it has taken a long time to get things ready. It has not been an easy journey and we know that you may not understand all the reasons we have done what we have done, we have tried to keep you up-to-date as much as we can, you can read more about some of the issues we have had [here](rita-update.md).&#x20;
 
 Due to some of these changes, the GitHub Repo we used is now private, so you are not able to follow along with all the changes we are making, how we are progressing and what is needed to be done for a release. As such we have included all the things we [need ](launch-to-do-list.md#core-commands)to do, [want ](launch-to-do-list.md#other-functions)to do and [plan ](launch-to-do-list.md#1.3.1-and-beyond)to do below.&#x20;
@@ -113,6 +117,10 @@ All the following help command responses need to be Updated, Checked, Tested and
 Full Test of all Core Functions, Commands, Restriction and Translation Functions, across multiple servers.
 
 > Full Testing guide can not be released at this time, But will be in the future. As functions expand and new with new releases, the test guide will be expanded upon, and will be shown with version updates. This will allow us to ensure that users are aware of what stage we are in the release process and an estimated ETA.
+
+{% hint style="success" %}
+If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
+{% endhint %}
 
 ## 1.3.1 & Beyond
 

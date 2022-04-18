@@ -6,10 +6,9 @@ _Please note that when you setup an auto command the target channel will not sen
 
 ## Command <a href="#command" id="command"></a>
 
-```
-!tr channel from [lang] to [lang] for # [dest]
-!tr auto to [lang] for # [same channel dest]
-```
+**`!tr channel from [lang] to [lang] for # [dest]`**
+
+**`!tr auto to [lang] for # [same channel dest]`**
 
 ### Parameters
 
@@ -26,17 +25,15 @@ _Please note that when you setup an auto command the target channel will not sen
 
 Using full language names
 
-```
-> !tr channel from english to spanish for #target-channel
-> !tr auto to spanish for #current-channel
-```
+**`!tr channel from english to spanish for #target-channel`**
+
+**`!tr auto to spanish for #current-channel`**
 
 Using language short codes
 
-```
-> !tr channel from en to es for #target-channel
-> !tr auto to es for #current-channel
-```
+**`!tr channel from en to es for #target-channel`**
+
+**`!tr auto to es for #current-channel`**
 
 ![English to Spanish, translating to the Spanish Channel](../.gitbook/assets/IMG\_20211222\_230640.jpg)
 
@@ -44,53 +41,45 @@ Using language short codes
 
 Using Auto detection
 
-```
->!tr auto to ru for #current-channel
-```
+**`!tr auto to ru for #current-channel`**
 
 ### Server Admins/Mods <a href="#server-adminsmods" id="server-adminsmods"></a>
 
 Send translations to same channel ( Not recommended for more than 3 languages )
 
-```
-> !tr channel from english to spanish for #current-channel
-> !tr auto to spanish for #current-channel
-```
+**`!tr channel from english to spanish for #current-channel`**
+
+**`!tr auto to spanish for #current-channel`**
 
 Send translations to another channel in server ( Recommended )
 
-```
-> !tr channel from english to spanish for #target-channel
-```
+**`!tr channel from english to spanish for #target-channel`**
 
-```
-> !tr channel from english to spanish for #target-channel
-> !tr auto to spanish for #current-channel
-```
+**`!tr channel from english to spanish for #target-channel`**
+
+**`!tr auto to spanish for #current-channel`**
 
 Send translations to multiple channels in the server at once
 
-```
-> !tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4
-```
+**`!tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4`**
 
-```
-> !tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4
-```
+**`!tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4`**
 
 ### Stopping Translations <a href="#stopping-translations" id="stopping-translations"></a>
 
 To stop an automatic translation task, simply go the origin channel of the task and use the stop command:
 
-```
-> !tr stop
-> !tr stop task [id]
-> !tr stop for [me]
-> !tr for [@user]
-> !tr stop for [#channel] 
-> !tr stop for [all]
-> !tr stop for [server]
-```
+**`!tr stop`**
+
+**`!tr stop task [id!tr stop for [me]`**
+
+**`!tr for [@user]`**
+
+**`!tr stop for [#channel]`**&#x20;
+
+**`!tr stop for [all]`**
+
+**`!tr stop for [server]`**
 
 
 
@@ -107,33 +96,23 @@ To stop an automatic translation task, simply go the origin channel of the task 
 
 Stop all automatic translations
 
-```
-> !tr stop task [ID]
-```
+**`!tr stop task [ID]`**
 
 Stop a single task by running !tr task, and taking note of the ID of the item to remove.
 
-```
-> !tr stop for [@UserID]
-```
+**`!tr stop for [@UserID]`**
 
 Stop a translation being sent to a user.
 
-```
-> !tr stop for #target-channel
-```
+**`!tr stop for #target-channel`**
 
 Stop all automatic translations for specific channel in server
 
-```
-> !tr stop for all
-```
+**`!tr stop for all`**
 
 Stop all automatic translations for the channel.
 
-```
-> !tr stop for server
-```
+**`!tr stop for server`**
 
 Stop all tasks in the server.
 
