@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Launch To-Do List
 
 V1.3.0 will soon be upon us. Changes can be seen [here](130.md), With these changes, it has taken a long time to get things ready. It has not been an easy journey and we know that you may not understand all the reasons we have done what we have done, we have tried to keep you up-to-date as much as we can, you can read more about some of the issues we have had [here](rita-update.md).&#x20;
