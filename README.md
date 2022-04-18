@@ -2,6 +2,7 @@
 description: >-
   The official documentation of RitaBot. Breaking the language barrier for
   thousands of people, for free.
+layout: landing
 ---
 
 # Introduction
