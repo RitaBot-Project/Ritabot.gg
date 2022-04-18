@@ -5,10 +5,7 @@
 
 ## What's New
 
-* [Launch To-Do List](whats-new/launch-to-do-list.md)
-* [Launch To-Do List Mobile](whats-new/launch-to-do-list-mobile.md)
 * [V1.3.0 Alpha](whats-new/130.md)
-* [RITA UPDATE](whats-new/rita-update.md)
 
 ## Usage, Commands & Settings
 
@@ -50,3 +47,9 @@
 * [V1.2.4](history/124.md)
 * [V1.2.5](history/125.md)
 * [V1.2.6](history/126.md)
+
+## Updates
+
+* [Launch To-Do List Mobile](updates/launch-to-do-list-mobile.md)
+* [Launch To-Do List](updates/launch-to-do-list.md)
+* [RITA UPDATE](updates/rita-update.md)

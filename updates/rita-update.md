@@ -1,6 +1,6 @@
 ---
 description: 01/04/2022 - Update on the state of RITA 1.3.0 Public Release.
-layout: landing
+layout: editorial
 ---
 
 # RITA UPDATE
