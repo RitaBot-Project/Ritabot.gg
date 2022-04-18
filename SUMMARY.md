@@ -5,6 +5,7 @@
 
 ## What's New
 
+* [Launch To-Do List](whats-new/launch-to-do-list.md)
 * [V1.3.0 Alpha](whats-new/130.md)
 * [RITA UPDATE](whats-new/rita-update.md)
 
