@@ -8,11 +8,13 @@ description: >-
 
 ## Flag Reactions
 
-```
-> !tr react [on/off]
-> !tr settings reactpersist [on/off]
-. !tr settings flagpersist  [on/off]
-```
+**`!tr react [on/off]`**
+
+**`!tr settings reactpersist [on/off]`**
+
+**`!tr settings flagpersist  [on/off]`**
+
+**``**
 
 **react** - \[on/off] disabes the ablity to use flag reactions to translate.
 

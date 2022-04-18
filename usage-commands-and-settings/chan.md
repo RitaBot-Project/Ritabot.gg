@@ -19,8 +19,6 @@ _Please note that when you setup an auto command the target channel will not sen
   &#x20;The language to translate from.
 * NOTE : Auto is for a single ( same channel ) translations, as photos, and Gifs, will not be duplicated or sent.
 
-
-
 ## Examples <a href="#examples" id="examples"></a>
 
 Using full language names
@@ -65,7 +63,7 @@ Send translations to multiple channels in the server at once
 
 **`!tr channel from english to spanish for #target-channel-es1, #target-channel-es2, #target-channel-es3, #target-channel-es4`**
 
-### Stopping Translations <a href="#stopping-translations" id="stopping-translations"></a>
+## Stopping Translations <a href="#stopping-translations" id="stopping-translations"></a>
 
 To stop an automatic translation task, simply go the origin channel of the task and use the stop command:
 
@@ -81,8 +79,6 @@ To stop an automatic translation task, simply go the origin channel of the task 
 
 **`!tr stop for [server]`**
 
-
-
 ### Parameters
 
 * **\[id],** ID number for the task you want to stop, run !tr tasks to get id.
@@ -92,7 +88,7 @@ To stop an automatic translation task, simply go the origin channel of the task 
 * for **\[all]** - Stops all translations in the channel its posted in.
 * for **\[server]** - Stops all translations being done in your server.
 
-### Admins/Mods <a href="#adminsmods" id="adminsmods"></a>
+## Admins/Mods <a href="#adminsmods" id="adminsmods"></a>
 
 Stop all automatic translations
 
@@ -118,7 +114,7 @@ Stop all tasks in the server.
 
 _Help command for stop: **`!translate help stop`**_
 
-### Notes <a href="#notes" id="notes"></a>
+## Notes <a href="#notes" id="notes"></a>
 
 _Help command for automatic translation: **`!translate help auto`**._
 

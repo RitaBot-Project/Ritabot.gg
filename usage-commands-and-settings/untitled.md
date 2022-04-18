@@ -6,23 +6,15 @@ The bot’s default prefix is **`!tr`**, or **`!translate`** - All commands must
 
 ### Command structure <a href="#command-structure" id="command-structure"></a>
 
-```
-[prefix] + [main command] + [parameters]
-```
+\[prefix] + \[main command] + \[parameters]
 
 **For Example:**
 
-```
-!translate help modules
-```
+`!translate help modules`
 
-```
-!tr help modules
-```
+`!tr help modules`
 
-```
-!tr help
-```
+`!tr help`
 
 ### Requesting features, reporting bugs and more <a href="#requesting-features-reporting-bugs-and-more" id="requesting-features-reporting-bugs-and-more"></a>
 

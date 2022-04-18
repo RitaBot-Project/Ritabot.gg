@@ -1,8 +1,8 @@
----
-description: '!!Command is currently disabled due to coding errors!!'
----
-
 # Last Message
+
+{% hint style="warning" %}
+**Command is currently disabled pending re-write.**
+{% endhint %}
 
 ## Translate - Last Message <a href="#page-title" id="page-title"></a>
 
@@ -11,10 +11,9 @@ A chain is a collection of messages by the same author, to keep things simple.
 
 ## Commands <a href="#commands" id="commands"></a>
 
-```
-> !tr last
-> !tr last [n] to [lang] from [lang]
-```
+**`!tr last`**
+
+**`!tr last [n] to [lang] from [lang]`**
 
 ### Parameters
 
@@ -26,12 +25,15 @@ A chain is a collection of messages by the same author, to keep things simple.
 
 ## Examples <a href="#examples" id="examples"></a>
 
-```
-> !tr last 2
-> !tr last to english  
-> !tr last to english, german, french
-> !tr last -6 to english from german
-```
+**`!tr last 2`**
+
+**`!tr last to english`** &#x20;
+
+**`!tr last to english, german, french`**
+
+**`!tr last -6 to english from german`**
+
+
 
 {% hint style="info" %}
 **Important Note**

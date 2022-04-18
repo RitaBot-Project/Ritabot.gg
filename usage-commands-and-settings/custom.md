@@ -10,10 +10,9 @@ _Users who wish to receive automatic translations in private must **enable DMs**
 
 ## Command <a href="#command" id="command"></a>
 
-```
-> !tr this: [msg] - Translates to default server language  
-> !tr this to [lang]: [msg] - detects language and translates to your to langugae
-```
+**`!tr this: [msg]`** - Translates to default server language &#x20;
+
+**`!tr this to [lang]: [msg]`** - detects language and translates to your to langugae
 
 ## Parameters <a href="#parameters" id="parameters"></a>
 
@@ -23,12 +22,15 @@ _Users who wish to receive automatic translations in private must **enable DMs**
 
 ## Examples <a href="#examples" id="examples"></a>
 
-```
-> !tr this: bonjour  
-> !tr this to spanish: hello world  
-> !tr this to arabic, hebrew: I love you  
-> !tr this to de from en: how are you?
-```
+**`!tr this: bonjour`** &#x20;
+
+**`!tr this to spanish: hello world`** &#x20;
+
+**`!tr this to arabic, hebrew: I love you`** &#x20;
+
+**`!tr this to de from en: how are you?`**
+
+
 
 {% hint style="info" %}
 **Important Note**

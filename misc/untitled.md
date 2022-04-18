@@ -1,5 +1,13 @@
 # It’s All About Rita
 
+{% hint style="danger" %}
+### All development and support of the self-hosted version has now been discontinued
+{% endhint %}
+
+{% hint style="info" %}
+**NOTICE**: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it. For updated info on the future of the Ritabot-Project be sure to follow the **ANNOUNCEMENTS** channel in our Discord Server.
+{% endhint %}
+
 ## What is RITA and who are we? <a href="#what-is-rita-and-who-are-we" id="what-is-rita-and-who-are-we"></a>
 
 _RITA is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord, Self-hosted on Heroku (or a local install) and Completely 100% Free. She is maintained by a small group of users, each with different backgrounds and some learning as we go._
