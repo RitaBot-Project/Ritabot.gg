@@ -46,9 +46,9 @@ The following command need to be Added and a full round of testing conducted bef
 
 These Functions are Required to be function for core services. Full testing needs to be completed on all core functions.
 
-* [ ] **Tasks Restrictions**
-  * [ ] Limiter - Restriction to 250 Tasks per server
-  * [ ] Warning Message - Show warning message when a user attempts to add a task where it will go over 250 task count
+* [x] **Tasks Restrictions**
+  * [x] Limiter - Restriction to 250 Tasks per server
+  * [x] Warning Message - Show warning message when a user attempts to add a task where it will go over 250 task count
 * [ ] **Permissiong Structure**
   * [ ] Full check of current permission structure
   * [ ] Change some Owner only commands to Admin
