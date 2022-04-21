@@ -1,26 +1,28 @@
 ---
 description: >-
   The official documentation of RitaBot. Breaking the language barrier for
-  thousands of people, for free.
+  thousands of people.
 ---
 
 # Introduction
+
+## RitaBot Discord Translator
 
 {% hint style="danger" %}
 ### All development and support of the self-hosted version has now been discontinued
 {% endhint %}
 
-{% hint style="info" %}
-**NOTICE**: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it. For updated info on the future of the Ritabot-Project be sure to follow the **ANNOUNCEMENTS** channel in our Discord Server.
-{% endhint %}
+### RitaBot is currently being re-built and released!
 
-## Intro
+* We expect release to be by the end of April
+* She will be made as affordable as possible
+* We hope to have a smaller tier during release
 
-RitaBot is a fast, automatic & free Discord Translating Bot. Allowing communication across the language barrier from features like automatic-channel translation, to flag reaction translations and many more.
+RitaBot is a fast, automatic Discord Translating Bot. Allowing communication across the language barrier from features like automatic-channel translation, to flag reaction translations and many more.
 
 Rita was created because of the drive to communicate with others. Chatting platforms are awesome things and allow fast & simple communication across the entire word. However, something as simple as translating messages for others to understand can become so complicated. Across the internet there are hundreds of translation bots but a flaw in many of them is increasing costs, changing features & overall difficulty to use.
 
-This is where RitaBot came in. Many bots feature translations which are pricey due to hosting costs & translation costs. Rita, however, is a donation-based bot & getting translations for free straight from the Google Translation API.
+This is where RitaBot came in. Many bots feature translations which are pricey due to hosting costs & translation costs. Rita, however, is a afordable bot & getting translations straight from the Google Translation API.
 
 In this guide we will teach you to get your very own RitaBot in your server, with no coding knowledge required.
 
