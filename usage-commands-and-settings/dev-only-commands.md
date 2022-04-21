@@ -4,7 +4,9 @@ description: These commands are strictly restricted to the developers and Bot ow
 
 # Dev only commands
 
-## Dev Commands
+{% hint style="info" %}
+Feel free to join our Discord Server for any concerns you may have, we’re here to help. [![invite](https://img.shields.io/badge/Discord\_Support-JOIN-7289DA.svg?)](https://discordapp.com/invite/mgNR64R)
+{% endhint %}
 
 * **`!tr announce`** **-** Sends an announcement to the system channel of all servers the bot is currently in.
 * **`!tr eject [ServerID]`** **-** Ejects Rita from a designated server.
@@ -18,18 +20,15 @@ description: These commands are strictly restricted to the developers and Bot ow
 * **`!tr settings listservers` -** Prints a list of all servers that Rita is currently in.
 * **`!tr invite server [ServerID]` -** Creates a server invite to the designated Server.
   * This command will only be used if we receive a large number of errors from your server and we are unable to reach you via other means!!
-* **!tr settings reset** - Will reset all settings to the default values.
-* **!tr stop for server or \[ServerID]** - Will stop all translations tasks server wide.
+* **`!tr settings reset` ** - Will reset all settings to the default values.
+* **`!tr stop for server or [ServerID]`** - Will stop all translations tasks server wide.
 
 ### **Parameters**
 
-```
-* [ServerID] - Raw Server ID
-```
+`[ServerID] - Raw Server ID`
 
 ### Examples
 
-```
-* !tr eject [ServerID] - Eject Rita from [ServerID]
-* !tr blacklist [ServerID] - [ServerID] Will be blacklisted
-```
+`!tr eject [ServerID] - Eject Rita from [ServerID]`
+
+`!tr blacklist [ServerID] - [ServerID] Will be blacklisted`

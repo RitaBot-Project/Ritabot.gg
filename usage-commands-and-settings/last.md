@@ -1,10 +1,12 @@
 # Last Message
 
+{% hint style="info" %}
+Feel free to join our Discord Server for any concerns you may have, we’re here to help. [![invite](https://img.shields.io/badge/Discord\_Support-JOIN-7289DA.svg?)](https://discordapp.com/invite/mgNR64R)
+{% endhint %}
+
 {% hint style="warning" %}
 **Command is currently disabled pending re-write.**
 {% endhint %}
-
-## Translate - Last Message <a href="#page-title" id="page-title"></a>
 
 Translates last message chain(s) in channel.\
 A chain is a collection of messages by the same author, to keep things simple.

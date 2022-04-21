@@ -16,7 +16,7 @@
   * [Last Message](usage-commands-and-settings/last.md)
   * [Custom Message](usage-commands-and-settings/custom.md)
 * [Statistics](usage-commands-and-settings/statistics.md)
-* [Settings - Bot Owner Commands](usage-commands-and-settings/settings.md)
+* [Settings](usage-commands-and-settings/settings.md)
 * [Misc. Commands](usage-commands-and-settings/misc.md)
 * [Dev only commands](usage-commands-and-settings/dev-only-commands.md)
 
@@ -36,7 +36,6 @@
 
 ## Misc
 
-* [Activity Log](misc/activity-log.md)
 * [It’s All About Rita](misc/untitled.md)
 * [Support](misc/untitled-1.md)
 * [MIT License](misc/untitled-2.md)
