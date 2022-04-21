@@ -30,7 +30,7 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 * 📣 Have automatic translations sent to user's DM's.
 * 🪝 Use webhooks to send translations in a beautiful, user-like manner.
 * 🇺🇸 🇫🇷 🇪🇸 Use flag reactions to translate any message. Simply add a reaction of the country of your choice and a translation will popup with languages of that country.
-* 💪 The most powerful Translator Bot. Providing fast, free & automatic translation to thousands.
+* 💪 The most powerful Translator Bot. Providing fast, automatic translation to thousands.
 * ❤ Made with love by the Rita Dev Team
 
 {% hint style="success" %}
