@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: https://docs.ritabot.gg/ritabot-docs/
   - title: "Discord"
     url: https://discord.gg/yQg3MtHnm5
   - title: "Wiki"
     url: https://docs.ritabot.gg/
-  - title: "Support"
-    url: /support/
   - title: About Rita
-    url: /about/
+    url: https://docs.ritabot.gg/ritabot-docs/misc/about
