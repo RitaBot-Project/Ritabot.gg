@@ -86,7 +86,7 @@ All the following help command responses need to be Updated, Checked, Tested and
 
 ## Discord Server Changes
 
-*   [ ] **Create Channel for Sub command**
+*   [x] **Create Channel for Sub command**
 
     Channel will need info about process and step by step guide.&#x20;
 
