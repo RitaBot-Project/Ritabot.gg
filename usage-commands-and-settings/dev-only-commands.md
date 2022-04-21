@@ -5,7 +5,7 @@ description: These commands are strictly restricted to the developers and Bot ow
 # Dev only commands
 
 {% hint style="info" %}
-Feel free to join our Discord Server for any concerns you may have, we’re here to help. [![invite](https://img.shields.io/badge/Discord\_Support-JOIN-7289DA.svg?)](https://discordapp.com/invite/mgNR64R)
+If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
 {% endhint %}
 
 * **`!tr announce`** **-** Sends an announcement to the system channel of all servers the bot is currently in.

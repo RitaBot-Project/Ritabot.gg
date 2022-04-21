@@ -36,8 +36,7 @@
 
 ## Misc
 
-* [It’s All About Rita](misc/untitled.md)
-* [Support](misc/untitled-1.md)
+* [It’s All About Rita](misc/about.md)
 * [MIT License](misc/untitled-2.md)
 
 ## History
@@ -52,3 +51,18 @@
 * [Launch To-Do List Mobile](updates/launch-to-do-list-mobile.md)
 * [Launch To-Do List](updates/launch-to-do-list.md)
 * [RITA UPDATE](updates/rita-update.md)
+
+## Premium/Paid Feeatures <a href="#premium" id="premium"></a>
+
+* [Overview](premium/overview.md)
+* [How to Subscribe](premium/how-to-subscribe/README.md)
+  * [Method 1](premium/how-to-subscribe/method-1.md)
+  * [Method 2](premium/how-to-subscribe/method-2.md)
+* [Refunds and Disuputes](premium/refunds-and-disuputes.md)
+* [Contact Us](premium/contact-us.md)
+
+## Policys
+
+* [Privacy Policy](policys/privacy-policy.md)
+* [Refund Policy](policys/refund-policy.md)
+* [3rd Party Policys](policys/3rd-party-policys.md)
