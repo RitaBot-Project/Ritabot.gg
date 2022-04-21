@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://docs.ritabot.gg/ritabot-docs/
+    url: /
   - title: "Discord"
     url: https://discord.gg/yQg3MtHnm5
   - title: "Wiki"
