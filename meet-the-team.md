@@ -28,7 +28,15 @@ description: Get to know us, we dont Bite.
 
 <summary>Z3US - Core Developer</summary>
 
+My skills centre in IT and Telephony.&#x20;
 
+I have a focus on newer style technologies such as VoIP and Cloud Distributed SIP environments, however I also have a strong grounding in older Siemens Telephony systems (HighPath 3k, Realities).&#x20;
+
+My hobby happens to be coding, I focus on Powershell and NodeJS. Hence my possition here at RITABot. While I am still a beginner, I never stop learning new things.&#x20;
+
+I am proficient in Windows, MacOS and Linux, and have started learning Unix in the form of BSD. The main focus behind this is so that any task I take on, I am not limited by my knowledge of the Operating system involved.&#x20;
+
+I never shy away from a challenge and always find a way to improve.
 
 </details>
 
