@@ -4,7 +4,7 @@ description: Get to know us, we dont Bite.
 
 # Meet the Team
 
-## Owners
+## The Owners
 
 ### Artanis - CDO
 
@@ -22,7 +22,7 @@ description: Get to know us, we dont Bite.
 
 > **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## &#x20;Development & Core Staff
+## Development & Core Staff
 
 <details>
 
@@ -48,7 +48,7 @@ description: Get to know us, we dont Bite.
 
 </details>
 
-## Support Staff
+### Support Staff
 
 {% tabs %}
 {% tab title="Inproba" %}
@@ -72,7 +72,7 @@ description: Get to know us, we dont Bite.
 {% endtab %}
 {% endtabs %}
 
-## Comunity Helpers
+### Comunity Helpers
 
 {% tabs %}
 {% tab title="Person 1" %}
@@ -92,7 +92,7 @@ description: Get to know us, we dont Bite.
 {% endtab %}
 {% endtabs %}
 
-## Other & Notable Members
+### Other & Notable Members
 
 {% tabs %}
 {% tab title="Person 1" %}
