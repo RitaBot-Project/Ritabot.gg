@@ -118,7 +118,7 @@ All the following help command responses need to be Updated, Checked, Tested and
 
 * [ ] **Website Policy on Refunds / Disputes and FAQ**
   * [ ] Full guide on policy for Subscription, how they are managed and dispute process.&#x20;
-  * [ ] FAQ for payment process, refunds and ticket support.
+  * [x] FAQ for payment process, refunds and ticket support.
 
 </details>
 
