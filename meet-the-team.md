@@ -80,7 +80,9 @@ Loving Rita for making cross language communications much easier, so have to giv
 {% endtab %}
 
 {% tab title="Slasky" %}
-17 years experience as an sysadmin, currently working as a security consultant with focus on IAM and PAM. I Love a good challenge and making things work in ways they shouldnt. Sarcastic 90% of the time and Love to help people make their day better!
+17 years experience as an sysadmin, currently working as a security consultant with focus on IAM and PAM. I Love a good challenge and making things work in ways they shouldnt.&#x20;
+
+Sarcastic 90% of the time and Love to help people make their day better!
 {% endtab %}
 {% endtabs %}
 
