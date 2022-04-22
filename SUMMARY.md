@@ -63,7 +63,7 @@
 
 ## Policys
 
-* [Availability Policy](policys/availability-policy.md)
+* [Terms Of Service](policys/terms-of-service.md)
 * [Privacy Policy](policys/privacy-policy.md)
 * [Refund Policy](policys/refund-policy.md)
 * [3rd Party Policys](policys/3rd-party-policys.md)
