@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Meet the Team](meet-the-team.md)
 * [Donate](donate.md)
 
 ## What's New
