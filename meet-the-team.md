@@ -44,7 +44,7 @@ description: Get to know us, we dont Bite.
 
 <summary>Trainer Paul - Senior Helper</summary>
 
-
+I have a long history of Dos, Windows, Database building, and Server building experience, but nothing compared to the combined knowledge of the Rita team. Why Trainer? I used to actually train employees, and a Electrical instructor of years past. I support the Rita team, users, and helping is one of my qualities. Thanks Rita team for closing the gap on communication for all members on Discord.
 
 </details>
 
@@ -68,7 +68,7 @@ description: Get to know us, we dont Bite.
 {% endtab %}
 
 {% tab title="Slasky" %}
-
+17 years experience as an sysadmin, currently working as a security consultant with focus on IAM and PAM. I Love a good challenge and making things work in ways they shouldnt. Sarcastic 90% of the time and Love to help people make their day better!
 {% endtab %}
 {% endtabs %}
 
