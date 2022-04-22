@@ -1,5 +1,5 @@
 ---
-description: Refer to the below service and thier Respective TOS and Policies
+description: Refer to the below service and their Respective TOS and Policies
 ---
 
 # 3rd Party Policys
