@@ -1,14 +1,14 @@
+---
+description: 'Last updated: March 15, 2022'
+---
+
 # Privacy Policy
-
-### Privacy Policy
-
-Last updated: March 15, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\</a>.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
-### Interpretation and Definitions
+## Interpretation and Definitions
 
 ### Interpretation
 
@@ -31,7 +31,7 @@ For the purposes of this Privacy Policy:
 * **Website** refers to RitaBot, accessible from [https://ritabot.gg](https://ritabot.gg)
 * **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-### Collecting and Using Your Personal Data
+## Collecting and Using Your Personal Data
 
 ### Types of Data Collected
 
@@ -87,7 +87,7 @@ We use both Session and Persistent Cookies for the purposes set out below:
 
 For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
 
-### Use of Your Personal Data
+## Use of Your Personal Data
 
 The Company may use Personal Data for the following purposes:
 
