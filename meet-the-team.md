@@ -64,7 +64,11 @@ I have a long history of Dos, Windows, Database building, and Server building ex
 {% endtab %}
 
 {% tab title="KingLion" %}
+Several years of Discord Administrator experience, currently a Student of History. No specific coding experience but I love to help people with Bots and Discord and have fun doing so.&#x20;
 
+I've got a good humor, so always up to have a laugh and make someone's day better. Love Mobile Gaming, which is where I came to Rita from as well.&#x20;
+
+Loving Rita for making cross language communications much easier, so have to give something to her and the team as well!
 {% endtab %}
 
 {% tab title="Leonidas" %}
