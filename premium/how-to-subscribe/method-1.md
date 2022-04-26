@@ -86,7 +86,7 @@ Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if 
 
 ## Canceling a Subscription
 
-
+<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## Error & FAQ
 
