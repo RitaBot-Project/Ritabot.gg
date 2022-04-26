@@ -7,8 +7,6 @@ description: >-
 
 # Heroku
 
-
-
 {% hint style="danger" %}
 ### All development and support of the self-hosted version has now been discontinued
 {% endhint %}
@@ -36,7 +34,7 @@ description: >-
   * _I like the name C-3PO, but feel free to pick something different if you fear George Lucas’s wrath._
 * Enter the **Bot** page using the side-menu
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 * Click the '**Create a Bot User'** button and finalize using the '**Yes, do it!'** button
 
@@ -60,18 +58,18 @@ _Heroku is a PaAs (platform as a service). They provide hosting services for fre
 
 * Under '**Deployment Method'** select Github. Connect to your Github account and search for '**RitaBot'**, once it appears click on it to connect your fork.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 * Scroll down to the manual deploy section, and make sure the **master** branch is selected. Click deploy branch, and wait for the successfully deployed message.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 * Go to the **Resources** tab and look for the addons section. Search ‘Heroku Postgres’, and add ‘Hobby Dev - Free’ version of Heroku Postgres. This will be automatically attached as your bot’s database.&#x20;
 
 \
 
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 * Go to the **Settings** tab. Click to reveal Config Variables, then add then add the following:&#x20;
   * **KEY:** = DISCORD\_TOKEN
@@ -80,7 +78,7 @@ _Heroku is a PaAs (platform as a service). They provide hosting services for fre
   * **Value:** = false
     * _This is to ensure that when the bot updates it does not use any old Dependencies that Heroku has stored and gets fresh ones from the package.json file_
 
-![This is what your config vars should look like in settings](<../.gitbook/assets/image (6).png>)
+![This is what your config vars should look like in settings](<../.gitbook/assets/image (6) (1).png>)
 
 *   Go to the '**Overview'** tab and click configure dynos. Turn off the default `web npm start` dyno and turn on the `worker node src/bot.js` dyno. Your bot will now be up and running!
 
@@ -88,7 +86,7 @@ _Heroku is a PaAs (platform as a service). They provide hosting services for fre
 
 
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 
 
