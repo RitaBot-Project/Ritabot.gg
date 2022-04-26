@@ -33,7 +33,7 @@ We use it for the membership benifits and discord intergration. It allows us to 
 
 ![Plan Option](<../../.gitbook/assets/image (10).png>) ![Paypal or Card](<../../.gitbook/assets/image (13).png>)
 
-At this point, you will receive 1-3 emails. the first is to confirm your payment.\
+At this point, you will receive 1-3 emails. \
 See [**Existing** ](method-1.md#if-you-have-made-an-account-on-ko-fi-already.)or [**No Ko-Fi** ](method-1.md#if-you-have-purchased-a-subscription-and-dont-have-a-ko-fi-account.)Account for next steps.
 
 ## Linking/Creating an Account - Before & After
