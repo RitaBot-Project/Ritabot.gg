@@ -4,8 +4,6 @@ description: This is a Guide on how to subscribe on Ko-Fi
 
 # Ko-Fi
 
-
-
 {% hint style="info" %}
 If you want to subscribe with Ko-Fi then click [**here**](https://ko-fi.com/ritabot). \
 If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
@@ -17,9 +15,9 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 
 ## What is Ko-Fi
 
-Ko-Fi is for Artists, Writers, Podcasters, and all kinds of creators. It can be a simple tip-jar, a place to build a membership community or a super-easy way to sell products and commissions with just a link!\
+Ko-Fi is for Artists, Writers, Podcasters, and all kinds of creators. It can be a simple tip-jar, a place to build a membership community, or a super-easy way to sell products and commissions with just a link!\
 \
-We use it for the membership benifits and discord intergration. It allows us to reward members with unique benefits like Discord roles, exclusive content or physical items.
+We use it for membership benefits and discord integration. It allows us to reward members with unique benefits like Discord roles, exclusive content, or physical items.
 
 ## How to Subscribe
 
@@ -39,28 +37,28 @@ See [**Existing** ](method-1.md#if-you-have-made-an-account-on-ko-fi-already.)or
 ## Linking/Creating an Account - Before & After
 
 {% hint style="info" %}
-We recommend making an account with Ko-Fi before you subscribe, but if you dont then dont worry, follow the steps below.
+We recommend making an account with Ko-Fi before you subscribe, but if you don't then don't worry, follow the steps below.
 {% endhint %}
 
 ### Existing Ko-Fi Account
 
-If you have an account but have not recived your Discord Role then you need to link your Discord Account.&#x20;
+If you have an account but have not received your Discord Role then you need to link your Discord account.&#x20;
 
 Log in to Ko-Fi, Select the Menu icon and then Discord from the list, Here you will see the below.
 
 ![Connect your Discord User](<../../.gitbook/assets/Discord Auth.PNG>) ![Authorize Ko-Fi](../../.gitbook/assets/Discord.PNG)
 
-Once you have Authrized Discord you will get the "Successfully Connected to Discord" message,  you should recive the role within 15 mins, If you have not been given the "Subsciber" role within 15 mins then please open a ticket in our supoprt server. &#x20;
+Once you have Authorized Discord you will get the "Successfully Connected to Discord" message,  you should receive the role within 15 mins, If you have not been given the "Subscriber" role within 15 mins then please open a ticket in our support server. &#x20;
 
 {% hint style="info" %}
-Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if you have not been given "Subsciber" role
+Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if you have not been given 'Subscriber' role
 {% endhint %}
 
 ![Successfully Connected to Discord](../../.gitbook/assets/Done.png)
 
 ### No Ko-Fi Account
 
-If you have purchased a subscription and don't have a Ko-Fi account. Dont worry, Stop Panicing, You will get 2 email from Ko-Fi that look like these:
+If you have purchased a subscription and don't have a Ko-Fi account; don't worry, stop panicking. You will get 1-3 emails from Ko-Fi that look like these:
 
 ![Manage Subscription](../../.gitbook/assets/Manage.PNG) ![Confirm Your Payment](../../.gitbook/assets/Payment.PNG)
 
@@ -68,18 +66,18 @@ If you have purchased a subscription and don't have a Ko-Fi account. Dont worry,
 The "Manage Subscription" link may not always work, use "Confirm Your Payment"
 {% endhint %}
 
-Next you need to "Confirm Your Payment" - This will take you to a page confirming you plan details. Click on the "Claim Discord Roles"&#x20;
+Next, you need to "Confirm Your Payment" - This will take you to a page confirming your plan details. Click on the "Claim Discord Roles"&#x20;
 
 ![Create Account](../../.gitbook/assets/unknown.png)
 
-You now need to create an account, Select the option you want to use and create an account.&#x20;
+You now need to create an account, select the option you want to use and create an account.&#x20;
 
 ![Welcome to Ko-Fi!](../../.gitbook/assets/Congrats.png) ![Authorize Ko-Fi](../../.gitbook/assets/Discord.PNG)
 
-Once you have Authrized Discord you will get the "Successfully Connected to Discord" message,  you should recive the role within 15 mins, If you have not been given the "Subsciber" role within 15 mins then please open a ticket in our supoprt server. &#x20;
+Once you have Authorized Discord you will get the "Successfully Connected to Discord" message,  you should receive the role within 15 mins, If you have not been given the "Subscriber" role within 15 mins then please open a ticket in our support server. &#x20;
 
 {% hint style="info" %}
-Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if you have not been given "Subsciber" role
+Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if you have not been given 'Subscriber' role
 {% endhint %}
 
 ![Successfully Connected to Discord](../../.gitbook/assets/Done.png)
