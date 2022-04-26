@@ -37,7 +37,7 @@ We use it for the membership benifits and discord intergration. It allows us to 
 * If you chose **PayPal**, sign in and confirm your payment.
 * If you chose to **Pay with Card**, fill our your card details and continue
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 At this point, you will receive 2 emails. the first is to confirm your payment.\
 Select the big red button to do this, you will get a payment summary and a prompt in the top right-hand corner saying "Congratulations, you have confirmed your payment".

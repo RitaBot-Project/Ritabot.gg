@@ -42,7 +42,7 @@ description: >-
 
 * Copy the bot **TOKEN,** this is used to login to the bot and is required
 
-![Example of what a bot token will look like](<../.gitbook/assets/image (12).png>)
+![Example of what a bot token will look like](<../.gitbook/assets/image (12) (1).png>)
 
 ****
 
