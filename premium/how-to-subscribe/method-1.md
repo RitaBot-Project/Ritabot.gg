@@ -26,21 +26,15 @@ We use it for the membership benifits and discord intergration. It allows us to 
 * Navigate to [https://ko-fi.com/ritabot](https://ko-fi.com/ritabot)
 * Locate the Tier that you wish to subscribe to.
 * Select **Join**
-
-****![](<../../.gitbook/assets/image (10).png>)****
-
-* Fill in your **Email Address** and **Your Name**
+* Fill in your **Email Address** and **Your NickName** _(Please use your Discord Name)_
 * Select **PayPal** or **Pay with Card**
-
-![](<../../.gitbook/assets/image (13).png>)
-
 * If you chose **PayPal**, sign in and confirm your payment.
 * If you chose to **Pay with Card**, fill our your card details and continue
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (10).png>) ![](<../../.gitbook/assets/image (13).png>)
 
-At this point, you will receive 2 emails. the first is to confirm your payment.\
-Select the big red button to do this, you will get a payment summary and a prompt in the top right-hand corner saying "Congratulations, you have confirmed your payment".
+At this point, you will receive 1-3 emails. the first is to confirm your payment.\
+See [**Existing** ](method-1.md#if-you-have-made-an-account-on-ko-fi-already.)or [**No Ko-Fi** ](method-1.md#if-you-have-purchased-a-subscription-and-dont-have-a-ko-fi-account.)Account for next steps.
 
 ## Linking/Creating an Account - Before & After
 
@@ -48,7 +42,7 @@ Select the big red button to do this, you will get a payment summary and a promp
 We recommend making an account with Ko-Fi before you subscribe, but if you dont then dont worry, follow the steps below.
 {% endhint %}
 
-### If you have made an account on Ko-Fi already.
+### Existing Ko-Fi Account
 
 If you have an account but have not recived your Discord Role then you need to link your Discord Account.&#x20;
 
@@ -64,9 +58,9 @@ Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if 
 
 ![Successfully Connected to Discord](../../.gitbook/assets/Done.png)
 
-### If you have purchased a subscription and don't have a Ko-Fi account.
+### No Ko-Fi Account
 
-Dont worry, Stop Panicing, You will get 2 email from Ko-Fi that look like these:
+If you have purchased a subscription and don't have a Ko-Fi account. Dont worry, Stop Panicing, You will get 2 email from Ko-Fi that look like these:
 
 ![Manage Subscription](../../.gitbook/assets/Manage.PNG) ![Confirm Your Payment](../../.gitbook/assets/Payment.PNG)
 
