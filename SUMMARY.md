@@ -60,8 +60,8 @@
 
 * [Overview](premium/overview.md)
 * [How to Subscribe](premium/how-to-subscribe/README.md)
-  * [Ko-Fi](premium/how-to-subscribe/ko-fi.md)
-  * [Patreon](premium/how-to-subscribe/patreon.md)
+  * [Ko-Fi](premium/how-to-subscribe/method-1.md)
+  * [Patreon](premium/how-to-subscribe/method-2.md)
 * [Refunds and Disuputes](premium/refunds-and-disuputes.md)
 * [Contact Us](premium/contact-us.md)
 
