@@ -31,7 +31,7 @@ We use it for the membership benifits and discord intergration. It allows us to 
 * If you chose **PayPal**, sign in and confirm your payment.
 * If you chose to **Pay with Card**, fill our your card details and continue
 
-![](<../../.gitbook/assets/image (10).png>) ![](<../../.gitbook/assets/image (13).png>)
+![Plan Option](<../../.gitbook/assets/image (10).png>) ![Paypal or Card](<../../.gitbook/assets/image (13).png>)
 
 At this point, you will receive 1-3 emails. the first is to confirm your payment.\
 See [**Existing** ](method-1.md#if-you-have-made-an-account-on-ko-fi-already.)or [**No Ko-Fi** ](method-1.md#if-you-have-purchased-a-subscription-and-dont-have-a-ko-fi-account.)Account for next steps.
