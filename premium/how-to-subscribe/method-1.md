@@ -76,11 +76,11 @@ You now need to create an account, select the option you want to use and create 
 
 Once you have Authorized Discord you will get the "Successfully Connected to Discord" message,  you should receive the role within 15 mins, If you have not been given the "Subscriber" role within 15 mins then please open a ticket in our support server. &#x20;
 
+![Successfully Connected to Discord](../../.gitbook/assets/Done.png)
+
 {% hint style="info" %}
 Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if you have not been given 'Subscriber' role
 {% endhint %}
-
-![Successfully Connected to Discord](../../.gitbook/assets/Done.png)
 
 ## Canceling a Subscription
 
