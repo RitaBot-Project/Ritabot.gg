@@ -10,11 +10,7 @@ On Patreon, you can let your fans become active participants in the work they lo
 
 
 
-## Creating an Account - Before & After
-
-
-
-## Linking to Discord
+## Linking/Creating an Account - Before & After
 
 
 
