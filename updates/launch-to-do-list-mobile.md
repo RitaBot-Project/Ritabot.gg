@@ -4,7 +4,7 @@ layout: landing
 
 # Launch To-Do List Mobile
 
-{% hint style="success" %}
+{% hint style="info" %}
 If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
 {% endhint %}
 
