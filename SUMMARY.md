@@ -6,7 +6,7 @@
 
 ## What's New
 
-* [V1.3.0 Alpha](whats-new/130.md)
+* [V1.3.0](whats-new/130.md)
 
 ## Usage, Commands & Settings
 
@@ -40,12 +40,15 @@
 * [It’s All About Rita](misc/about.md)
 * [MIT License](misc/untitled-2.md)
 
-## History
+## Version History
 
-* [V1.2.3](whats-new-1/122.md)
-* [V1.2.4](history/124.md)
-* [V1.2.5](history/125.md)
-* [V1.2.6](history/126.md)
+* [V1.2.0](version-history/v1.2.0.md)
+* [V1.2.1](version-history/v1.2.1.md)
+* [V1.2.2](version-history/v1.2.2.md)
+* [V1.2.3](version-history/123.md)
+* [V1.2.4](version-history/124.md)
+* [V1.2.5](version-history/125.md)
+* [V1.2.6](version-history/126.md)
 
 ## Updates
 

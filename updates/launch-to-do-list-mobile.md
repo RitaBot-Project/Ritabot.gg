@@ -66,15 +66,12 @@ These are not mandatory, but are desired. They can be implemented after launch w
 * [ ] **Thread Support**
 * [ ] **Auto Warn/Eject System**
 * [ ] **Flag Reaction to users DM**
-* [ ] **Developer Identity Check / Restriction in Public & Community Servers**
-* [ ] **Delete messages of Banned/Kicked user**
-* [ ] **Mass delete translated messages of single user**
 * [ ] **Long Split messages order correction**
 
 Commands we want to try and introduce for launch, but may not be fully tested or activated.
 
 * [ ] **!tr ignore \[channel/role/user] (id)**
-* [ ] **!tr check \[server/user] (id)**
+* [x] **!tr check \[server/user] (id)**
 * [ ] **!tr profanity (delete/remove/hide)**
 * [ ] **!tr whitelist/blacklist \[server/user/role] (id)**
 
@@ -126,7 +123,7 @@ All the following help command responses need to be Updated, Checked, Tested and
 
 <summary>Support Guides</summary>
 
-*   [ ] **Support Guide on Task Limits**
+*   [x] **Support Guide on Task Limits**
 
     At the time of launch, this will be 250. However in future this is subject to change. All server with more than 250 tasks currently will unable to create any more tasks, they will be given a grace period of 1 month to reduce the task count to below 250. If this is not done then after 30 days ALL tasks will be removed from the Database for the selected server. Once they are delete they will not be able to be recovered.
 
@@ -171,6 +168,9 @@ Full Testing guide can not be released at this time, But will be in the future. 
 * [ ] **Global Spam link detection**
 * [ ] **Global Ban List**
 * [ ] **Simplified Set-up and Category Set-up Wizard**
+* [ ] **Developer Identity Check / Restriction in Public & Community Servers**
+* [ ] **Delete messages of Banned/Kicked user**
+* [ ] **Mass delete translated messages of single user**
 
 </details>
 
