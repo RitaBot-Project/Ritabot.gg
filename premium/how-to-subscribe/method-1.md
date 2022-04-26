@@ -44,8 +44,6 @@ Select the big red button to do this, you will get a payment summary and a promp
 
 ## Linking/Creating an Account - Before & After
 
-To create your account, please see **Linking to Discord.**
-
 {% hint style="info" %}
 We recommend making an account with Ko-Fi before you subscribe, but if you dont then dont worry, follow the steps below.
 {% endhint %}
