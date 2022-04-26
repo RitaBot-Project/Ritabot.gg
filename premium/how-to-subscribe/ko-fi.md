@@ -44,7 +44,7 @@ Select the big red button to do this, you will get a payment summary and a promp
 
 ## Creating an Account - Before & After
 
-
+To create your account, please see **Linking to Discord.**
 
 ## Linking to Discord
 
