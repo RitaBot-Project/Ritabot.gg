@@ -82,9 +82,27 @@ Once you have Authorized Discord you will get the "Successfully Connected to Dis
 Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if you have not been given 'Subscriber' role
 {% endhint %}
 
-## Canceling a Subscription
+## Cancelling a Subscription
 
+Cancelling can be done from within your Ko-Fi Account.
 
+* Navigate to [https://ko-fi.com/account/](https://ko-fi.com/account/) (Sign in if required)
+* On the left-hand side, under 'More ways to earn' select **More**
+* Select **Account & Billing**
+* You should now see **Subscriptions**
+
+![](../../.gitbook/assets/Capture.PNG)
+
+* You can now select the 3 tods in the bottom-right of the active subscription.
+* Select **Don't Renew**
+
+![](<../../.gitbook/assets/Capture 2.PNG>)
+
+* On the next prompt, select the red **Yes, Cancel It** button
+
+![](<../../.gitbook/assets/Capture 3.PNG>)
+
+Your subscription is now cancelled subject to pro-rata. This means that your subscription will end on the next renewal date, allowing you to use the functionality for the remainder of the month.
 
 ## Error & FAQ
 
