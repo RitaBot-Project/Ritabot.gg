@@ -34,6 +34,7 @@
 * [Webhook Logging](trouble/untitled.md)
   * [Heroku](troubleshooting/webhook/heroku.md)
   * [PebbleHost](troubleshooting/webhook/pebblehost.md)
+* [FAQ](troubleshooting/faq.md)
 
 ## Misc
 
@@ -43,13 +44,13 @@
 ## Version History
 
 * [V1.2.?](version-history/v1.2./README.md)
-  * [V1.2.0](version-history/v1.2.0.md)
-  * [V1.2.1](version-history/v1.2.1.md)
-  * [V1.2.2](version-history/v1.2.2.md)
-  * [V1.2.3](version-history/123.md)
-  * [V1.2.4](version-history/124.md)
-  * [V1.2.5](version-history/125.md)
-  * [V1.2.6](version-history/126.md)
+  * [V1.2.0](version-history/v1.2./v1.2.0.md)
+  * [V1.2.1](version-history/v1.2./v1.2.1.md)
+  * [V1.2.2](version-history/v1.2./v1.2.2.md)
+  * [V1.2.3](version-history/v1.2./123.md)
+  * [V1.2.4](version-history/v1.2./124.md)
+  * [V1.2.5](version-history/v1.2./125.md)
+  * [V1.2.6](version-history/v1.2./126.md)
 
 ## Updates
 
@@ -63,6 +64,7 @@
 * [How to Subscribe](premium/how-to-subscribe/README.md)
   * [Ko-Fi](premium/how-to-subscribe/method-1.md)
   * [Patreon](premium/how-to-subscribe/patreon.md)
+  * [Payment FAQ](premium/how-to-subscribe/payment-faq.md)
 * [Refunds and Disuputes](premium/refunds-and-disuputes.md)
 * [Contact Us](premium/contact-us.md)
 
