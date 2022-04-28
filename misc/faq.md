@@ -10,9 +10,7 @@ description: Here are some of the common questions that have been asked about th
 
 <summary>Why is RITA no longer free?</summary>
 
-We used an old version of the Google Translate Website API that was intended to be decommissioned prior to 2010. \
-\
-Google has now shut this down, as such, we are now required to use Google Cloud Translate API which comes with costs.
+
 
 </details>
 
@@ -110,9 +108,7 @@ There will be things however that will be managed by a single or maybe two membe
 
 <summary>How will payments be made?</summary>
 
-Currently we offer subscriptions though KoFi and Patreon. These providers both utilize PayPal and card payments.\
-\
-We currently recommend KoFi over Patreon.&#x20;
+
 
 </details>
 
@@ -120,13 +116,7 @@ We currently recommend KoFi over Patreon.&#x20;
 
 <summary>What Subscription levels will be offered?</summary>
 
-Currently, we are offering 3 levels.\
-\
-Casual = 250 Tasks\
-Tinkerer = 500 Tasks\
-Pro= 1000 Tasks\
-\
-All levels come with Discord access and roles, with bot support for the lifetime of your subscription.
+
 
 </details>
 
@@ -146,8 +136,7 @@ We recognise that some server may need more tasks, thats why we have other plans
 
 <summary>Do i need to set RITA up again in my server?</summary>
 
-If you had RITA in your server before, any configuration you had previously will continue to operate without additional setup.\
-Please note, however, that if your task count exceeds 250, then the basic plan will not be enough for you, and RITA may not start translating immediately until upgraded.
+
 
 </details>
 
