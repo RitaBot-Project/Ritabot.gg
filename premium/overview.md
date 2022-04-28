@@ -19,7 +19,9 @@ For any queries you may have in regards to subscriptions, please proceed to <mar
 
 There may be times RitaBot ceases to function, in which the procedure for us will be to verify the problem and fix it as soon as possible. We are not responsible for any issues this may cause.&#x20;
 
-Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.
+Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.\
+\
+In line with our [Refund Policy](../policys/refund-policy.md), We do not offer a minimum Up-time per monthly cycle. However any maintenance will be kept as short as possible.
 
 ## Servers
 
