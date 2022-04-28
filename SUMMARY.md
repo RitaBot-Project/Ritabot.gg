@@ -24,7 +24,6 @@
   * [Ko-Fi](premium/how-to-subscribe/method-1.md)
   * [Patreon](premium/how-to-subscribe/patreon.md)
   * [Payment FAQ](premium/how-to-subscribe/payment-faq.md)
-* [Refunds and Disuputes](premium/refunds-and-disuputes.md)
 * [Contact Us](premium/contact-us.md)
 
 ## Misc
