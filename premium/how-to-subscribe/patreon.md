@@ -8,13 +8,43 @@ On Patreon, you can let your fans become active participants in the work they lo
 
 ## How to Subscribe
 
+* Navigate to \<Insert link here>
+* Select the plan that you wish to use by pressing **Join**
 
+![](<../../.gitbook/assets/Capture (1).PNG>)
+
+* If you have an account with Patreon already, please select **Log-In** from the bottom of the page.
+* If you don't have an account, You can **Sign up with Google or Facebook** or you can fill in the form and select **Sign Up** when you are done
+
+![](<../../.gitbook/assets/Capture 3 (1).PNG>)
+
+* For those creating new accounts. Confirm your **Country of Residence**
+* **NOTE: DON'T FORGET TO VERIFY YOUR EMAIL**
+* For those paying with a card, Select that option and fill out your details to process your payment.
+
+![](../../.gitbook/assets/Card.PNG)
+
+Selecting **Pay with Card** will then process through and you will receive a confirmation by email.
+
+* For those paying with PayPal, select this option, and then **Pay with PayPal**. You can then sign into PayPal.
+
+![](../../.gitbook/assets/paypal.PNG) ![](<../../.gitbook/assets/paypal 2.PNG>)
+
+* Once you have signed in, confirm your payment method and then **Agree and Continue**
+
+As soon as you select continue as per the previous step, the payment will process and you will get a confirmation on screen that you were sucessful.
+
+![](<../../.gitbook/assets/Patron done.PNG>)
+
+You can now link your Discord account to your patron. Scroll down until you see **Connect to Discord.** You can then sign in to discord and recieve your roles.
+
+![](<../../.gitbook/assets/Patron discord.PNG>)
 
 ## Linking/Creating an Account - Before & After
 
 
 
-## Canceling a Subscription
+## Cancelling a Subscription
 
 
 
