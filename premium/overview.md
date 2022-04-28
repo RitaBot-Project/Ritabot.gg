@@ -19,7 +19,9 @@ For any queries you may have in regards to subscriptions, please proceed to <mar
 
 There may be times RitaBot ceases to function, in which the procedure for us will be to verify the problem and fix it as soon as possible. We are not responsible for any issues this may cause.&#x20;
 
-Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.
+Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.\
+\
+In line with our [Refund Policy](../policys/refund-policy.md), We Aim for a service uptime of >80% (24 Days in a rolling 30 day period) of core functionality.
 
 ## Servers
 
@@ -32,4 +34,14 @@ To activate your subscription after you have paired your Discord Account to your
 {% hint style="danger" %}
 In order to subscribe and maintain said subscription, you MUST be on our [**Discord Server**](https://discord.gg/mgNR64R)**.** If you cannot or are not, your subscription will be cancelled at the end of a 1-month period from the last verification date (the last 1-month period from the subscription start where the subscription was confirmed).
 {% endhint %}
+
+## What do i with each plan?
+
+The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted too. If this changes however we will let you know, You wont loose access to anything you dont already have.&#x20;
+
+| Function / Command | Casual | Tinkerer | Pro  |
+| ------------------ | ------ | -------- | ---- |
+| Task Limit         | 250    | 500      | 1000 |
+|                    |        |          |      |
+|                    |        |          |      |
 
