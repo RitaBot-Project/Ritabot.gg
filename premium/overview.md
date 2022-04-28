@@ -33,3 +33,11 @@ To activate your subscription after you have paired your Discord Account to your
 In order to subscribe and maintain said subscription, you MUST be on our [**Discord Server**](https://discord.gg/mgNR64R)**.** If you cannot or are not, your subscription will be cancelled at the end of a 1-month period from the last verification date (the last 1-month period from the subscription start where the subscription was confirmed).
 {% endhint %}
 
+## What do i with each plan?
+
+The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted too. If this changes however we will let you know, You wont loose access to anything you dont already have.&#x20;
+
+| Function / Command | Free | Casual | Tinkerer | Pro  |
+| ------------------ | ---- | ------ | -------- | ---- |
+| Task Limit         | 0    | 250    | 500      | 1000 |
+
