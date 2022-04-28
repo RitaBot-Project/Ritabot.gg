@@ -42,10 +42,42 @@ You can now link your Discord account to your patron. Scroll down until you see 
 
 ## Linking/Creating an Account - Before & After
 
+Now you have a subscription with RITA, you can link your discord to get Roles. To do this either select **Connect to Discord** on the confirmation page, or go to your profile:
 
+* Profile > Edit Profile > Connected Apps
+* Select **Connect** on the Discord option
+
+![](../../.gitbook/assets/discord.PNG)
+
+* Sign in as you normally would. Then select Authorise to confirm
+
+
+
+![](<../../.gitbook/assets/discord 2.PNG>)
+
+*
 
 ## Cancelling a Subscription
 
+To cancel a subscription, you will need to do this from within Pateon.
 
+* Sign into Patron
+* Navigate to your profile Menu
+* Select **Manage Memberships**
+* Locate RITA under **Active Memberships**
+
+![](<../../.gitbook/assets/Patron memberships.PNG>)
+
+* Select **Edit** for the RITA membership
+* Select **Edit for Cancel Membership**
+
+![](../../.gitbook/assets/Cancel.PNG)
+
+* Select the **Cancel your Membership** option
+* Select the black **Cancel your Membership** button to confirm
+
+![](<../../.gitbook/assets/Cancel (1).PNG>)
+
+Your membership will now be cancelled subject to Pro-Rata. This means your membership will end at the end of the month you paid for. If you have any issues or concerns, please open a ticket in the RITA Management Server.
 
 ## Error & FAQ
