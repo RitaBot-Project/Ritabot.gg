@@ -79,3 +79,5 @@ To cancel a subscription, you will need to do this from within Pateon.
 ![](<../../.gitbook/assets/Cancel (1).PNG>)
 
 Your membership will now be cancelled subject to Pro-Rata. This means your membership will end at the end of the month you paid for. If you have any issues or concerns, please open a ticket in the RITA Management Server.
+
+## Error & FAQ

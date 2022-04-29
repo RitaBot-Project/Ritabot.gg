@@ -104,3 +104,5 @@ Cancelling can be done from within your Ko-Fi Account.
 
 Your subscription is now cancelled subject to pro-rata. This means that your subscription will end on the next renewal date, allowing you to use the functionality for the remainder of the month.
 
+## Error & FAQ
+
