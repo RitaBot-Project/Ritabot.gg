@@ -5,7 +5,6 @@ description: This is a Guide on how to subscribe on Ko-Fi
 # Ko-Fi
 
 {% hint style="info" %}
-Link If you want to subscribe with Ko-Fi then click [**here**](https://ko-fi.com/ritabot). \
 If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
 {% endhint %}
 
@@ -21,7 +20,7 @@ We use it for membership benefits and discord integration. It allows us to rewar
 
 ## How to Subscribe
 
-* Navigate to&#x20;
+* Navigate to \<Insert link here>
 * Locate the Tier that you wish to subscribe to.
 * Select **Join**
 

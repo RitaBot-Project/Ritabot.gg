@@ -1,12 +1,12 @@
 # Channel Translation
 
-_Automatically translates any new messages in the current channel and forwards them to the target channel. Admins/mods can set forwarding to the same channel(not recommended) or other channels(recommended)._
-
-_Please note that when you setup an auto command the target channel will not send back to main channel unless you tell it to_
-
 {% hint style="info" %}
 If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
 {% endhint %}
+
+_Automatically translates any new messages in the current channel and forwards them to the target channel. Admins/mods can set forwarding to the same channel(not recommended) or other channels(recommended)._
+
+_Please note that when you setup an auto command the target channel will not send back to main channel unless you tell it to_
 
 ## Command <a href="#command" id="command"></a>
 

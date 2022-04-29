@@ -1,10 +1,20 @@
+---
+description: This is a Guide on how to subscribe on Patreon
+---
+
 # Patreon
+
+{% hint style="info" %}
+If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
+{% endhint %}
+
+{% hint style="warning" %}
+Due to Historic issue with Patreon and its integration with Discord, We have limited the number of users who can purchase via Patreon to ensure that it works correctly. We hope to remove or increase this limit as soon as we are comfortable that the intergration works as expected.
+{% endhint %}
 
 ## What is Patreon
 
 On Patreon, you can let your fans become active participants in the work they love by offering them a monthly membership. You give them access to exclusive content, community, and insight into your creative process. In exchange, you get the freedom to do your best work, and the stability you need to build an independent creative career.
-
-
 
 ## How to Subscribe
 
