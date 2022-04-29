@@ -2,4 +2,4 @@
 
 For support, please visit us at our [Discord Server](https://discord.gg/mBBMVrkA4P)\
 \
-If you wish to email us about payments, please use Payments@ritabot.gg
+If you wish to email us about payments, please use [Payments@ritabot.gg](mailto:payments@ritabot.gg)
