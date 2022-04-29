@@ -21,7 +21,7 @@ There may be times RitaBot ceases to function, in which the procedure for us wil
 
 Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.\
 \
-In line with our [Refund Policy](../policys/refund-policy.md), We Aim for a service uptime of >80% (24 Days in a rolling 30 day period) of core functionality.
+In line with our [Refund Policy](../policys/refund-policy.md), We Aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
 
 ## Servers
 
@@ -32,12 +32,12 @@ Currently, **only the server owner** can buy a subscription for a server. Furthe
 To activate your subscription after you have paired your Discord Account to your payment, you must run the **`!tr sub`** command in the <mark style="color:blue;">#activate-rita-here</mark> channel in our [Discord Server](https://discord.gg/mgNR64R), after you do so follow the prompts to activate your subscription for the specific server.
 
 {% hint style="danger" %}
-In order to subscribe and maintain said subscription, you MUST be on our [**Discord Server**](https://discord.gg/mgNR64R)**.** If you cannot or are not, your subscription will be cancelled at the end of a 1-month period from the last verification date (the last 1-month period from the subscription start where the subscription was confirmed).
+In order to subscribe and maintain said subscription, you MUST be on our [**Discord Server**](https://discord.gg/mgNR64R)**.** If you cannot or are not, your subscription will be canceled at the end of a 1-month period from the last verification date (the last 1-month period from the subscription start where the subscription was confirmed).
 {% endhint %}
 
 ## What do I get with each plan?
 
-The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted too. If this changes however we will let you know, You wont loose access to anything you dont already have.&#x20;
+The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted to. If this changes however we will let you know, You won't lose access to anything you don't already have.&#x20;
 
 | Function / Command | Casual | Tinkerer | Pro  |
 | ------------------ | ------ | -------- | ---- |
