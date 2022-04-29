@@ -43,7 +43,7 @@ Listed below are other **possible** reasons that might permit a full or prorated
 
 * Any kind of unauthorized transaction that was not undertaken on your behalf but financially affects you.
 * A situation in which you are not successfully receiving or are unable to access promised premium features.
-* Service uptime of less than 90% (27 Days in a rolling 30 day period) due to maintenance, takedown, core functionality issues or other services under the direct control of RitaBot or the Rita Bot Dev Team.&#x20;
+* Service uptime of less than 80% (24 Days in a rolling 30 day period) due to maintenance, takedown, core functionality issues or other services under the direct control of RitaBot or the Rita Bot Dev Team.&#x20;
 
 All/Any of the reasons above require viable proof to be accepted as possible inquiries for the initiation of a refund.
 

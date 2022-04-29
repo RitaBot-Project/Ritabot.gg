@@ -24,12 +24,16 @@ We use it for membership benefits and discord integration. It allows us to rewar
 * Navigate to&#x20;
 * Locate the Tier that you wish to subscribe to.
 * Select **Join**
+
+![Join The "Casual" Plan](<../../.gitbook/assets/image (10).png>)
+
 * Fill in your **Email Address** and **Your NickName** _(Please use your Discord Name)_
 * Select **PayPal** or **Pay with Card**
+
+![Payment Option](../../.gitbook/assets/1234.PNG)
+
 * If you chose **PayPal**, sign in and confirm your payment.
 * If you chose to **Pay with Card**, fill our your card details and continue
-
-![Plan Option](<../../.gitbook/assets/image (10).png>) ![Paypal or Card](<../../.gitbook/assets/image (13).png>)
 
 At this point, you will receive 1-3 emails. \
 See [**Existing** ](method-1.md#if-you-have-made-an-account-on-ko-fi-already.)or [**No Ko-Fi** ](method-1.md#if-you-have-purchased-a-subscription-and-dont-have-a-ko-fi-account.)Account for next steps.
@@ -103,6 +107,4 @@ Cancelling can be done from within your Ko-Fi Account.
 ![](<../../.gitbook/assets/Capture 3.PNG>)
 
 Your subscription is now cancelled subject to pro-rata. This means that your subscription will end on the next renewal date, allowing you to use the functionality for the remainder of the month.
-
-## Error & FAQ
 
