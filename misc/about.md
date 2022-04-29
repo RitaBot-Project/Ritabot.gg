@@ -1,7 +1,7 @@
 # It’s All About Rita
 
 {% hint style="danger" %}
-### All development and support of the self-hosted version has now been discontinued
+All development and support of the self-hosted version has now been discontinued
 {% endhint %}
 
 {% hint style="info" %}
