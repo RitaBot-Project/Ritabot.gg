@@ -12,9 +12,9 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 
 ## Wait, What, i've missed somthing?
 
-If you have not been following our [announcment ](https://discord.com/channels/545787876105912341/823382400024444958)channel, Or has not read our previous [Update ](rita-update.md)we would advised you go do this, It will answer most of your questions.
+If you have not been following our [announcement ](https://discord.com/channels/545787876105912341/823382400024444958)channel, Or have not read our previous [Update ](rita-update.md)we would advise you to do this, It will answer most of your questions.
 
-&#x20;For further information check out out [FAQ ](../misc/faq.md)or join our [Support server](https://discord.com/invite/mgNR64R).&#x20;
+For further information check out out [FAQ ](../misc/faq.md)or join our [Support server](https://discord.com/invite/mgNR64R).&#x20;
 
 ## How do i Subscribe
 
