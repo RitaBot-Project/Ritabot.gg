@@ -20,7 +20,7 @@ We use it for membership benefits and discord integration. It allows us to rewar
 
 ## How to Subscribe
 
-* Navigate to \<Insert link here>
+* Navigate to [Ko-Fi](https://ko-fi.com/ritabot)
 * Locate the Tier that you wish to subscribe to.
 * Select **Join**
 
