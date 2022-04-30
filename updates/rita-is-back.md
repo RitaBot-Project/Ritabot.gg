@@ -16,7 +16,7 @@ If you have not been following our [announcement ](https://discord.com/channels/
 
 For further information check out [FAQ ](../misc/faq.md)or join our [support server](https://discord.com/invite/mgNR64R).&#x20;
 
-## How do I Subscribe
+## How do I Subscribe?
 
 You can do this in a few ways. You can purchase from [Ko-Fi](https://ko-fi.com/ritabot) or [Patreon](https://www.patreon.com/RitaBotProject).\
 For info and step by step guide check [this ](../premium/how-to-subscribe/)out.
