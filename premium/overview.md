@@ -7,6 +7,10 @@ description: >-
 
 # Overview
 
+{% hint style="info" %}
+If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
+{% endhint %}
+
 ## About Subscribing
 
 In order to subscribe to RitaBot, _you must be on our_ [_**Discord Server**_](https://discord.gg/mgNR64R)_._ **** Subscriptions are role-based, meaning that Rita updates subscriptions based on which roles you have been given by the payment platform (which tier you have bought). If you leave the server, Rita will cancel your subscription at the end of a one-month period from the last subscription date, even if your subscription is still active.&#x20;
