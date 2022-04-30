@@ -18,15 +18,12 @@ That's all we have, for now. So keep an eye on this page, as we progress we will
 
 ## LAUNCH DATE
 
-RITA 1.3.0 will be launched on: **TBA**
+RITA 1.3.0 will be launched on: **01/05/2022 00:00 GMT**
 
 ## Core Commands
 
 The following command need to be Added and a full round of testing conducted before launch. These are vital to core functionality of RITA and operational status when launch takes place.
 
-*   #### **!tr find \[Server Name/Owner] (Owner ID / Username / Tag)**
-
-    Searching for a server by Variables will allow us to manage user request without having to pull a full server list or refer to DB.
 *   #### **!tr sub**&#x20;
 
     Subscription Command, Variables and Error Catching.
@@ -41,27 +38,13 @@ These Functions are Required to be function for core services. Full testing need
 * [x] **Tasks Restrictions**
   * [x] Limiter - Restriction to 250 Tasks per server
   * [x] Warning Message - Show warning message when a user attempts to add a task where it will go over 250 task count
-* [ ] **Permissiong Structure**
-  * [ ] Full check of current permission structure
-  * [ ] Change some Owner only commands to Admin
-* [ ] **DB Server Name limit Increase (32 Char to 250)**
+* [x] **DB Server Name limit Increase (32 Char to 250)**
 
 ## Other Functions
 
 These are not mandatory, but are desired. They can be implemented after launch with normal Feature introduction Process.
 
-* [ ] **Profanity Filter**
-* [ ] **Thread Support**
-* [ ] **Auto Warn/Eject System**
-* [ ] **Flag Reaction to users DM**
-* [ ] **Long Split messages order correction**
-
-Commands we want to try and introduce for launch, but may not be fully tested or activated.
-
-* [ ] **!tr ignore \[channel/role/user] (id)**
 * [x] **!tr check \[server/user] (id)**
-* [ ] **!tr profanity (delete/remove/hide)**
-* [ ] **!tr whitelist/blacklist \[server/user/role] (id)**
 
 ## Help Commands
 
@@ -70,16 +53,16 @@ All the following help command responses need to be Updated, Checked, Tested and
 *   #### **!tr help sub**
 
     New command needs to be created with info about sub process.
-*   [ ] **!tr ticket**
+*   [x] **!tr ticket**
 
     Info on how to raise a support ticket, link to server ticket channel and info about the different support tickets available.
-*   [ ] **!tr help auto**
+*   [x] **!tr help auto**
 
     Update info on HOW TO USE the help auto command, and what it should not be used for.
-*   [ ] **!tr help update**
+*   [x] **!tr help update**
 
     Remove this command as no longer needed.
-* [ ] **!tr help settings**
+* [x] **!tr help settings**
 
 ## Discord Server Changes
 
@@ -89,7 +72,7 @@ All the following help command responses need to be Updated, Checked, Tested and
 
 ## Website
 
-* [ ] **Website Policy on Refunds / Disputes and FAQ**
+* [x] **Website Policy on Refunds / Disputes and FAQ**
   * [ ] Full guide on policy for Subscription, how they are managed and dispute process.&#x20;
   * [x] FAQ for payment process, refunds and ticket support.
 
@@ -98,16 +81,16 @@ All the following help command responses need to be Updated, Checked, Tested and
 *   [x] **Support Guide on Task Limits**
 
     At the time of launch, this will be 250. However in future this is subject to change. All server with more than 250 tasks currently will unable to create any more tasks, they will be given a grace period of 1 month to reduce the task count to below 250. If this is not done then after 30 days ALL tasks will be removed from the Database for the selected server. Once they are delete they will not be able to be recovered.
-*   [ ] **Sub Support guide**
+*   [x] **Sub Support guide**
 
     Full support guide on how to Sub, With images and step by step process on how to do it.&#x20;
 
 ## Roles and Responsability
 
-* [ ] Guidelines for Community Helpers
-* [ ] Guidelines for Bot Helpers
-* [ ] Community Guidelines & Ticket expectations
-* [ ] Core Team Guidelines, Roles and responsabilities
+* [x] Guidelines for Community Helpers
+* [x] Guidelines for Bot Helpers
+* [x] Community Guidelines & Ticket expectations
+* [x] Core Team Guidelines, Roles and responsabilities
 
 ## Testing
 
@@ -128,6 +111,20 @@ Full Test of all Core Functions, Commands, Restriction and Translation Functions
 * [ ] **Developer Identity Check / Restriction in Public & Community Servers**
 * [ ] **Delete messages of Banned/Kicked user**
 * [ ] **Mass delete translated messages of single user**
+* [ ] **!tr ignore \[channel/role/user] (id)**
+* [ ] **!tr profanity (delete/remove/hide)**
+* [ ] **!tr whitelist/blacklist \[server/user/role] (id)**
+* [ ] **Profanity Filter**
+* [ ] **Thread Support**
+* [ ] **Auto Warn/Eject System**
+* [ ] **Flag Reaction to users DM**
+* [ ] **Long Split messages order correction**
+* [ ] **Permissiong Structure**
+  * [ ] **Full check of current permission structure**
+  * [ ] **Change some Owner only commands to Admin**
+*   #### **!tr find \[Server Name/Owner] (Owner ID / Username / Tag)**
+
+    Searching for a server by Variables will allow us to manage user request without having to pull a full server list or refer to DB.
 
 {% hint style="success" %}
 If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
