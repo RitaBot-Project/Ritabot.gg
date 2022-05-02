@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "RitaBot | Discord Translator"
+permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_banner1.jpg
