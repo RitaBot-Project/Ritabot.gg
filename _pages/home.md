@@ -22,7 +22,7 @@ feature_row:
     url: "https://docs.ritabot.gg/ritabot-docs/policys/privacy-policy"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://images.unsplash.com/photo-1520789304460-c5885e7c675d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  - image_path: /assets/images/canoe.jpg
     alt: "Totally secure, cheap Discord Translator"
     title: "Affordable, Cheap and Accessible"
     excerpt: "Rita has cheap monthly subscription tiers which are not throttled in relation to character counts and individual translations. This allows you to communicate efficiently and easily with those you want to. "
