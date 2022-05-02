@@ -13,3 +13,13 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 **`!tr proc`** - Shows the processor usage, CPU, Ram and Uptime of the bot.
 
 **`!tr shards`**- Shows the number of shards the bot is running on.
+
+## **Admin Only - Do not use in public channels**
+
+**`!tr stats server [ServerID]`**
+
+**`!tr stats debug`**&#x20;
+
+### Parameters
+
+**`[ServerID]`** - Raw Server ID
