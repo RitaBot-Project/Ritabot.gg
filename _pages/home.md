@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_banner1.jpg
 excerpt: >
-  A Real-Time Interchangeable Translating Assistant, RITA is a translation bot built using discord.js and the Cloud Google Translate API. Offering affordable, and cheap Discord translation services in over 100+ languages. RitaBot is one of the best cheap and affordable translation bots out there, with no limits on individual discord language translations, and supporting a max of 1000 automatic channel translation tasks.<br />
+  A Real-Time Interchangeable Translating Assistant, RITA is a translation bot built using discord.js and the Cloud Google Translate API. Offering affordable, and cheap Discord translation services in over 100+ languages. RitaBot is one of the best cheap and affordable translation bots out there, with no limits on individual discord language translations.<br />
 feature_row:
   - image_path: /assets/images/1.gif
     alt: "Feature rich Discord Translator, Automatic Channel Translation, Flag Reaction Translation, and much more."
@@ -29,6 +29,5 @@ feature_row:
     url: "https://docs.ritabot.gg/ritabot-docs/premium/overview"
     btn_class: "btn--primary"
     btn_label: "Subscription Info"
-  - image_path: "https://"
 ---
 {% include feature_row %}
