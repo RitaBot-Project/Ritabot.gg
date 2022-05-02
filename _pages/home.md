@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "RitaBot | Discord Translator"
+title: "RitaBot Discord Translator"
 permalink: /
 header:
   overlay_color: "#5e616c"
