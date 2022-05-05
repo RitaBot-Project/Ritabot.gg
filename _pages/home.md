@@ -29,5 +29,12 @@ feature_row:
     url: "https://docs.ritabot.gg/ritabot-docs/premium/overview"
     btn_class: "btn--primary"
     btn_label: "Subscription Info"
+  - image_path: /assets/images/robynne-hu-HOrhCnQsxnQ-unsplash.jpg
+    alt: "Invite Rita Here"
+    title: "Invite RITA"
+    excerpt: "You can invite Rita here, please note that in order for her to function you must have an activated subscription."
+    url: "https://discord.gg/jjPFybAZ4E"
+    btn_class: "btn--primary"
+    btn_label: "Invite Rita"
 ---
 {% include feature_row %}
