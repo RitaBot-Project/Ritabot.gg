@@ -20,9 +20,6 @@ On Patreon, you can let your fans become active participants in the work they lo
 
 * Navigate to [Patreon](https://www.patreon.com/RitaBotProject)
 * Select the plan that you wish to use by pressing **Join**
-
-![](<../../.gitbook/assets/Capture (1).PNG>)
-
 * If you have an account with Patreon already, please select **Log-In** from the bottom of the page.
 * If you don't have an account, You can **Sign up with Google or Facebook** or you can fill in the form and select **Sign Up** when you are done
 
