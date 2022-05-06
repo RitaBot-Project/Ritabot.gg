@@ -23,9 +23,6 @@ We use it for membership benefits and discord integration. It allows us to rewar
 * Navigate to [Ko-Fi](https://ko-fi.com/ritabot)
 * Locate the Tier that you wish to subscribe to.
 * Select **Join**
-
-![Join The "Casual" Plan](<../../.gitbook/assets/image (10).png>)
-
 * Fill in your **Email Address** and **Your NickName** _(Please use your Discord Name)_
 * Select **PayPal** or **Pay with Card**
 
