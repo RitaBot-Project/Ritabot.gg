@@ -44,6 +44,12 @@ I never shy away from a challenge and always find a way to improve.
 
 <summary>Brozer - Database Developer</summary>
 
+At work, i'm a DBA on the development side who help dev teams (over 600 people) to modelize their data into RDBMS like PostgreSQL and Oracle. I also help them to build secure databases, evolutive with perf guarantees. As a support member, I also give them lessons on fundamentals like how to code properly in SQL ANSI, how to choose a database to fit their needs (relational Vs NoSQL) and how to improve their physical model in adequation with the datas they want to store in, even for huge storage / huge sollicitations.
+
+Well, my skills are SQL ANSI, PostgreSQL, Oracle Database, SQLite, Sequelize (for CI/CD ), bash, .... (REDIS comming soon). And i'm confortable on Windows and Linux OS.
+
+My hobbies are mainly development, that's why i joined RITA Team for learning and helping on Node.js and Sequelize with my "DB skills" first. I also code for my home automation (bash & Lua)
+
 
 
 </details>
