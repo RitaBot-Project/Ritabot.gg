@@ -50,7 +50,7 @@ This command will add a source Language marker to the translated text.
 
 **`!tr settings langdetect [on/off]`**
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ## Bot to Bot Translation Status
 

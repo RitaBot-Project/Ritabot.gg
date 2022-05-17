@@ -9,6 +9,7 @@
 * [Basic Usage Information.](usage-commands-and-settings/untitled.md)
 * [Translation Commands](usage-commands-and-settings/translation/README.md)
   * [Channel Translation](usage-commands-and-settings/chan.md)
+  * [Group Translations](usage-commands-and-settings/translation/group-translations.md)
   * [Reaction Translation](usage-commands-and-settings/react.md)
   * [Last Message](usage-commands-and-settings/last.md)
   * [Custom Message](usage-commands-and-settings/custom.md)
