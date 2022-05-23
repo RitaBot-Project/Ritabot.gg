@@ -43,9 +43,9 @@ In order to subscribe and maintain said subscription, you MUST be on our [**Disc
 
 The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted to. If this changes however we will let you know, You won't lose access to anything you don't already have.&#x20;
 
-| Function / Command | Casual | Tinkerer | Pro  |
-| ------------------ | ------ | -------- | ---- |
-| Task Limit         | 250    | 500      | 1000 |
-|                    |        |          |      |
-|                    |        |          |      |
+| Function / Command | Casual | Tinkerer | Pro |
+| ------------------ | ------ | -------- | --- |
+| Task Limit         | 100    | 200      | 350 |
+|                    |        |          |     |
+|                    |        |          |     |
 
