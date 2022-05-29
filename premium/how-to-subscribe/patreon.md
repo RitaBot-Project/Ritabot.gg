@@ -41,9 +41,9 @@ Selecting **Pay with Card** will then process through and you will receive a con
 
 As soon as you select continue as per the previous step, the payment will process and you will get a confirmation on screen that you were sucessful.
 
-![](<../../.gitbook/assets/Patron done.PNG>)
+![](../../.gitbook/assets/unknown-32.png)
 
-You can now link your Discord account to your patron. Scroll down until you see **Connect to Discord.** You can then sign in to discord and recieve your roles.
+You can now link your Discord account to your patron. Scroll down until you see **Connect to Discord.** You can then sign in to discord and receive your roles.
 
 ![](<../../.gitbook/assets/Patron discord.PNG>)
 
