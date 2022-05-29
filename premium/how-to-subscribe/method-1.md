@@ -60,7 +60,7 @@ Join our [**Discord Server**](https://discord.gg/mgNR64R) and #open-a-ticket if 
 
 If you have purchased a subscription and don't have a Ko-Fi account; don't worry, stop panicking. You will get 1-3 emails from Ko-Fi that look like these:
 
-![Manage Subscription](../../.gitbook/assets/Manage.PNG) ![Confirm Your Payment](../../.gitbook/assets/Payment.PNG)
+![Manage Subscription](../../.gitbook/assets/Manage2.PNG) ![Confirm Your Payment](../../.gitbook/assets/Payment.PNG)
 
 {% hint style="warning" %}
 The "Manage Subscription" link may not always work, use "Confirm Your Payment"
@@ -91,7 +91,7 @@ Cancelling can be done from within your Ko-Fi Account.
 * Select **Account & Billing**
 * You should now see **Subscriptions**
 
-![](../../.gitbook/assets/Capture.PNG)
+![](../../.gitbook/assets/Capture2.PNG)
 
 * You can now select the 3 tods in the bottom-right of the active subscription.
 * Select **Don't Renew**
