@@ -73,12 +73,12 @@ To cancel a subscription, you will need to do this from within Pateon.
 * Select **Manage Memberships**
 * Locate RITA under **Active Memberships**
 
-![](<../../.gitbook/assets/Patron memberships.PNG>)
+![](../../.gitbook/assets/Patron\_memberships2.PNG)
 
 * Select **Edit** for the RITA membership
 * Select **Edit for Cancel Membership**
 
-![](../../.gitbook/assets/Cancel.PNG)
+![](../../.gitbook/assets/Cancel2.PNG)
 
 * Select the **Cancel your Membership** option
 * Select the black **Cancel your Membership** button to confirm
