@@ -55,7 +55,8 @@ The reason for the owner limitation is simple: For you to activate RITA in your 
 
 ### Is there a limit to how many servers we can purchase for?&#x20;
 
-Currently, users are limited to 1 server at this time. More servers will be allowed in the future. Criteria: User must be the SERVER\_OWNER, User must pay for the subscription themselves as the sub is mapped to their USER ID.&#x20;
+Currently, users are limited to 1 server at this time. More servers will be allowed in the future. Criteria: User must be the SERVER\_OWNER or ADMIN1ADMIN\
+Tasks - There will be a global tasks limit for each server, 100 is the current target but this may change. DUser must pay for the subscription themselves as the sub is mapped to their USER ID.&#x20;
 
 ### What are our future plans?&#x20;
 
@@ -101,8 +102,8 @@ We have already talked about the limitation of usage, 1 server per owner. (this 
 
 The next limits we have to talk about are:&#x20;
 
-1. Tasks - There will be a global tasks limit for each server, 250 is the current target but this may change.&#x20;
-   1. If you have more than 250 tasks at launch, ALL tasks will be deleted as we cannot know what ones you want to keep. This only affects about <1% servers)
+1.
+   1. If you have more than 100 tasks at launch, ALL tasks will be deleted as we cannot know what ones you want to keep. This only affects about <1% servers)
 2. Characters - Unlike other services, we won’t be initially offering a character-based subscription, as our testing indicates this is not needed. BUT it may be an option in the future.
 3. DM - Translation to DM will be disabled globally, however, in the future, this will be able to be requested to be enabled for your server, with a valid use case as to why it is needed.
 4. Auto - The current implementation of auto-translation works, and we are not removing it. However, it is being used incorrectly, and as such, the command will be changing a little. But it won't impact any existing tasks set up.
@@ -111,7 +112,7 @@ The next limits we have to talk about are:&#x20;
 
 Again this is simple, if each server had 1000 tasks, and we have 10k servers, that's 10,000,000 (Million) Tasks. Not only is this too many for us to think about but, it would also have a massive impact on reliability and speed.
 
-250 is a fair limit, and since 98% of our current user base has less than 250 it is easy to launch with most of the work done.
+100 is a fair limit, and since 98% of our current user base has less than 100 it is easy to launch with most of the work done.
 
 ### Why is self hosting support ending?&#x20;
 
