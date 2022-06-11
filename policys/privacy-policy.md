@@ -22,8 +22,6 @@ The words of which the initial letter is capitalized have meanings defined under
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to identify You and provide your access to the Service. Personally identifiable information may include, but is not limited to: Discord Account ID's, Channel ID's, Server ID's and more.
 
-* Usage Data
-
 #### Usage Data
 
 Usage Data is collected automatically when using the Service.

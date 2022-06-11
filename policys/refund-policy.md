@@ -8,7 +8,25 @@ This Refund Policy describes our policies regarding the handling of refunds in g
 
 ## Interpretation and Definitions
 
-The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](interpretation-and-definitions.md).&#x20;
+### Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
+### Definitions
+
+For the purposes of this Refund Policy:
+
+* **Account** means a unique account created in the service Discord used to access our Service.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to RitaBot.
+* **Discord** refers to Discord LLC's service, "Discord" (not associated with RitaBot or our Service.)
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to RitaBot.&#x20;
+* **RitaBot**, **RITA/Rita**, **RitaBot Dev Team** are all refrences to the Services provded.
+  * **RitaBot**: The Company that owns all assests assosiate with RITA and her Features and Services
+  * **RITA/Rita**: Is the term used to define the Discord Bot, pronouns are also be used in conjuction, these are **She/Her**
+  * **RitaBot Dev Team**: The Owners of RITA and the Development Team Associated with Her
+* **Service** refers to the translation services provided by RitaBot.
+* **Service Provider/s** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
+* **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## **Subscription Refunds -** Exclusion Timeframe
 
