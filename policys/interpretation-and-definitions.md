@@ -1,11 +1,11 @@
-# Interpretation and Definitions
+# Interpretation & Definitions
 
 The following Interpretations and Definitions apply to the following Policies
 
-* Terms of Service (TOS)
-* S.A.L.T.S Policy
-* Privacy Policy
-* Refund Policy
+* [Terms of Service](terms-of-service.md) (TOS)
+* [S.A.L.T.S](../s.a.l.t.s-policy.md) Policy
+* [Privacy](privacy-policy.md) Policy
+* [Refund](refund-policy.md) Policy
 
 ### Interpretation
 
