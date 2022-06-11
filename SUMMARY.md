@@ -54,10 +54,7 @@
 ## Policys
 
 * [Terms Of Service](policys/terms-of-service.md)
+* [S.A.L.T.S Policy](policys/s.a.l.t.s-policy.md)
 * [Privacy Policy](policys/privacy-policy.md)
 * [Refund Policy](policys/refund-policy.md)
 * [3rd Party Policys](policys/3rd-party-policys.md)
-
-***
-
-* [S.A.L.T.S Policy](s.a.l.t.s-policy.md)
