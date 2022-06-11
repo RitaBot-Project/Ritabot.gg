@@ -47,7 +47,6 @@
 
 ## Updates
 
-* [Launch To-Do List](updates/launch-to-do-list.md)
 * [RITA IS BACK](updates/rita-is-back.md)
 * [RITA UPDATE](updates/rita-update.md)
 
