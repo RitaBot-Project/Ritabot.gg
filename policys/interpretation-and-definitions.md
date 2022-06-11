@@ -16,6 +16,7 @@ The words of which the initial letter is capitalized have meanings defined under
 For the purposes of these Terms Of Service/s:
 
 * **Account** means a unique account created in the service Discord used to access our Service.
+* **BITA** refers to the BETA Version of **RITA.** Unless otherwise stated BITA shall be bound by the same Policies, Conditions, Processes and **TOS** as **RITA**. BETA is an invite only closed testing platform used to test new functions for RITA and operated under an NDA.
 * **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to RitaBot.
 * **Cookies** are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
 * **Country** refers to: United States, the EU, and more.
