@@ -50,7 +50,7 @@ description: Refer to the below service and their Respective TOS and Policies
 
 <details>
 
-<summary>Payment Processer 1</summary>
+<summary>Kofi</summary>
 
 
 
@@ -58,7 +58,7 @@ description: Refer to the below service and their Respective TOS and Policies
 
 <details>
 
-<summary>Payment Processer 2</summary>
+<summary>Patreon</summary>
 
 
 
