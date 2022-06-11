@@ -35,6 +35,7 @@
 
 ## Version History
 
+* [V-BITA](version-history/v-bita.md)
 * [V1.2.?](version-history/v1.2./README.md)
   * [V1.2.0](version-history/v1.2./v1.2.0.md)
   * [V1.2.1](version-history/v1.2./v1.2.1.md)
