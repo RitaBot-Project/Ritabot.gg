@@ -4,6 +4,10 @@ description: This is a Guide on how to subscribe on Ko-Fi
 
 # Ko-Fi
 
+{% hint style="danger" %}
+Notice: We will be discontinuing use  of the Ko-Fi service for future subscriptions starting in august, Please use Patreon instead!
+{% endhint %}
+
 {% hint style="info" %}
 If you need help at any point join our [**Discord Server**](https://discord.gg/mgNR64R) and someone will help you.
 {% endhint %}
