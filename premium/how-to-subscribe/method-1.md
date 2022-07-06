@@ -5,7 +5,7 @@ description: This is a Guide on how to subscribe on Ko-Fi
 # Ko-Fi
 
 {% hint style="danger" %}
-## **NOTICE**: We will be discontinuing use  of the Ko-Fi service for future subscriptions starting this month, Please use Patreon instead!
+## **NOTICE**: We will be discontinuing use  of the Ko-Fi service for future subscriptions starting this month! Please use Patreon instead!!
 {% endhint %}
 
 {% hint style="info" %}
