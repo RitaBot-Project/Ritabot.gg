@@ -29,7 +29,7 @@ In line with our [Refund Policy](../policys/refund-policy.md), We Aim for a serv
 
 ## Servers
 
-Currently, **only the server owner** can buy a subscription for a server. Furthermore, _only one server can be activated with your subscription at a time_. This will be liable to change in the future as time goes on.
+Currently, **only the server owner or admin** can buy a subscription for a server. Furthermore, _**only one server can be activated with your subscription at a time**_. This _will be liable to change in the future as time goes on_.
 
 ## How to Activate?
 
@@ -46,6 +46,4 @@ The only difference between our plans at the moment, and for the foreseeable fut
 | Function / Command | Casual | Tinkerer | Pro |
 | ------------------ | ------ | -------- | --- |
 | Task Limit         | 100    | 200      | 350 |
-|                    |        |          |     |
-|                    |        |          |     |
 
