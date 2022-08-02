@@ -19,7 +19,7 @@ Refunds for payments **may** be issued when the user requests it and one of the 
 * it's an annual recurring payment and the user requests a refund within a seven day period
 * A major premium feature was removed and the user bought the tier specifically because of that feature
 
-## Patreon Payments
+### Patreon Payments
 
 Users who subscribe via Patreon are charged as soon as you sign up. Patrons' payments are recurring on the 1st of every month after that. This mean you are charge for **the** month (January, February ect), not **a** month (30 Days) of access.
 
@@ -28,7 +28,7 @@ Each charge for the month gives them membership access for that month. For examp
 * You subscribe to RITA on the **1st January**, this payment gives you access throughout the rest of January. Your next payment is **1st February** then **1st March** ect ect.&#x20;
 * You subscribe to RITA on the **15th January**, this payment gives you access throughout the rest of January. Your next payment is **1st February** then **1st March** ect ect.&#x20;
 
-## KOFI Payments
+### KOFI Payments
 
 Users who subscribe via Kofi are subject to recurring billing. You are charged as soon as they sign up. KOFIs' payments are recurring on the same day of every month after that. This mean you are charge for **a** month (30 Days), not **the** month (January, February ect) of access.
 
