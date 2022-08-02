@@ -8,36 +8,36 @@ This Refund Policy describes our policies regarding the handling of refunds in g
 
 ## Interpretation and Definitions
 
-### Interpretation
-
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
-
-### Definitions
-
-For the purposes of this Refund Policy:
-
-* **Account** means a unique account created in the service Discord used to access our Service.
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to RitaBot.
-* **Discord** refers to Discord LLC's service, "Discord" (not associated with RitaBot or our Service.)
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to RitaBot.&#x20;
-* **RitaBot**, **RITA/Rita**, **RitaBot Dev Team** are all refrences to the Services provded.
-  * **RitaBot**: The Company that owns all assests assosiate with RITA and her Features and Services
-  * **RITA/Rita**: Is the term used to define the Discord Bot, pronouns are also be used in conjuction, these are **She/Her**
-  * **RitaBot Dev Team**: The Owners of RITA and the Development Team Associated with Her
-* **Service** refers to the translation services provided by RitaBot.
-* **Service Provider/s** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
-* **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](interpretation-and-definitions.md).&#x20;
 
 ## **Subscription Refunds -** Exclusion Timeframe
 
 Refunds for payments **may** be issued when the user requests it and one of the following requirements is met:
 
 * it's the first payment and the user requests a refund on the same day
-* it's a monthly recurring payment and the user requests a refund in a three day period
-* it's an annual recurring payment and the user requests a refund in a seven day period
+* it's a monthly recurring payment and the user requests a refund within a three day period
+* it's an annual recurring payment and the user requests a refund within a seven day period
 * A major premium feature was removed and the user bought the tier specifically because of that feature
 
-### Other Possible Reasons
+## Patreon Payments
+
+Users who subscribe via Patreon are charged as soon as you sign up. Patrons' payments are recurring on the 1st of every month after that. This mean you are charge for **the** month (January, February ect), not **a** month (30 Days) of access.
+
+Each charge for the month gives them membership access for that month. For example,&#x20;
+
+* You subscribe to RITA on the **1st January**, this payment gives you access throughout the rest of January. Your next payment is **1st February** then **1st March** ect ect.&#x20;
+* You subscribe to RITA on the **15th January**, this payment gives you access throughout the rest of January. Your next payment is **1st February** then **1st March** ect ect.&#x20;
+
+## KOFI Payments
+
+Users who subscribe via Kofi are subject to recurring billing. You are charged as soon as they sign up. KOFIs' payments are recurring on the same day of every month after that. This mean you are charge for **a** month (30 Days), not **the** month (January, February ect) of access.
+
+Each charge for the month gives them membership access for 30 days. For example,&#x20;
+
+* You subscribe to RITA on the **1st January**, this payment gives you access until **1st February**. Your next payment is **1st February** then **1st March** ect ect.&#x20;
+* You subscribe to RITA on the **15th January**, this payment gives you access until **15th February**. Your next payment is **15th February** then **15th March** ect ect.&#x20;
+
+## Other Possible Reasons
 
 Listed below are other **possible** reasons that might permit a full or prorated refund.
 
@@ -47,12 +47,13 @@ Listed below are other **possible** reasons that might permit a full or prorated
 
 All/Any of the reasons above require viable proof to be accepted as possible inquiries for the initiation of a refund.
 
-### Non-Acceptable Inquires
+## Non-Acceptable Inquires
 
 Below listed are situations in which any kind of refund will **not** permit a full or prorated refund.
 
 * Any situation in which you actively or passively forgot to cancel your ongoing subscription, and it's passed the subscription exclusion timeframe listed above.
 * Downtime caused by 3rd Party Service Providers, Including but not limited to, Discord, Heroku, Paypal, Stripe, PebbleHost, Domain Controllers and DNS Providers.
+* You are a Patreon user and have had the second payment of a recurring subscription taken/renewed on the 1st of the month. As this is Defined during the purchase process, regardless of the date of the first payment you are charged for **the** month (January, February ect) not **a** month (30 Days).&#x20;
 
 Please note that all refund requests are handled on a case by case basis, however, the reasons above may prohibit responses to refund requests.
 
