@@ -14,10 +14,10 @@ The words of which the initial letter is capitalized have meanings defined under
 
 Refunds for payments **may** be issued when the user requests it and one of the following requirements is met:
 
-* it's the first payment and the user requests a refund on the same day
-* it's a monthly recurring payment and the user requests a refund within a three day period
-* it's an annual recurring payment and the user requests a refund within a seven day period
-* A major premium feature was removed and the user bought the tier specifically because of that feature
+* it's the first payment and the user requests a refund on the same day (Usage Exception Applies)
+* it's a monthly recurring payment and the user requests a refund within a three day period (Usage Exception Applies)
+* it's an annual recurring payment and the user requests a refund within a seven day period (Usage Exception Applies)
+* A major premium feature was removed and the user bought the tier specifically because of that feature&#x20;
 
 ### Patreon Payments
 
@@ -56,6 +56,12 @@ Below listed are situations in which any kind of refund will **not** permit a fu
 * You are a Patreon user and have had the second payment of a recurring subscription taken/renewed on the 1st of the month. As this is Defined during the purchase process, regardless of the date of the first payment you are charged for **the** month (January, February ect) not **a** month (30 Days).&#x20;
 
 Please note that all refund requests are handled on a case by case basis, however, the reasons above may prohibit responses to refund requests.
+
+## Usage Exception&#x20;
+
+{% hint style="warning" %}
+IF you have activated RITA, defined in our SALTS Policy [#Activation](../s.a.l.t.s-policy.md#activation-process), and have used RITA service with a Character count exceeding 10,000 Character, you will NOT be eligible for a refund under any circumstance. to see your character count type "!translate stats" in your server.&#x20;
+{% endhint %}
 
 ## Donation Refunds
 
