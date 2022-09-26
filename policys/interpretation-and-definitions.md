@@ -3,8 +3,8 @@
 The following Interpretations and Definitions apply to the following Policies
 
 * [Terms of Service](terms-of-service.md) (TOS)
-* [S.A.L.T.S](../s.a.l.t.s-policy.md) Policy
-* [Privacy](privacy-policy.md) Policy
+* [S.A.L.T.S](s.a.l.t.s-policy/) Policy
+* [Privacy](privacy-policy/) Policy
 * [Refund](refund-policy.md) Policy
 
 ### Interpretation
@@ -23,8 +23,9 @@ For the purposes of these Terms Of Service/s:
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 * **Discord** refers to Discord LLC's service, "Discord" (not associated with RitaBot or our Service.)
 * **Features** are defined as a single or group of functions, commands, tools or resources provided by RitaBot for use on or with our Service.
+* **Language pairs** is defined as the combination of source language and destination language of a translation request sent via our service.
 * **Personal Data** is any information that relates to an identified or identifiable individual.
-* **Privacy Policy** as defined [Here](privacy-policy.md).
+* **Privacy Policy** as defined [Here](privacy-policy/).
 * **Refund Policy** as defined [Here](refund-policy.md).
 * **RitaBot**, **RITA/Rita**, **RitaBot Dev Team** are all references to the Services provided.
   * **RitaBot**: The Company that owns all assets associate with RITA and her Features and Services
@@ -32,7 +33,7 @@ For the purposes of these Terms Of Service/s:
   * **RitaBot Dev Team**: The Owners of RITA and the Development Team Associated with Her
   * **RMT**: Refers to RITA Management Team, Also know as **RitaBot Dev Team**.
   * **RMS**: Refers To the RITA Management Server. This is the Disicrd Server where RITA is managed from and where user supoort is provided.&#x20;
-* **S.A.L.T.S** as defined [Here](../s.a.l.t.s-policy.md).
+* **S.A.L.T.S** as defined [Here](s.a.l.t.s-policy/).
 * **Service** refers to the translation services provided by RitaBot.
 * **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals. employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
 * **TOS/Terms of Service** as defined [Here](terms-of-service.md).

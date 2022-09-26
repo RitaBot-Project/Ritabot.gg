@@ -2,7 +2,7 @@
 description: 'Last updated: April 22, 2022'
 ---
 
-# S.A.L.T.S Policy
+# S.A.L.T.S Policy V1
 
 S.A.L.T.S Stands for Subscription, Activation, Limitations, Termination and Suspension Policy. This describes Our policies and procedures on how each of the aforementioned processes are handled.&#x20;
 
@@ -10,7 +10,7 @@ By using the Service, You agree to the following processes and be subject to enf
 
 ## Interpretation and Definitions
 
-The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](policys/interpretation-and-definitions.md).&#x20;
+The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](../interpretation-and-definitions.md).&#x20;
 
 ## Subscription
 
@@ -31,14 +31,14 @@ Subscriptions are renewed on different days depending on the platform.
 
 #### Subscription Tier and Cost
 
-| <p> </p><p>Plan Name</p><p> </p>              | Cost                          | <p> </p><p>Availability</p><p> </p>        | Other Details                                 |
-| --------------------------------------------- | ----------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <p> </p><p>The OG "Casual" Plan</p><p> </p>   | <p> </p><p>$5.99</p><p> </p>  | <p> </p><p>01/05/22 - 31/05/22</p><p> </p> | Plan Discontinued, Existing Users remain.     |
-| <p> </p><p>The "Casual" Plan</p><p> </p>      | <p> </p><p>$6.99</p><p> </p>  | <p> </p><p>01/06/22 - Current</p><p> </p>  | Replacement Tier to \[The OG "Casual" Plan]   |
-| <p> </p><p>The OG "Tinkerer" Plan</p><p> </p> | <p> </p><p>$9.99</p><p> </p>  | <p> </p><p>01/05/22 - 31/05/22</p><p> </p> | Plan Discontinued, Existing Users remain.     |
-| <p> </p><p>The "Tinkerer" Plan</p><p> </p>    | <p> </p><p>$10.99</p><p> </p> | <p> </p><p>01/06/22 - Current</p><p> </p>  | Replacement Tier to \[The OG "Tinkerer" Plan] |
-| <p> </p><p>The OG "Pro" Plan</p><p> </p>      | <p> </p><p>$14.99</p><p> </p> | <p> </p><p>01/05/22 - 31/05/22</p><p> </p> | Plan Discontinued, Existing Users remain.     |
-| <p> </p><p>The "Pro" Plan</p><p> </p>         | <p> </p><p>$15.99</p><p> </p> | <p> </p><p>01/06/22 - Current</p><p> </p>  | Replacement Tier to \[The OG "Pro" Plan]      |
+| Plan Name              | Cost   | Availability        | Other Details                                 |
+| ---------------------- | ------ | ------------------- | --------------------------------------------- |
+| The OG "Casual" Plan   | $5.99  | 01/05/22 - 31/05/22 | Plan Discontinued, Existing Users remain.     |
+| The "Casual" Plan      | $6.99  | 01/06/22 - Current  | Replacement Tier to \[The OG "Casual" Plan]   |
+| The OG "Tinkerer" Plan | $9.99  | 01/05/22 - 31/05/22 | Plan Discontinued, Existing Users remain.     |
+| The "Tinkerer" Plan    | $10.99 | 01/06/22 - Current  | Replacement Tier to \[The OG "Tinkerer" Plan] |
+| The OG "Pro" Plan      | $14.99 | 01/05/22 - 31/05/22 | Plan Discontinued, Existing Users remain.     |
+| The "Pro" Plan         | $15.99 | 01/06/22 - Current  | Replacement Tier to \[The OG "Pro" Plan]      |
 
 #### Tier Cost Changes & Availability
 
@@ -59,8 +59,8 @@ All Plans/Tiers are subject to other limitations, detailed below.
    1. Ko-Fi > PayPal or Stripe
    2. Patreon > Payment is handled by Patreon
 5. Upon Confirmation of payment User activates Discord integration through account linking.
-   1. Guide for [Ko-Fi](premium/how-to-subscribe/method-1.md)
-   2. Guide for [Patreon](premium/how-to-subscribe/patreon.md)
+   1. Guide for [Ko-Fi](../../premium/how-to-subscribe/method-1.md)
+   2. Guide for [Patreon](../../premium/how-to-subscribe/patreon.md)
 6. Integration uses the Ko-Fi and Patreon Bot to apply relevant roles to User, a Role from Payment, Tier, and the Subscription section below are needed for RITA to work.
 7. RITA detects role additions and adds relevant and required data to our Subscription Database
 8. Once User has all identifying Roles they are able to see the channel #activate-rita-here.

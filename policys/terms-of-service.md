@@ -31,10 +31,10 @@ To operate RitaBot and in specific the Database we use requieres we save some in
 * Server Name & ID
 * Channel ID's, Role ID's and User/Owner ID's
 
-We may also store anonymized Personal Data about you including your username, discriminator and public flags (badges) in line with our [Privacy Policy](privacy-policy.md). This information is only used for analytics and can not be tracked back to You.
+We may also store anonymized Personal Data about you including your username, discriminator and public flags (badges) in line with our [Privacy Policy](privacy-policy/). This information is only used for analytics and can not be tracked back to You.
 
 ## S.A.L.T.S
 
 **S.A.L.T.S** Stands for Subscription, Activation, Limitations, Termination and Suspension Policy. This describes Our policies and procedures on how each of the aformentioned processes are handled.&#x20;
 
-By using the Service, You agree to the following processes and be subject to enforcment of them. Please refer to [S.A.L.T.S Policy](../s.a.l.t.s-policy.md) for more information.
+By using the Service, You agree to the following processes and be subject to enforcment of them. Please refer to [S.A.L.T.S Policy](s.a.l.t.s-policy/) for more information.

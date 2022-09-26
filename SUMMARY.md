@@ -45,6 +45,8 @@
   * [V1.2.5](version-history/v1.2./125.md)
   * [V1.2.6](version-history/v1.2./126.md)
 * [V1.3.0](version-history/130.md)
+* [V1.4.0](version-history/v1.4.0/README.md)
+  * [V1.4.0 NOTICE](version-history/v1.4.0/v1.4.0-notice.md)
 
 ## Updates
 
@@ -54,8 +56,11 @@
 ## Policys
 
 * [Terms Of Service](policys/terms-of-service.md)
-* [S.A.L.T.S Policy](s.a.l.t.s-policy.md)
-* [Privacy Policy](policys/privacy-policy.md)
+* [S.A.L.T.S Policy](policys/s.a.l.t.s-policy/README.md)
+  * [S.A.L.T.S Policy V1](policys/s.a.l.t.s-policy/s.a.l.t.s-policy-v1.md)
+* [Privacy Policy](policys/privacy-policy/README.md)
+  * [Privacy Policy V1](policys/privacy-policy/privacy-policy-v1.md)
 * [Refund Policy](policys/refund-policy.md)
 * [3rd Party Policys](policys/3rd-party-policys.md)
 * [Interpretation & Definitions](policys/interpretation-and-definitions.md)
+* [Right To Exit](policys/right-to-exit.md)

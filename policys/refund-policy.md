@@ -60,7 +60,7 @@ Please note that all refund requests are handled on a case by case basis, howeve
 ## Usage Exception&#x20;
 
 {% hint style="warning" %}
-IF you have activated RITA, defined in our SALTS Policy [#Activation](../s.a.l.t.s-policy.md#activation-process), and have used RITA service with a Character count exceeding 10,000 Character, you will NOT be eligible for a refund under any circumstance. to see your character count type "!translate stats" in your server.&#x20;
+IF you have activated RITA, defined in our SALTS Policy [#Activation](s.a.l.t.s-policy/#activation-process), and have used RITA service with a Character count exceeding 10,000 Character, you will NOT be eligible for a refund under any circumstance. to see your character count type "!translate stats" in your server.&#x20;
 {% endhint %}
 
 ## Donation Refunds

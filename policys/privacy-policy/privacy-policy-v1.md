@@ -2,7 +2,7 @@
 description: 'Last updated: March 15, 2022'
 ---
 
-# Privacy Policy
+# Privacy Policy V1
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -12,7 +12,7 @@ We do not Sell or Provide any Personal Data collected, as defined below, to any 
 
 ## Interpretation and Definitions
 
-The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](interpretation-and-definitions.md).&#x20;
+The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](../interpretation-and-definitions.md).&#x20;
 
 ## Collecting and Using Your Personal Data
 

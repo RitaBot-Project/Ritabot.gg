@@ -102,8 +102,7 @@ We have already talked about the limitation of usage, 1 server per owner. (this 
 
 The next limits we have to talk about are:&#x20;
 
-1.
-   1. If you have more than 100 tasks at launch, ALL tasks will be deleted as we cannot know what ones you want to keep. This only affects about <1% servers)
+1. If you have more than 100 tasks at launch, ALL tasks will be deleted as we cannot know what ones you want to keep. This only affects about <1% servers)
 2. Characters - Unlike other services, we won’t be initially offering a character-based subscription, as our testing indicates this is not needed. BUT it may be an option in the future.
 3. DM - Translation to DM will be disabled globally, however, in the future, this will be able to be requested to be enabled for your server, with a valid use case as to why it is needed.
 4. Auto - The current implementation of auto-translation works, and we are not removing it. However, it is being used incorrectly, and as such, the command will be changing a little. But it won't impact any existing tasks set up.

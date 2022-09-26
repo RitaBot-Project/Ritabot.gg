@@ -30,7 +30,7 @@ The group commands are interactive and require you to respond to any prompts cor
 
 #### Group List
 
-![Lists all groups in server](<../../.gitbook/assets/image (2).png>)
+![Lists all groups in server](<../../.gitbook/assets/image (2) (2).png>)
 
 #### Group Link
 
