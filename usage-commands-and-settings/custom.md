@@ -32,12 +32,3 @@ _Users who wish to receive automatic translations in private must **enable DMs**
 
 **`!tr this to de from en: how are you?`**
 
-
-
-{% hint style="info" %}
-**Important Note**
-
-_The bot’s default prefix is !tr (or !translate) - All commands must start with this prefix for the bot to process them. Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**)._
-
-_Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**._
-{% endhint %}

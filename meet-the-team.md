@@ -92,7 +92,7 @@ Sarcastic 90% of the time and Love to help people make their day better!
 {% endtab %}
 {% endtabs %}
 
-### Comunity Helpers
+### Community Helpers
 
 {% tabs %}
 {% tab title="Person 1" %}
@@ -108,18 +108,6 @@ Sarcastic 90% of the time and Love to help people make their day better!
 {% endtab %}
 
 {% tab title="Person 4" %}
-
-{% endtab %}
-{% endtabs %}
-
-### Other & Notable Members
-
-{% tabs %}
-{% tab title="Person 1" %}
-
-{% endtab %}
-
-{% tab title="Person  2" %}
 
 {% endtab %}
 {% endtabs %}

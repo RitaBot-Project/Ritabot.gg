@@ -63,11 +63,3 @@ Example: **`!tr help last`** - will open the help menu for the command last.
 ## ID Info
 
 **`!tr id`** - Shows various ID info
-
-{% hint style="info" %}
-**Important Note**
-
-_The bot’s default prefix is !tr (or !translate) - All commands must start with this prefix for the bot to process them. Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**)._
-
-_Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**._
-{% endhint %}

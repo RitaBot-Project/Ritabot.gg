@@ -12,7 +12,7 @@ description: Here are some of the common questions that have been asked about th
 
 We used an old version of the Google Translate Website API that was intended to be decommissioned prior to 2010. \
 \
-Google has now shut this down, as such, we are now required to use Google Cloud Translate API which comes with costs.
+Google has now shut this down, as such, we are now required to use the Google Cloud Translate API which comes with costs.
 
 </details>
 
@@ -66,14 +66,6 @@ The subscription will be a mix of per-user/per-server. Each server you wish to h
 
 <details>
 
-<summary>Why is this limited to owners and not admins? </summary>
-
-The reason for the owner limitation is simple: For you to activate RITA in your server, you will need to do this in the Rita Support Server. By having the owners on the server we can easily identify them, help resolve issues and contact them if there is an issue. In time this will be changed to allow admins but means we need to change the permission structures in the code. It's on the list to do, but to start it will be OWNERS only.&#x20;
-
-</details>
-
-<details>
-
 <summary>Is there a limit to how many servers we can purchase for?</summary>
 
 Currently, users are limited to 1 server at this time. More servers will be allowed in the future. Criteria: User must be the SERVER\_OWNER, User must pay for the subscription themselves as the sub is mapped to their USER ID.&#x20;
@@ -110,9 +102,7 @@ There will be things however that will be managed by a single or maybe two membe
 
 <summary>How will payments be made?</summary>
 
-Currently we offer subscriptions though KoFi and Patreon. These providers both utilize PayPal and card payments.\
-\
-We currently recommend KoFi over Patreon.&#x20;
+Currently we offer subscriptions though Patreon. Patreon utilizes PayPal and card payments.
 
 </details>
 
@@ -122,11 +112,11 @@ We currently recommend KoFi over Patreon.&#x20;
 
 Currently, we are offering 3 levels.\
 \
-Casual = 250 Tasks\
-Tinkerer = 500 Tasks\
-Pro= 1000 Tasks\
+Casual = 100 Tasks\
+Tinkerer = 200 Tasks\
+Pro= 350 Tasks\
 \
-All levels come with Discord access and roles, with bot support for the lifetime of your subscription.
+All levels come with Discord access and roles, with bot support for the lifetime of your subscription. To hold your subscription you must be in our support server.
 
 </details>
 
@@ -136,7 +126,7 @@ All levels come with Discord access and roles, with bot support for the lifetime
 
 Again this is simple, if every server had 1000 task limit, and we have 10k servers, that's 10,000,000 (Million) Tasks. Not only is this too many for us to think about but, it would also have a massive impact on reliability and speed.
 
-250 is a fair starting limit, and since 98% of our current user base has less than 250 it is easy to launch with most of the work done.
+100 is a fair starting limit, and since 98% of our current user base has less than 100 it is easy to launch with most of the work done.
 
 We recognise that some server may need more tasks, thats why we have other plans to pick from.&#x20;
 
@@ -148,29 +138,5 @@ We recognise that some server may need more tasks, thats why we have other plans
 
 If you had RITA in your server before, any configuration you had previously will continue to operate without additional setup.\
 Please note, however, that if your task count exceeds 250, then the basic plan will not be enough for you, and RITA may not start translating immediately until upgraded.
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
 
 </details>

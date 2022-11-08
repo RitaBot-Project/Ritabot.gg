@@ -6,6 +6,8 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 
 **`!tr stats`** - Shows a summary of the Global & Server stats.
 
+**`!tr stats sub`** - View character usage for your subscription, and other information.
+
 **`!tr stats global`** - Shows a summary of Global stats, all the servers the bot is currently on.
 
 **`!tr stats server`** - Shows a summary of the Server stats.

@@ -25,7 +25,7 @@ There may be times RitaBot ceases to function, in which the procedure for us wil
 
 Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.\
 \
-In line with our [Refund Policy](../policys/refund-policy.md), We Aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
+In line with our [Refund Policy](../policys/refund-policy.md), We aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
 
 ## Servers
 
@@ -39,11 +39,37 @@ To activate your subscription after you have paired your Discord Account to your
 In order to subscribe and maintain said subscription, you MUST be on our [**Discord Server**](https://discord.gg/mgNR64R)**.** If you cannot or are not, your subscription will be canceled at the end of a 1-month period from the last verification date (the last 1-month period from the subscription start where the subscription was confirmed).
 {% endhint %}
 
+## Soft Limit&#x20;
+
+In order to provide a virtually "unlimited" pricing model, we've incorporated soft limits into Rita. Essentially, each tier has **X** amount of chars per month that will be translated with Google. Meanwhile, **all other translations** will use our own Neural Machine Translation server.
+
+#### Quality
+
+* While we are working hard to make our own translations as seemingless as ever, Google translations will be similar/better than ML translations simply due to Google's resources
+  * We are working to provide clarifying examples of quality for language pairs to be as clear as possible
+
+#### Limits
+
+* To clarify; all tiers are still unlimited character wise.
+  * The only difference shall be if you've used more than the soft limit for your tier in a month, then all other translations will use our ML until month is reset.
+
 ## What do I get with each plan?
 
 The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted to. If this changes however we will let you know, You won't lose access to anything you don't already have.&#x20;
 
-| Function / Command | Casual | Tinkerer | Pro |
-| ------------------ | ------ | -------- | --- |
-| Task Limit         | 100    | 200      | 350 |
+| Function / Command             | Casual        | Tinkerer      | Pro                     |
+| ------------------------------ | ------------- | ------------- | ----------------------- |
+| Task Limit                     | 100           | 200           | 350                     |
+| Soft Limit (characters)        | \~200k Google | \~450k Google | <p>~700k Google<br></p> |
+| Character Limit (backed by ML) | Unlimited     | Unlimited     | Unlimited               |
 
+## What is a task?
+
+A task is a singular channel setup for automatic channel translation. Tasks are simply the setup, not the usage. For example; 1 channel translating from English to French counts as a task. As you add more languages to an interconnected language setup, the task utilization increases exponentially.&#x20;
+
+You can calculate how many tasks you use for each channel by using the amount of languages (including source) you want to have for that channel in the equation **x \* (x-1)**&#x20;
+
+* Reaction translation, utilisation of tasks, or anything else do not count towards task count
+  * Only the `group` , `auto` , and `channel` commands contribute to task count
+
+####

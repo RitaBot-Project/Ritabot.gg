@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Meet the Team](meet-the-team.md)
-* [Donate](donate.md)
 
 ## Usage, Commands & Settings
 
@@ -16,7 +15,6 @@
 * [Statistics](usage-commands-and-settings/statistics.md)
 * [Settings](usage-commands-and-settings/settings.md)
 * [Misc. Commands](usage-commands-and-settings/misc.md)
-* [Dev only commands](usage-commands-and-settings/dev-only-commands.md)
 
 ## Premium/Paid Feeatures <a href="#premium" id="premium"></a>
 
