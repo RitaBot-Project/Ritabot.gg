@@ -186,7 +186,7 @@ The full Supported list can be found below
 |  :flag\_nr:  | :flag\_nr: |                Nauru               |                      Nauru                      | na                 |
 |  :flag\_np:  | :flag\_np: |                Nepal               |                      Nepali                     | ne                 |
 |  :flag\_nl:  | :flag\_nl: |             Netherlands            |                      Dutch                      | nl                 |
-|  :flag\_bq:  | :flag\_an: |        Netherlands Antilles        |                      Dutch                      | nl                 |
+|  :flag\_bq:  | :flag\_bq: |        Netherlands Antilles        |                      Dutch                      | nl                 |
 |  :flag\_nc:  | :flag\_nc: |            New Caledonia           |                      French                     | fr                 |
 |  :flag\_nz:  | :flag\_nz: |             New Zealand            |                     English                     | en                 |
 |  :flag\_ni:  | :flag\_ni: |              Nicaragua             |                     Spanish                     | es                 |
