@@ -66,26 +66,26 @@ The full Supported list can be found below
 |  :flag\_io:  | :flag\_io: |   British Indian Ocean Territory   |                     English                     | en                 |
 |  :flag\_bn:  | :flag\_bn: |          Brunei Darussalam         |                  Malay, English                 | ms, en             |
 |  :flag\_bg:  | :flag\_bg: |              Bulgaria              |                    Bulgarian                    | bg                 |
-|              | :flag\_bf: |            Burkina Faso            |                      French                     | fr                 |
-|              | :flag\_bi: |               Burundi              |                  French, Rundi                  | fr, rn             |
-|              | :flag\_kh: |              Cambodia              |                  Central Khmer                  | km                 |
-|              | :flag\_cm: |              Cameroon              |                 French, English                 | fr, en             |
-|              | :flag\_ca: |               Canada               |                 English, French                 | en, fr             |
-|              | :flag\_cv: |             Cape Verde             |                    Portuguese                   | pt                 |
-|              | :flag\_ky: |           Cayman Islands           |                     English                     | en                 |
-|              | :flag\_cf: |      Central African Republic      |                  French, Sango                  | fr, sg             |
-|              | :flag\_td: |                Chad                |                  Arabic, French                 | ar, fr             |
-|              | :flag\_cl: |                Chile               |                     Spanish                     | es                 |
-|              | :flag\_cn: |                China               |                     Chinese                     | zh-cn              |
-|              | :flag\_cx: |          Christmas Island          |             Chinese, English, Malay             | zh-cn, en, ms      |
-|              | :flag\_cc: |       Cocos (Keeling) Islands      |                  Malay, English                 | ms, en             |
-|              | :flag\_co: |              Colombia              |                     Spanish                     | es                 |
-|              | :flag\_km: |               Comoros              |                  Arabic, French                 | ar, fr             |
-|              | :flag\_cg: |        Republic of the Congo       |                 French, Lingala                 | fr, ln             |
-|              | :flag\_cd: |  Democratic Republic of the Congo  |                 French, Swahili                 | fr, sw             |
-|              | :flag\_ck: |            Cook Islands            |                     English                     | en                 |
-|              | :flag\_cr: |             Costa Rica             |                     Spanish                     | es                 |
-|              | :flag\_ci: |            Cote D’Ivoire           |                      French                     | fr                 |
+|  :flag\_bf:  | :flag\_bf: |            Burkina Faso            |                      French                     | fr                 |
+|  :flag\_bi:  | :flag\_bi: |               Burundi              |                  French, Rundi                  | fr, rn             |
+|  :flag\_kh:  | :flag\_kh: |              Cambodia              |                  Central Khmer                  | km                 |
+|  :flag\_cm:  | :flag\_cm: |              Cameroon              |                 French, English                 | fr, en             |
+|  :flag\_ca:  | :flag\_ca: |               Canada               |                 English, French                 | en, fr             |
+|  :flag\_cv:  | :flag\_cv: |             Cape Verde             |                    Portuguese                   | pt                 |
+|  :flag\_ky:  | :flag\_ky: |           Cayman Islands           |                     English                     | en                 |
+|  :flag\_cf:  | :flag\_cf: |      Central African Republic      |                  French, Sango                  | fr, sg             |
+|  :flag\_td:  | :flag\_td: |                Chad                |                  Arabic, French                 | ar, fr             |
+|  :flag\_cl:  | :flag\_cl: |                Chile               |                     Spanish                     | es                 |
+|  :flag\_cn:  | :flag\_cn: |                China               |                     Chinese                     | zh-cn              |
+|  :flag\_cx:  | :flag\_cx: |          Christmas Island          |             Chinese, English, Malay             | zh-cn, en, ms      |
+|  :flag\_cc:  | :flag\_cc: |       Cocos (Keeling) Islands      |                  Malay, English                 | ms, en             |
+|  :flag\_co:  | :flag\_co: |              Colombia              |                     Spanish                     | es                 |
+|  :flag\_km:  | :flag\_km: |               Comoros              |                  Arabic, French                 | ar, fr             |
+|  :flag\_cg:  | :flag\_cg: |        Republic of the Congo       |                 French, Lingala                 | fr, ln             |
+|  :flag\_cd:  | :flag\_cd: |  Democratic Republic of the Congo  |                 French, Swahili                 | fr, sw             |
+|  :flag\_ck:  | :flag\_ck: |            Cook Islands            |                     English                     | en                 |
+|  :flag\_cr:  | :flag\_cr: |             Costa Rica             |                     Spanish                     | es                 |
+|  :flag\_ci:  | :flag\_ci: |            Cote D’Ivoire           |                      French                     | fr                 |
 |              | :flag\_hr: |               Croatia              |                     Croatian                    | hr                 |
 |              | :flag\_cu: |                Cuba                |                     Spanish                     | es                 |
 |              | :flag\_cy: |               Cyprus               |                  Greek, Turkish                 | el, tr             |
