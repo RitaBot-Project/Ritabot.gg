@@ -214,69 +214,69 @@ The full Supported list can be found below
 |  :flag\_ro:  | :flag\_ro: |               Romania              |                     Romanian                    | ro                 |
 |  :flag\_ru:  | :flag\_ru: |         Russian Federation         |                     Russian                     | ru                 |
 |  :flag\_rw:  | :flag\_rw: |               Rwanda               |      Kinyarwanda, English, French, Swahili      | rw, en, fr, sw     |
-|              | :flag\_bl: |          Saint Barthelemy          |                      French                     | fr                 |
-|              | :flag\_sh: |            Saint Helena            |                     English                     | en                 |
-|              | :flag\_kn: |        Saint Kitts And Nevis       |                     English                     | en                 |
-|              | :flag\_lc: |             Saint Lucia            |                     English                     | en                 |
-|              | :flag\_mf: |            Saint Martin            |              Dutch, French, German              | nl, fr             |
-|              | :flag\_pm: |      Saint Pierre And Miquelon     |                      French                     | fr                 |
-|              | :flag\_vc: |    Saint Vincent And Grenadines    |                     English                     | en                 |
-|              | :flag\_ws: |                Samoa               |                 Samoan, English                 | sm, en             |
-|              | :flag\_sm: |             San Marino             |                     Italian                     | it                 |
-|              | :flag\_st: |        Sao Tome and Principe       |                    Portuguese                   | pt                 |
-|              | :flag\_sa: |            Saudi Arabia            |                      Arabic                     | ar                 |
-|              | :flag\_sn: |               Senegal              |                      French                     | fr                 |
-|              | :flag\_rs: |               Serbia               |                     Serbian                     | sr                 |
-|              | :flag\_sc: |             Seychelles             |                 English, French                 | en, fr             |
-|              | :flag\_sl: |            Sierra Leone            |                     English                     | en                 |
-|              | :flag\_sg: |              Singapore             |          English, Tamil, Chinese, Malay         | en, ta, zh-tw, ms  |
-|              | :flag\_sk: |              Slovakia              |                      Slovak                     | sk                 |
-|              | :flag\_si: |              Slovenia              |                    Slovenian                    | sl                 |
-|              | :flag\_sb: |           Solomon Islands          |                     English                     | en                 |
-|              | :flag\_so: |               Somalia              |                  Somali, Arabic                 | so, ar             |
-|              | :flag\_za: |            South Africa            | English, Afrikaans, Southern Sotho, Xhosa, Zulu | en, af, st, xh, zu |
-|              | :flag\_gs: | South Georgia And Sandwich Islands |                     English                     | en                 |
-|              | :flag\_es: |                Spain               |                     Spanish                     | es                 |
-|              | :flag\_lk: |              Sri Lanka             |                 Sinhalese, Tamil                | si, ta             |
-|              | :flag\_sd: |                Sudan               |                      Arabic                     | ar                 |
-|              | :flag\_sr: |              Suriname              |                      Dutch                      | nl                 |
-|              | :flag\_sj: |       Svalbard And Jan Mayen       |                    Norwegian                    | no                 |
-|              | :flag\_sz: |              Swaziland             |                  Swati, English                 | ss, en             |
-|              | :flag\_se: |               Sweden               |                     Swedish                     | sv                 |
-|              | :flag\_ch: |             Switzerland            |         German, French, Italian, Romansh        | de, fr, it, rm     |
-|              | :flag\_sy: |        Syrian Arab Republic        |                      Arabic                     | ar                 |
-|              | :flag\_tw: |               Taiwan               |                     Chinese                     | zh-tw              |
-|              | :flag\_tj: |             Tajikistan             |                      Tajik                      | tg                 |
-|              | :flag\_tz: |              Tanzania              |                     Swahili                     | sw                 |
-|              | :flag\_th: |              Thailand              |                       Thai                      | th                 |
-|              | :flag\_tl: |             Timor-Leste            |                Tetum, Portuguese                | tet, pt            |
-|              | :flag\_tg: |                Togo                |                      French                     | fr                 |
-|              | :flag\_tk: |               Tokelau              |                 Tokelau, English                | tkl, en            |
-|              | :flag\_to: |                Tonga               |                  Tonga, English                 | to, en             |
-|              | :flag\_tt: |         Trinidad and Tobago        |                     English                     | en                 |
-|              | :flag\_tn: |               Tunisia              |                      Arabic                     | ar                 |
-|              | :flag\_tr: |               Turkey               |                     Turkish                     | tr                 |
-|              | :flag\_tm: |            Turkmenistan            |                     Turkmen                     | tk                 |
-|              | :flag\_tc: |      Turks and Caicos Islands      |                     English                     | en                 |
-|              | :flag\_tv: |               Tuvalu               |                 Tuvalu, English                 | tvl, en            |
-|              | :flag\_ug: |               Uganda               |                 English, Swahili                | en, sw             |
-|              | :flag\_ua: |               Ukraine              |                    Ukrainian                    | uk                 |
-|              | :flag\_ae: |        United Arab Emirates        |                      Arabic                     | ar                 |
-|              | :flag\_gb: |           United Kingdom           |                     English                     | en                 |
-|              | :flag\_us: |            United States           |                     English                     | en                 |
-|              | :flag\_um: |   United States Outlying Islands   |                     English                     | en                 |
-|              | :flag\_uy: |               Uruguay              |               Spanish, Portuguese               | es, pt             |
-|              | :flag\_uz: |             Uzbekistan             |                      Uzbek                      | uz                 |
-|              | :flag\_vu: |               Vanuatu              |             Bislama, English, French            | bi, en, fr         |
-|              | :flag\_ve: |              Venezuela             |                     Spanish                     | es                 |
-|              | :flag\_vn: |               Vietnam              |                    Vietnamese                   | vi                 |
-|              | :flag\_vg: |       British Virgin Islands       |                     English                     | en                 |
-|              | :flag\_vi: |          Us Virgin Islands         |                     English                     | en                 |
-|              | :flag\_wf: |          Wallis and Futuna         |                      French                     | fr                 |
-|              | :flag\_eh: |           Western Sahara           |                      Arabic                     | ar                 |
-|              | :flag\_ye: |                Yemen               |                      Arabic                     | ar                 |
-|              | :flag\_zm: |               Zambia               |                     English                     | en                 |
-|              | :flag\_zw: |              Zimbabwe              | Chichewa, English, Xhosa, Southern Sotho, Shona | ny, en, xh, st, sn |
+|  :flag\_bl:  | :flag\_bl: |          Saint Barthelemy          |                      French                     | fr                 |
+|  :flag\_sh:  | :flag\_sh: |            Saint Helena            |                     English                     | en                 |
+|  :flag\_kn:  | :flag\_kn: |        Saint Kitts And Nevis       |                     English                     | en                 |
+|  :flag\_lc:  | :flag\_lc: |             Saint Lucia            |                     English                     | en                 |
+|  :flag\_sx:  | :flag\_mf: |            Saint Martin            |              Dutch, French, German              | nl, fr             |
+|  :flag\_pm:  | :flag\_pm: |      Saint Pierre And Miquelon     |                      French                     | fr                 |
+|  :flag\_vc:  | :flag\_vc: |    Saint Vincent And Grenadines    |                     English                     | en                 |
+|  :flag\_ws:  | :flag\_ws: |                Samoa               |                 Samoan, English                 | sm, en             |
+|  :flag\_sm:  | :flag\_sm: |             San Marino             |                     Italian                     | it                 |
+|  :flag\_st:  | :flag\_st: |        Sao Tome and Principe       |                    Portuguese                   | pt                 |
+|  :flag\_sa:  | :flag\_sa: |            Saudi Arabia            |                      Arabic                     | ar                 |
+|  :flag\_sn:  | :flag\_sn: |               Senegal              |                      French                     | fr                 |
+|  :flag\_rs:  | :flag\_rs: |               Serbia               |                     Serbian                     | sr                 |
+|  :flag\_sc:  | :flag\_sc: |             Seychelles             |                 English, French                 | en, fr             |
+|  :flag\_sl:  | :flag\_sl: |            Sierra Leone            |                     English                     | en                 |
+|  :flag\_sg:  | :flag\_sg: |              Singapore             |          English, Tamil, Chinese, Malay         | en, ta, zh-tw, ms  |
+|  :flag\_sk:  | :flag\_sk: |              Slovakia              |                      Slovak                     | sk                 |
+|  :flag\_si:  | :flag\_si: |              Slovenia              |                    Slovenian                    | sl                 |
+|  :flag\_sb:  | :flag\_sb: |           Solomon Islands          |                     English                     | en                 |
+|  :flag\_so:  | :flag\_so: |               Somalia              |                  Somali, Arabic                 | so, ar             |
+|  :flag\_za:  | :flag\_za: |            South Africa            | English, Afrikaans, Southern Sotho, Xhosa, Zulu | en, af, st, xh, zu |
+|  :flag\_gs:  | :flag\_gs: | South Georgia And Sandwich Islands |                     English                     | en                 |
+|  :flag\_es:  | :flag\_es: |                Spain               |                     Spanish                     | es                 |
+|  :flag\_lk:  | :flag\_lk: |              Sri Lanka             |                 Sinhalese, Tamil                | si, ta             |
+|  :flag\_sd:  | :flag\_sd: |                Sudan               |                      Arabic                     | ar                 |
+|  :flag\_sr:  | :flag\_sr: |              Suriname              |                      Dutch                      | nl                 |
+|  :flag\_sj:  | :flag\_sj: |       Svalbard And Jan Mayen       |                    Norwegian                    | no                 |
+|  :flag\_sz:  | :flag\_sz: |              Swaziland             |                  Swati, English                 | ss, en             |
+|  :flag\_se:  | :flag\_se: |               Sweden               |                     Swedish                     | sv                 |
+|  :flag\_ch:  | :flag\_ch: |             Switzerland            |             German, French, Italian             | de, fr, it         |
+|  :flag\_sy:  | :flag\_sy: |        Syrian Arab Republic        |                      Arabic                     | ar                 |
+|  :flag\_tw:  | :flag\_tw: |               Taiwan               |                     Chinese                     | zh-tw              |
+|  :flag\_tj:  | :flag\_tj: |             Tajikistan             |                      Tajik                      | tg                 |
+|  :flag\_tz:  | :flag\_tz: |              Tanzania              |                     Swahili                     | sw                 |
+|  :flag\_th:  | :flag\_th: |              Thailand              |                       Thai                      | th                 |
+|  :flag\_tl:  | :flag\_tl: |             Timor-Leste            |                Tetum, Portuguese                | tet, pt            |
+|  :flag\_tg:  | :flag\_tg: |                Togo                |                      French                     | fr                 |
+|  :flag\_tk:  | :flag\_tk: |               Tokelau              |                 Tokelau, English                | tkl, en            |
+|  :flag\_to:  | :flag\_to: |                Tonga               |                  Tonga, English                 | to, en             |
+|  :flag\_tt:  | :flag\_tt: |         Trinidad and Tobago        |                     English                     | en                 |
+|  :flag\_tn:  | :flag\_tn: |               Tunisia              |                      Arabic                     | ar                 |
+|  :flag\_tr:  | :flag\_tr: |               Turkey               |                     Turkish                     | tr                 |
+|  :flag\_tm:  | :flag\_tm: |            Turkmenistan            |                     Turkmen                     | tk                 |
+|  :flag\_tc:  | :flag\_tc: |      Turks and Caicos Islands      |                     English                     | en                 |
+|  :flag\_tv:  | :flag\_tv: |               Tuvalu               |                 Tuvalu, English                 | tvl, en            |
+|  :flag\_ug:  | :flag\_ug: |               Uganda               |                 English, Swahili                | en, sw             |
+|  :flag\_ua:  | :flag\_ua: |               Ukraine              |                    Ukrainian                    | uk                 |
+|  :flag\_ae:  | :flag\_ae: |        United Arab Emirates        |                      Arabic                     | ar                 |
+|  :flag\_gb:  | :flag\_gb: |           United Kingdom           |                     English                     | en                 |
+|  :flag\_us:  | :flag\_us: |            United States           |                     English                     | en                 |
+|  :flag\_um:  | :flag\_um: |   United States Outlying Islands   |                     English                     | en                 |
+|  :flag\_uy:  | :flag\_uy: |               Uruguay              |               Spanish, Portuguese               | es, pt             |
+|  :flag\_uz:  | :flag\_uz: |             Uzbekistan             |                      Uzbek                      | uz                 |
+|  :flag\_vu:  | :flag\_vu: |               Vanuatu              |             Bislama, English, French            | bi, en, fr         |
+|  :flag\_ve:  | :flag\_ve: |              Venezuela             |                     Spanish                     | es                 |
+|  :flag\_vn:  | :flag\_vn: |               Vietnam              |                    Vietnamese                   | vi                 |
+|  :flag\_vg:  | :flag\_vg: |       British Virgin Islands       |                     English                     | en                 |
+|  :flag\_vi:  | :flag\_vi: |          Us Virgin Islands         |                     English                     | en                 |
+|  :flag\_wf:  | :flag\_wf: |          Wallis and Futuna         |                      French                     | fr                 |
+|  :flag\_eh:  | :flag\_eh: |           Western Sahara           |                      Arabic                     | ar                 |
+|  :flag\_ye:  | :flag\_ye: |                Yemen               |                      Arabic                     | ar                 |
+|  :flag\_zm:  | :flag\_zm: |               Zambia               |                     English                     | en                 |
+|  :flag\_zw:  | :flag\_zw: |              Zimbabwe              | Chichewa, English, Xhosa, Southern Sotho, Shona | ny, en, xh, st, sn |
 |              |            |                                    |                                                 |                    |
 
 {% hint style="info" %}
