@@ -42,6 +42,14 @@ I never shy away from a challenge and always find a way to improve.
 
 <details>
 
+<summary>Qjuh - Developer</summary>
+
+I‘m Qjuh, I’m a teacher for maths and computer science and in my free time I’m a hobby programmer and mobile gamer What lead me to become a RITA user at first (for our multilingual mobile gaming discord) and then gradually getting more and more involved in its development. Well, here I am now and trying not to break too much while adding stuff here and there…
+
+</details>
+
+<details>
+
 <summary>Brozer - Database Developer</summary>
 
 At work, i'm a DBA on the development side who help dev teams (over 600 people) to modelize their data into RDBMS like PostgreSQL and Oracle. I also help them to build secured databases, evolutive with perf guarantees. As a support member, I also give them lessons on fundamentals like how to code properly in SQL ANSI, how to choose a database to fit their needs (relational Vs NoSQL) and how to improve their physical model in adequation with the datas they want to store in, even for huge storage / huge sollicitations.
@@ -56,7 +64,7 @@ My hobbies are mainly development, that's why i joined RITA Team for learning an
 
 <details>
 
-<summary>Trainer Paul - Senior Helper</summary>
+<summary>Trainer Paul - Senior Helper(Retired)</summary>
 
 I have a long history of Dos, Windows, Database building, and Server building experience, but nothing compared to the combined knowledge of the Rita team. Why Trainer? I used to actually train employees, and a Electrical instructor of years past. I support the Rita team, users, and helping is one of my qualities. Thanks Rita team for closing the gap on communication for all members on Discord.
 
