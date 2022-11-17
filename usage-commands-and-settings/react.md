@@ -196,15 +196,15 @@ The full Supported list can be found below
 |  :flag\_nf:  | :flag\_nf: |           Norfolk Island           |                     English                     | en                 |
 |  :flag\_mp:  | :flag\_mp: |      Northern Mariana Islands      |          English, Chamorro, Carolinian          | en, ch, cal        |
 |  :flag\_no:  | :flag\_no: |               Norway               |                    Norwegian                    | no                 |
-|              | :flag\_om: |                Oman                |                      Arabic                     | ar                 |
-|              | :flag\_pk: |              Pakistan              |                       Urdu                      | ur                 |
-|              | :flag\_pw: |                Palau               |                 English, Palauan                | en, pau            |
-|              | :flag\_ps: |        Palestinian Territory       |                      Arabic                     | ar                 |
-|              | :flag\_pa: |               Panama               |                     Spanish                     | es                 |
-|              | :flag\_pg: |          Papua New Guinea          |          English, Hiri Motu, Tok Pisin          | en, ho, tpi        |
-|              | :flag\_py: |              Paraguay              |           Spanish, Paraguayan Guaraní           | es, gug            |
-|              | :flag\_pe: |                Peru                |                     Spanish                     | es                 |
-|              | :flag\_ph: |             Philippines            |                     Tagalog                     | tl                 |
+|  :flag\_om:  | :flag\_om: |                Oman                |                      Arabic                     | ar                 |
+|  :flag\_pk:  | :flag\_pk: |              Pakistan              |                       Urdu                      | ur                 |
+|  :flag\_pw:  | :flag\_pw: |                Palau               |                 English, Palauan                | en, pau            |
+|  :flag\_ps:  | :flag\_ps: |        Palestinian Territory       |                      Arabic                     | ar                 |
+|  :flag\_pa:  | :flag\_pa: |               Panama               |                     Spanish                     | es                 |
+|  :flag\_pg:  | :flag\_pg: |          Papua New Guinea          |          English, Hiri Motu, Tok Pisin          | en, ho, tpi        |
+|  :flag\_py:  | :flag\_py: |              Paraguay              |           Spanish, Paraguayan Guaraní           | es, gug            |
+|  :flag\_pe:  | :flag\_pe: |                Peru                |                     Spanish                     | es                 |
+|  :flag\_ph:  | :flag\_ph: |             Philippines            |                     Tagalog                     | tl                 |
 |              | :flag\_pn: |              Pitcairn              |                     English                     | en                 |
 |              | :flag\_pl: |               Poland               |                      Polish                     | pl                 |
 |              | :flag\_pt: |              Portugal              |                    Portuguese                   | pt                 |
