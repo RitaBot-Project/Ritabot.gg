@@ -205,15 +205,15 @@ The full Supported list can be found below
 |  :flag\_py:  | :flag\_py: |              Paraguay              |           Spanish, Paraguayan Guaraní           | es, gug            |
 |  :flag\_pe:  | :flag\_pe: |                Peru                |                     Spanish                     | es                 |
 |  :flag\_ph:  | :flag\_ph: |             Philippines            |                     Tagalog                     | tl                 |
-|              | :flag\_pn: |              Pitcairn              |                     English                     | en                 |
-|              | :flag\_pl: |               Poland               |                      Polish                     | pl                 |
-|              | :flag\_pt: |              Portugal              |                    Portuguese                   | pt                 |
-|              | :flag\_pr: |             Puerto Rico            |                     Spanish                     | es                 |
-|              | :flag\_qa: |                Qatar               |                      Arabic                     | ar                 |
-|              | :flag\_re: |               Reunion              |                      French                     | fr                 |
-|              | :flag\_ro: |               Romania              |                     Romanian                    | ro                 |
-|              | :flag\_ru: |         Russian Federation         |                     Russian                     | ru                 |
-|              | :flag\_rw: |               Rwanda               |      Kinyarwanda, English, French, Swahili      | rw, en, fr, sw     |
+|  :flag\_pn:  | :flag\_pn: |              Pitcairn              |                     English                     | en                 |
+|  :flag\_pl:  | :flag\_pl: |               Poland               |                      Polish                     | pl                 |
+|  :flag\_pt:  | :flag\_pt: |              Portugal              |                    Portuguese                   | pt                 |
+|  :flag\_pr:  | :flag\_pr: |             Puerto Rico            |                     Spanish                     | es                 |
+|  :flag\_qa:  | :flag\_qa: |                Qatar               |                      Arabic                     | ar                 |
+|  :flag\_re:  | :flag\_re: |               Reunion              |                      French                     | fr                 |
+|  :flag\_ro:  | :flag\_ro: |               Romania              |                     Romanian                    | ro                 |
+|  :flag\_ru:  | :flag\_ru: |         Russian Federation         |                     Russian                     | ru                 |
+|  :flag\_rw:  | :flag\_rw: |               Rwanda               |      Kinyarwanda, English, French, Swahili      | rw, en, fr, sw     |
 |              | :flag\_bl: |          Saint Barthelemy          |                      French                     | fr                 |
 |              | :flag\_sh: |            Saint Helena            |                     English                     | en                 |
 |              | :flag\_kn: |        Saint Kitts And Nevis       |                     English                     | en                 |
