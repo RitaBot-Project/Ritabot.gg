@@ -86,26 +86,26 @@ The full Supported list can be found below
 |  :flag\_ck:  | :flag\_ck: |            Cook Islands            |                     English                     | en                 |
 |  :flag\_cr:  | :flag\_cr: |             Costa Rica             |                     Spanish                     | es                 |
 |  :flag\_ci:  | :flag\_ci: |            Cote D’Ivoire           |                      French                     | fr                 |
-|              | :flag\_hr: |               Croatia              |                     Croatian                    | hr                 |
-|              | :flag\_cu: |                Cuba                |                     Spanish                     | es                 |
-|              | :flag\_cy: |               Cyprus               |                  Greek, Turkish                 | el, tr             |
-|              | :flag\_cz: |           Czech Republic           |                      Czech                      | cs                 |
-|              | :flag\_dk: |               Denmark              |                      Danish                     | da                 |
-|              | :flag\_dj: |              Djibouti              |                  Arabic, French                 | ar, fr             |
-|              | :flag\_dm: |              Dominica              |                     English                     | en                 |
-|              | :flag\_do: |         Dominican Republic         |                     Spanish                     | es                 |
-|              | :flag\_ec: |               Ecuador              |                     Spanish                     | es                 |
-|              | :flag\_eg: |                Egypt               |                      Arabic                     | ar                 |
-|              | :flag\_sv: |             El Salvador            |                     Spanish                     | es                 |
-|              | :flag\_gq: |          Equatorial Guinea         |           Spanish, French, Portuguese           | es, fr, pt         |
-|              | :flag\_er: |               Eritrea              |            Arabic, English, Tigrinya            | ar, en, ti         |
-|              | :flag\_ee: |               Estonia              |                     Estonian                    | et                 |
-|              | :flag\_et: |              Ethiopia              |         Oriya, Amharic, Somali, Tigrinya        | or, am, so, ti     |
-|              | :flag\_fk: |     Falkland Islands (Malvinas)    |                     English                     | en                 |
-|              | :flag\_fo: |            Faroe Islands           |                 Danish, Faroese                 | da, fo             |
-|              | :flag\_fj: |                Fiji                |                 Fijian, English                 | fj, en             |
-|              | :flag\_fi: |               Finland              |                 Finnish, Swedish                | fi, sv             |
-|              | :flag\_fr: |               France               |                      French                     | fr                 |
+|  :flag\_hr:  | :flag\_hr: |               Croatia              |                     Croatian                    | hr                 |
+|  :flag\_cu:  | :flag\_cu: |                Cuba                |                     Spanish                     | es                 |
+|  :flag\_cy:  | :flag\_cy: |               Cyprus               |                  Greek, Turkish                 | el, tr             |
+|  :flag\_cz:  | :flag\_cz: |           Czech Republic           |                      Czech                      | cs                 |
+|  :flag\_dk:  | :flag\_dk: |               Denmark              |                      Danish                     | da                 |
+|  :flag\_dj:  | :flag\_dj: |              Djibouti              |                  Arabic, French                 | ar, fr             |
+|  :flag\_dm:  | :flag\_dm: |              Dominica              |                     English                     | en                 |
+|  :flag\_do:  | :flag\_do: |         Dominican Republic         |                     Spanish                     | es                 |
+|  :flag\_ec:  | :flag\_ec: |               Ecuador              |                     Spanish                     | es                 |
+|  :flag\_eg:  | :flag\_eg: |                Egypt               |                      Arabic                     | ar                 |
+|  :flag\_sv:  | :flag\_sv: |             El Salvador            |                     Spanish                     | es                 |
+|  :flag\_gq;  | :flag\_gq: |          Equatorial Guinea         |           Spanish, French, Portuguese           | es, fr, pt         |
+|  :flag\_er:  | :flag\_er: |               Eritrea              |            Arabic, English, Tigrinya            | ar, en, ti         |
+|  :flag\_ee:  | :flag\_ee: |               Estonia              |                     Estonian                    | et                 |
+|  :flag\_et:  | :flag\_et: |              Ethiopia              |         Oriya, Amharic, Somali, Tigrinya        | or, am, so, ti     |
+|  :flag\_fk:  | :flag\_fk: |     Falkland Islands (Malvinas)    |                     English                     | en                 |
+|  :flag\_fo:  | :flag\_fo: |            Faroe Islands           |                 Danish, Faroese                 | da, fo             |
+|  :flag\_fj:  | :flag\_fj: |                Fiji                |                 Fijian, English                 | fj, en             |
+|  :flag\_fi:  | :flag\_fi: |               Finland              |                 Finnish, Swedish                | fi, sv             |
+|  :flag\_fr:  | :flag\_fr: |               France               |                      French                     | fr                 |
 |              | :flag\_gf: |            French Guiana           |                      French                     | fr                 |
 |              | :flag\_pf: |          French Polynesia          |                      French                     | fr                 |
 |              | :flag\_tf: |     French Southern Territories    |                      French                     | fr                 |
