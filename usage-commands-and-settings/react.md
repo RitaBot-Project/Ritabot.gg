@@ -126,8 +126,8 @@ The full Supported list can be found below
 |  :flag\_gw:  | :flag\_gw: |            Guinea-Bissau           |                    Portuguese                   | pt                 |
 |  :flag\_gy:  | :flag\_gy: |               Guyana               |                     English                     | en                 |
 |  :flag\_ht:  | :flag\_ht: |                Haiti               |                      French                     | fr                 |
-|              | :flag\_hm: |   Heard Island & Mcdonald Islands  |                       null                      | null               |
-|              | :flag\_va: |    Holy See (Vatican City State)   |                  Latin, Italian                 | la, it             |
+|  :flag\_hm:  | :flag\_hm: |   Heard Island & Mcdonald Islands  |                       null                      | null               |
+|  :flag\_va:  | :flag\_va: |    Holy See (Vatican City State)   |                  Latin, Italian                 | la, it             |
 |  :flag\_hn:  | :flag\_hn: |              Honduras              |                     Spanish                     | es                 |
 |  :flag\_hk:  | :flag\_hk: |              Hong Kong             |                 Chinese, English                | zh-tw, en          |
 |  :flag\_hu:  | :flag\_hu: |               Hungary              |                    Hungarian                    | hu                 |
@@ -150,52 +150,52 @@ The full Supported list can be found below
 |  :flag\_kr:  | :flag\_kr: |             South Korea            |                      Korean                     | ko                 |
 |  :flag\_kw:  | :flag\_kw: |               Kuwait               |                      Arabic                     | ar                 |
 |  :flag\_kg:  | :flag\_kg: |             Kyrgyzstan             |                 Kirghiz, Russian                | ky, ru             |
-|              | :flag\_la: |  Lao People’s Democratic Republic  |                       Lao                       | lo                 |
-|              | :flag\_lv: |               Latvia               |                     Latvian                     | lv                 |
-|              | :flag\_lb: |               Lebanon              |                      Arabic                     | ar                 |
-|              | :flag\_ls: |               Lesotho              |             Southern Sotho, English             | st, en             |
-|              | :flag\_lr: |               Liberia              |                     English                     | en                 |
-|              | :flag\_ly: |                Libya               |                      Arabic                     | ar                 |
-|              | :flag\_li: |            Liechtenstein           |                      German                     | de                 |
-|              | :flag\_lt: |              Lithuania             |                    Lithuanian                   | lt                 |
-|              | :flag\_lu: |             Luxembourg             |          Letzeburgesch, French, German          | lb, fr, de         |
-|              | :flag\_mo: |                Macao               |               Chinese, Portuguese               | zh-tw, pt          |
-|              | :flag\_mk: |              Macedonia             |                    Macedonian                   | mk                 |
-|              | :flag\_mg: |             Madagascar             |                 Malagasy, French                | mg, fr             |
-|              | :flag\_mw: |               Malawi               |                     English                     | en                 |
-|              | :flag\_my: |              Malaysia              |                      Malay                      | ms                 |
-|              | :flag\_mv: |              Maldives              |                    Maldivian                    | dv                 |
-|              | :flag\_ml: |                Mali                |                      French                     | fr                 |
-|              | :flag\_mt: |                Malta               |                     Maltese                     | mt                 |
-|              | :flag\_mh: |          Marshall Islands          |               Marshallese, English              | mh, en             |
-|              | :flag\_mq: |             Martinique             |                      French                     | fr                 |
-|              | :flag\_mr: |             Mauritania             |                      Arabic                     | ar                 |
-|              | :flag\_mu: |              Mauritius             |                 English, French                 | en, fr             |
-|              | :flag\_yt: |               Mayotte              |                      French                     | fr                 |
-|              | :flag\_mx: |               Mexico               |                     Spanish                     | es                 |
-|              | :flag\_fm: |             Micronesia             |                     English                     | en                 |
-|              | :flag\_md: |               Moldova              |                     Romanian                    | ro                 |
-|              | :flag\_mc: |               Monaco               |                      French                     | fr                 |
-|              | :flag\_mn: |              Mongolia              |                    Mongolian                    | mn                 |
-|              | :flag\_me: |             Montenegro             |                   Montenegrin                   | cnr                |
-|              | :flag\_ms: |             Montserrat             |                     English                     | en                 |
-|              | :flag\_ma: |               Morocco              |                      Arabic                     | ar                 |
-|              | :flag\_mz: |             Mozambique             |                    Portuguese                   | pt                 |
-|              | :flag\_mm: |               Myanmar              |                     Burmese                     | my                 |
-|              | :flag\_na: |               Namibia              |                     English                     | en                 |
-|              | :flag\_nr: |                Nauru               |                      Nauru                      | na                 |
-|              | :flag\_np: |                Nepal               |                      Nepali                     | ne                 |
-|              | :flag\_nl: |             Netherlands            |                      Dutch                      | nl                 |
-|              | :flag\_an: |        Netherlands Antilles        |                      Dutch                      | nl                 |
-|              | :flag\_nc: |            New Caledonia           |                      French                     | fr                 |
-|              | :flag\_nz: |             New Zealand            |                     English                     | en                 |
-|              | :flag\_ni: |              Nicaragua             |                     Spanish                     | es                 |
-|              | :flag\_ne: |                Niger               |                      French                     | fr                 |
-|              | :flag\_ng: |               Nigeria              |                     English                     | en                 |
-|              | :flag\_nu: |                Niue                |                 English, Niuean                 | en, niu            |
-|              | :flag\_nf: |           Norfolk Island           |                     English                     | en                 |
-|              | :flag\_mp: |      Northern Mariana Islands      |          English, Chamorro, Carolinian          | en, ch, cal        |
-|              | :flag\_no: |               Norway               |                    Norwegian                    | no                 |
+|  :flag\_la:  | :flag\_la: |  Lao People’s Democratic Republic  |                       Lao                       | lo                 |
+|  :flag\_lv:  | :flag\_lv: |               Latvia               |                     Latvian                     | lv                 |
+|  :flag\_lb:  | :flag\_lb: |               Lebanon              |                      Arabic                     | ar                 |
+|  :flag\_ls:  | :flag\_ls: |               Lesotho              |             Southern Sotho, English             | st, en             |
+|  :flag\_lr:  | :flag\_lr: |               Liberia              |                     English                     | en                 |
+|  :flag\_ly:  | :flag\_ly: |                Libya               |                      Arabic                     | ar                 |
+|  :flag\_li:  | :flag\_li: |            Liechtenstein           |                      German                     | de                 |
+|  :flag\_lt:  | :flag\_lt: |              Lithuania             |                    Lithuanian                   | lt                 |
+|  :flag\_lu:  | :flag\_lu: |             Luxembourg             |          Letzeburgesch, French, German          | lb, fr, de         |
+|  :flag\_mo:  | :flag\_mo: |                Macao               |               Chinese, Portuguese               | zh-tw, pt          |
+|  :flag\_mk:  | :flag\_mk: |              Macedonia             |                    Macedonian                   | mk                 |
+|  :flag\_mg:  | :flag\_mg: |             Madagascar             |                 Malagasy, French                | mg, fr             |
+|  :flag\_mw:  | :flag\_mw: |               Malawi               |                     English                     | en                 |
+|  :flag\_my:  | :flag\_my: |              Malaysia              |                      Malay                      | ms                 |
+|  :flag\_mv:  | :flag\_mv: |              Maldives              |                    Maldivian                    | dv                 |
+|  :flag\_ml:  | :flag\_ml: |                Mali                |                      French                     | fr                 |
+|  :flag\_mt:  | :flag\_mt: |                Malta               |                     Maltese                     | mt                 |
+|  :flag\_mh:  | :flag\_mh: |          Marshall Islands          |               Marshallese, English              | mh, en             |
+|  :flag\_mq:  | :flag\_mq: |             Martinique             |                      French                     | fr                 |
+|  :flag\_mr:  | :flag\_mr: |             Mauritania             |                      Arabic                     | ar                 |
+|  :flag\_mu:  | :flag\_mu: |              Mauritius             |                 English, French                 | en, fr             |
+|  :flag\_yt:  | :flag\_yt: |               Mayotte              |                      French                     | fr                 |
+|  :flag\_mx:  | :flag\_mx: |               Mexico               |                     Spanish                     | es                 |
+|  :flag\_fm:  | :flag\_fm: |             Micronesia             |                     English                     | en                 |
+|  :flag\_md:  | :flag\_md: |               Moldova              |                     Romanian                    | ro                 |
+|  :flag\_mc:  | :flag\_mc: |               Monaco               |                      French                     | fr                 |
+|  :flag\_mn:  | :flag\_mn: |              Mongolia              |                    Mongolian                    | mn                 |
+|  :flag\_me:  | :flag\_me: |             Montenegro             |                   Montenegrin                   | cnr                |
+|  :flag\_ms:  | :flag\_ms: |             Montserrat             |                     English                     | en                 |
+|  :flag\_ma:  | :flag\_ma: |               Morocco              |                      Arabic                     | ar                 |
+|  :flag\_mz:  | :flag\_mz: |             Mozambique             |                    Portuguese                   | pt                 |
+|  :flag\_mm:  | :flag\_mm: |               Myanmar              |                     Burmese                     | my                 |
+|  :flag\_na:  | :flag\_na: |               Namibia              |                     English                     | en                 |
+|  :flag\_nr:  | :flag\_nr: |                Nauru               |                      Nauru                      | na                 |
+|  :flag\_np:  | :flag\_np: |                Nepal               |                      Nepali                     | ne                 |
+|  :flag\_nl:  | :flag\_nl: |             Netherlands            |                      Dutch                      | nl                 |
+|  :flag\_bq:  | :flag\_an: |        Netherlands Antilles        |                      Dutch                      | nl                 |
+|  :flag\_nc:  | :flag\_nc: |            New Caledonia           |                      French                     | fr                 |
+|  :flag\_nz:  | :flag\_nz: |             New Zealand            |                     English                     | en                 |
+|  :flag\_ni:  | :flag\_ni: |              Nicaragua             |                     Spanish                     | es                 |
+|  :flag\_ne:  | :flag\_ne: |                Niger               |                      French                     | fr                 |
+|  :flag\_ng:  | :flag\_ng: |               Nigeria              |                     English                     | en                 |
+|  :flag\_nu:  | :flag\_nu: |                Niue                |                 English, Niuean                 | en, niu            |
+|  :flag\_nf:  | :flag\_nf: |           Norfolk Island           |                     English                     | en                 |
+|  :flag\_mp:  | :flag\_mp: |      Northern Mariana Islands      |          English, Chamorro, Carolinian          | en, ch, cal        |
+|  :flag\_no:  | :flag\_no: |               Norway               |                    Norwegian                    | no                 |
 |              | :flag\_om: |                Oman                |                      Arabic                     | ar                 |
 |              | :flag\_pk: |              Pakistan              |                       Urdu                      | ur                 |
 |              | :flag\_pw: |                Palau               |                 English, Palauan                | en, pau            |
