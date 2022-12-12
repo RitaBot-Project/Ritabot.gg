@@ -77,8 +77,8 @@ All Plans/Tiers are subject to other limitations, detailed below.
 | ---------------------- | ---------- | ---------------- |
 | The OG "Casual" Plan   | 100        | 200,000 Soft Cap |
 | The "Casual" Plan      | 100        | 200,000 Soft Cap |
-| The OG "Tinkerer" Plan | 200        | 450,000 Soft Cap |
-| The "Tinkerer" Plan    | 200        | 450,000 Soft Cap |
+| The OG "Tinkerer" Plan | 200        | 400,000 Soft Cap |
+| The "Tinkerer" Plan    | 200        | 400,000 Soft Cap |
 | The OG "Pro" Plan      | 350        | 700,000 Soft Cap |
 | The "Pro" Plan         | 350        | 700,000 Soft Cap |
 
