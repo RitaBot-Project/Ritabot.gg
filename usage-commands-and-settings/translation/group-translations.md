@@ -8,13 +8,13 @@ The group commands are interactive and require you to respond to any prompts cor
 
 ## Command
 
-* **`!tr group` ** ⬅ **** create new channel group
+* **`!tr group`** ⬅ create new channel group
   * Respond with new group name, number of channels that should be in group, and for each channel prompt respond with channel language and ping which channel to assign
-* **`!tr group link [GROUPNAME]` ** ⬅ **** link a new channel into group
+* **`!tr group link [GROUPNAME]`** ⬅ link a new channel into group
   * Respond to prompts by pinging which channel to add and what language to assign to that channel
-* **`!tr group unlink [GROUPNAME]` ** ⬅ **** delete a channel from group, opposite of group link
-* **`!tr group delete [GROUPNAME]` ** ⬅ **** delete entirety of group
-* **`!tr group list` ** ⬅ **** list all groups present in guild
+* **`!tr group unlink [GROUPNAME]`** ⬅ delete a channel from group, opposite of group link
+* **`!tr group delete [GROUPNAME]`** ⬅ delete entirety of group
+* **`!tr group list`** ⬅ list all groups present in guild
 
 ### Parameters
 

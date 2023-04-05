@@ -48,7 +48,7 @@ Example: **`!tr help last`** - will open the help menu for the command last.
 
 ## Donate <a href="#doante" id="doante"></a>
 
-**`!tr donate oc`**` ``` - Donation link for open Collective.&#x20;
+**`!tr donate oc`** - Donation link for open Collective.&#x20;
 
 **`!tr donate github`** - Donation link for GitHub.
 

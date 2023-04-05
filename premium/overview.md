@@ -13,7 +13,7 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 
 ## About Subscribing
 
-In order to subscribe to RitaBot, _you must be on our_ [_**Discord Server**_](https://discord.gg/mgNR64R)_._ **** Subscriptions are role-based, meaning that Rita updates subscriptions based on which roles you have been given by the payment platform (which tier you have bought). If you leave the server, Rita will cancel your subscription at the end of a one-month period from the last subscription date, even if your subscription is still active.&#x20;
+In order to subscribe to RitaBot, _you must be on our_ [_**Discord Server**_](https://discord.gg/mgNR64R)_._  Subscriptions are role-based, meaning that Rita updates subscriptions based on which roles you have been given by the payment platform (which tier you have bought). If you leave the server, Rita will cancel your subscription at the end of a one-month period from the last subscription date, even if your subscription is still active.&#x20;
 
 {% hint style="info" %}
 For any queries you may have in regards to subscriptions, please proceed to <mark style="color:blue;">#open-a-ticket</mark> in our [**Discord Server**](https://discord.gg/mgNR64R).
@@ -25,7 +25,7 @@ There may be times RitaBot ceases to function, in which the procedure for us wil
 
 Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.\
 \
-In line with our [Refund Policy](../policys/refund-policy.md), We aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
+In line with our [Refund Policy](../policys/refund-policy/), We aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
 
 ## Servers
 

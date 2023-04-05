@@ -16,7 +16,7 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 
 **`!tr settings flagpersist  [on/off]`**
 
-**``**
+
 
 **react** - \[on/off] disabes the ablity to use flag reactions to translate.
 

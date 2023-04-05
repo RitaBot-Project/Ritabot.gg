@@ -36,7 +36,7 @@ We use it for membership benefits and discord integration. It allows us to rewar
 * If you chose to **Pay with Card**, fill our your card details and continue
 
 At this point, you will receive 1-3 emails. \
-See [**Existing**](method-1.md#existing-ko-fi-account) or [**No Ko-Fi**](method-1.md#no-ko-fi-account) **** Account for next steps.
+See [**Existing**](method-1.md#existing-ko-fi-account) or [**No Ko-Fi**](method-1.md#no-ko-fi-account) Account for next steps.
 
 ## Linking/Creating an Account - Before & After
 

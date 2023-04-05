@@ -1,11 +1,11 @@
 ---
-description: 'Last updated: April 22, 2022'
+description: 'Last updated: September 27, 2022'
 ---
 
-# S.A.L.T.S Policy V1
+# S.A.L.T.S Policy V2
 
 {% hint style="info" %}
-S.A.L.T.S Policy - Document Version 1 (In Effect April 22, 2022 > September 27, 2022)
+S.A.L.T.S Policy - Document Version 2 (In Effect September 27, 2022 > May 01, 2022)
 {% endhint %}
 
 S.A.L.T.S Stands for Subscription, Activation, Limitations, Termination and Suspension Policy. This describes Our policies and procedures on how each of the aforementioned processes are handled.&#x20;
@@ -75,7 +75,33 @@ All Plans/Tiers are subject to other limitations, detailed below.
 
 ## Limitations
 
-Content Here
+**Each plan has the following limitation applied.**
+
+| Plan Name              | Task Limit | Char Limit       |
+| ---------------------- | ---------- | ---------------- |
+| The OG "Casual" Plan   | 100        | 200,000 Soft Cap |
+| The "Casual" Plan      | 100        | 200,000 Soft Cap |
+| The OG "Tinkerer" Plan | 200        | 450,000 Soft Cap |
+| The "Tinkerer" Plan    | 200        | 450,000 Soft Cap |
+| The OG "Pro" Plan      | 350        | 700,000 Soft Cap |
+| The "Pro" Plan         | 350        | 700,000 Soft Cap |
+
+_Soft Cap = not enforced to the digit but close._ This is calculated by
+
+_(_Number of Characters in message \* Number of languages translated to) + Original Char Count = Total Char Count.
+
+* Example: English Message: Hello
+* Translated to French: Bonjour
+* (5 Characters \* 1 language translation) + 5 original chars = 10 Total Chars
+
+1. Exceeding Character Limit. Either of the following Scenarios are taken, via automation by RITA or manual intervention by a member of RMS Staff
+   * A server exceeds the soft caps assigned to their plan
+   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation
+   * At the start of the next calandar month Implicit Google API Translation is reactivated until breach of soft cap
+
+#### Machine Learning API
+
+ML API currently has an upper bound limit of 2 million characters translated per month. If a User exceeds this a custom tier cost or solution may be required.
 
 ## Termination
 

@@ -1,11 +1,11 @@
 ---
-description: 'In Effect Fom: May 01, 2023 / Last updated: April 05, 2023'
+description: 'Last updated: September 27, 2022'
 ---
 
-# Privacy Policy
+# Privacy Policy V2
 
 {% hint style="info" %}
-Privacy Policy - Document Version 3 (In Effect May 01, 2022 > Current)
+Privacy Policy - Document Version 2 (In Effect September 27, 2022 > May 01, 2022)
 {% endhint %}
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
@@ -163,19 +163,7 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 
 We will let You know via a prominent notice on Our Service or Discord Announcement, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page or the date provided on the notice.
-
-### Review Changes
-
-All changes to this policy can be found below
-
-{% content-ref url="privacy-policy-v1.md" %}
-[privacy-policy-v1.md](privacy-policy-v1.md)
-{% endcontent-ref %}
-
-{% content-ref url="privacy-policy-v2.md" %}
-[privacy-policy-v2.md](privacy-policy-v2.md)
-{% endcontent-ref %}
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ### Contact Us
 

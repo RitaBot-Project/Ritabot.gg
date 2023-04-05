@@ -30,7 +30,7 @@ For more information, please click [here](https://support.patreon.com/hc/en-gb/a
 
 <summary>Can I use &#x3C;insert service here> to pay for RITA?</summary>
 
-No, we only use KoFi and Patreon to facilitate our payments and automation.
+No, we only use Patreon to facilitate our payments and automation.
 
 </details>
 
@@ -38,7 +38,7 @@ No, we only use KoFi and Patreon to facilitate our payments and automation.
 
 <summary>How do I claim a refund?</summary>
 
-Please refer to our [refund policy](../../policys/refund-policy.md)
+Please refer to our [refund policy](../../policys/refund-policy/)
 
 </details>
 

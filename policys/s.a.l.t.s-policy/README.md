@@ -1,8 +1,12 @@
 ---
-description: 'Last updated: September 27, 2022'
+description: 'In Effect Fom: May 01, 2023 / Last updated: April 05, 2023'
 ---
 
 # S.A.L.T.S Policy
+
+{% hint style="info" %}
+S.A.L.T.S Policy - Document Version 3 (In Effect May 01, 2022 > Current)
+{% endhint %}
 
 S.A.L.T.S Stands for Subscription, Activation, Limitations, Termination and Suspension Policy. This describes Our policies and procedures on how each of the aforementioned processes are handled.&#x20;
 
@@ -24,27 +28,32 @@ Refer to activation steps below in Activation Section.
 
 Subscriptions are renewed on different days depending on the platform.
 
-1. Ko-Fi
-   1. Renews monthly from the date subscribed. E.g., subscription is purchased and payment is taken on the 09th of May. On the 9th of June payment is taken again, then again on the 9th July. This continues monthly until cancelation.
-2. Patreon
+1. Patreon
    1. Renews monthly on the 1st of each month regardless of subscription date. E.g., subscription is purchased and payment is taken on the 09th of May. On the 1st of June payment is taken, then again on the 1st July. This continues monthly until cancelation.
 
-#### Subscription Tier and Cost
+#### ACTIVE - Subscription Tier's and Cost
 
-| Plan Name              | Cost   | Availability        | Other Details                                 |
-| ---------------------- | ------ | ------------------- | --------------------------------------------- |
-| The OG "Casual" Plan   | $5.99  | 01/05/22 - 31/05/22 | Plan Discontinued, Existing Users remain.     |
-| The "Casual" Plan      | $6.99  | 01/06/22 - Current  | Replacement Tier to \[The OG "Casual" Plan]   |
-| The OG "Tinkerer" Plan | $9.99  | 01/05/22 - 31/05/22 | Plan Discontinued, Existing Users remain.     |
-| The "Tinkerer" Plan    | $10.99 | 01/06/22 - Current  | Replacement Tier to \[The OG "Tinkerer" Plan] |
-| The OG "Pro" Plan      | $14.99 | 01/05/22 - 31/05/22 | Plan Discontinued, Existing Users remain.     |
-| The "Pro" Plan         | $15.99 | 01/06/22 - Current  | Replacement Tier to \[The OG "Pro" Plan]      |
+These plans are the base subscription plans on offer. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. See [Tier Cost Changes & Availability](./#tier-cost-changes-and-availability) for More information.
+
+<table><thead><tr><th>Plan Name</th><th>Cost</th><th>Availability</th><th data-hidden></th></tr></thead><tbody><tr><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td><td></td></tr><tr><td>The "Casual" Plan</td><td>$6.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Casual" Plan]</td></tr><tr><td>The "Tinkerer" Plan</td><td>$10.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Tinkerer" Plan]</td></tr><tr><td>The "Pro" Plan</td><td>$15.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Pro" Plan]</td></tr><tr><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td><td></td></tr></tbody></table>
+
+#### PROMOTIONAL- Subscription Tier's and Cost
+
+These plans are subject to availability and are time-limited. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. Once an offer window has passed there is not guarantee it will be available again. See [Tier Cost Changes & Availability](./#tier-cost-changes-and-availability) for More information.
+
+<table><thead><tr><th>Plan Name</th><th>Cost</th><th>Availability</th><th data-hidden>Other Details</th></tr></thead><tbody><tr><td>The "Casual" Plan - Offer</td><td>$4.83</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Casual" Plan]</td></tr><tr><td>The "Tinkerer" Plan - Offer</td><td>$8.24</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Tinkerer" Plan]</td></tr><tr><td>The "Pro" Plan - Offer</td><td>$11.19</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Pro" Plan]</td></tr></tbody></table>
+
+#### RETIRED - Subscription Tier's and Cost
+
+These plans are retiered and no longer avaliable. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. Once an is retiered it will be available again. See [Tier Cost Changes & Availability](./#tier-cost-changes-and-availability) for More information.
+
+<table><thead><tr><th>Plan Name</th><th>Cost</th><th>Availability</th><th data-hidden>Other Details</th></tr></thead><tbody><tr><td>The OG "Casual" Plan</td><td>$5.99</td><td>01/05/22 - 31/05/22</td><td>Plan Discontinued, Existing Users remain.</td></tr><tr><td>The OG "Tinkerer" Plan</td><td>$9.99</td><td>01/05/22 - 31/05/22</td><td>Plan Discontinued, Existing Users remain.</td></tr><tr><td>The OG "Pro" Plan</td><td>$14.99</td><td>01/05/22 - 31/05/22</td><td>Plan Discontinued, Existing Users remain.</td></tr></tbody></table>
 
 #### Tier Cost Changes & Availability
 
 * Once a User has purchased a subscription, the cost they pay will not change, unless they cancel the subscription and then re-subscribe.
-  * Cancelation due to failed payment resulting in cancelation of a archived or expired plan cannot be re-activated, regardless of reason.
-* No notice will be given on archiving of a plan or removing availability; however, We believe in an open dialect with our customers. That said, business reason depending, We will provide information in the form of an announcement when possible.
+  * Cancellation due to failed payment resulting in the cancellation of an archived or expired plan cannot be re-activated, regardless of the reason.
+* No notice will be given on archiving or retiring a plan or removing availability; however, We believe in an open dialect with our customers. That said, business reason depends, We will provide information in the form of an announcement when possible.
 
 #### Other Limitation(s)
 
@@ -59,9 +68,8 @@ All Plans/Tiers are subject to other limitations, detailed below.
    1. Ko-Fi > PayPal or Stripe
    2. Patreon > Payment is handled by Patreon
 5. Upon Confirmation of payment User activates Discord integration through account linking.
-   1. Guide for [Ko-Fi](../../premium/how-to-subscribe/method-1.md)
-   2. Guide for [Patreon](../../premium/how-to-subscribe/patreon.md)
-6. Integration uses the Ko-Fi and Patreon Bot to apply relevant roles to User, a Role from Payment, Tier, and the Subscription section below are needed for RITA to work.
+   1. Guide for [Patreon](../../premium/how-to-subscribe/patreon.md)
+6. Integration uses the Patreon Bot to apply relevant roles to User, a Role from Payment, Tier, and the Subscription section below are needed for RITA to work.
 7. RITA detects role additions and adds relevant and required data to our Subscription Database
 8. Once User has all identifying Roles they are able to see the channel #activate-rita-here.
    1. If role addition fails or is incomplete, then it is investigated by the ADMIN team. The ADMIN team will manually validate payment completion and then apply correct roles, if necessary.
@@ -73,14 +81,21 @@ All Plans/Tiers are subject to other limitations, detailed below.
 
 **Each plan has the following limitation applied.**
 
-| Plan Name              | Task Limit | Char Limit       |
-| ---------------------- | ---------- | ---------------- |
-| The OG "Casual" Plan   | 100        | 200,000 Soft Cap |
-| The "Casual" Plan      | 100        | 200,000 Soft Cap |
-| The OG "Tinkerer" Plan | 200        | 450,000 Soft Cap |
-| The "Tinkerer" Plan    | 200        | 450,000 Soft Cap |
-| The OG "Pro" Plan      | 350        | 700,000 Soft Cap |
-| The "Pro" Plan         | 350        | 700,000 Soft Cap |
+Due to the rising cost of our Hosting, Charges to Google and Payment Processing Services, we have made changes to the character limitations applied to each plan, this will take effect on the 1st of May 2023
+
+| Plan Name                   | Task Limit | Char Limit       | Engine Used     |
+| --------------------------- | ---------- | ---------------- | --------------- |
+| REDACTED                    | REDACTED   | REDACTED         | REDACTED        |
+| The OG "Casual" Plan        | 100        | 200,000 Soft Cap | Google API / ML |
+| The "Casual" Plan - Offer   | 100        | 200,000 Soft Cap | Google API / ML |
+| The "Casual" Plan           | 100        | 200,000 Soft Cap | Google API / ML |
+| The OG "Tinkerer" Plan      | 200        | 400,000 Soft Cap | Google API / ML |
+| The "Tinkerer" Plan - Offer | 200        | 400,000 Soft Cap | Google API / ML |
+| The "Tinkerer" Plan         | 200        | 400,000 Soft Cap | Google API / ML |
+| The OG "Pro" Plan           | 350        | 600,000 Soft Cap | Google API / ML |
+| The "Pro" Plan - Offer      | 350        | 600,000 Soft Cap | Google API / ML |
+| The "Pro" Plan              | 350        | 600,000 Soft Cap | Google API / ML |
+| REDACTED                    | REDACTED   | REDACTED         | REDACTED        |
 
 _Soft Cap = not enforced to the digit but close._ This is calculated by
 
@@ -92,12 +107,33 @@ _(_Number of Characters in message \* Number of languages translated to) + Origi
 
 1. Exceeding Character Limit. Either of the following Scenarios are taken, via automation by RITA or manual intervention by a member of RMS Staff
    * A server exceeds the soft caps assigned to their plan
-   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation
+   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation for Languages we have trained and that are optimised to a high standard. See [Machine Learning API](./#machine-learning-api) for more information.
    * At the start of the next calandar month Implicit Google API Translation is reactivated until breach of soft cap
 
 #### Machine Learning API
 
-ML API currently has an upper bound limit of 2 million characters translated per month. If a User exceeds this a custom tier cost or solution may be required.
+ML API currently has an upper bound limit of 10 million characters translated per month. This upper bond if not hard coded in to RITA, however it is checked periodically throughout the month. If a User exceeds this a custom tier cost or solution may be required, however no suspention will happen as a result of this limit.
+
+#### Optimised Langauges&#x20;
+
+| Language              | Lang Code | Optimised for ML in Version |
+| --------------------- | --------- | --------------------------- |
+| Bulgarian             | bg        | 1.4.0                       |
+| Chinese (Simplified)  | zh-CN     | 1.4.0                       |
+| Chinese (Traditional) | zh-TW     | 1.4.0                       |
+| Czech                 | cs        | 1.4.0                       |
+| English               | en        | 1.4.0                       |
+| French                | fr        | 1.4.0                       |
+| Indonesian            | id        | 1.4.0                       |
+| Italian               | it        | 1.4.0                       |
+| Japanese              | ja        | 1.4.0                       |
+| Korean                | ko        | 1.4.0                       |
+| Portuguese            | pt        | 1.4.0                       |
+| Romanian              | ro        | 1.4.0                       |
+| Russian               | ru        | 1.4.0                       |
+| Serbian               | sr        | 1.4.0                       |
+| Ukrainian             | uk        | 1.4.0                       |
+| Vietnamese            | vi        | 1.4.0                       |
 
 ## Termination
 
@@ -141,7 +177,7 @@ A Further Notice/Contact Attempt is sent to User. This can be via a Direct Messa
 
 As a security measure RITA is able to Self-Eject from a server at any time. This function is executed. This results in no loss of data on the server.
 
-A Further Notice/Contact Attempt is sent to User via a Direct Message from RITA, Tagged/Pinged in RMS, DM from a member of staff or notice provided on the User’s server by RITA or Member of staff.
+A Further Notice/Contact Attempt is sent to The User via a Direct Message from RITA, Tagged/Pinged in RMS, DM from a member of staff or notice provided on the User’s server by RITA or Member of staff.
 
 **User has not made contact within 72 hours move on to Step 4.**
 
@@ -151,9 +187,9 @@ A Further Notice/Contact Attempt is sent to User via a Direct Message from RITA,
 
 <summary>Step 4: Server is Blacklisted</summary>
 
-Server ID is Blacklisted. If User attempts to add RITA back to a server that is blacklisted, RITA will kick herself from the server.
+The Server ID is Blacklisted. If the User attempts to add RITA back to a server that is blacklisted, RITA will kick herself from the server.
 
-NO Further Notice/Contact Attempt to User is made at this point
+NO Further Notice/Contact Attempt to The User is made at this point
 
 **User has not made contact within 24 hours move on to Step 5.**
 
@@ -163,7 +199,7 @@ NO Further Notice/Contact Attempt to User is made at this point
 
 <summary>Step 5: NO FURTHER CONTACT</summary>
 
-No further contact to User will be attempted or made. Matter is classified as closed and no further support will be provided
+No further contact to User will be attempted or made. The matter is classified as closed and no further support will be provided
 
 </details>
 

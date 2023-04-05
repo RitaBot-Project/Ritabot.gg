@@ -6,7 +6,7 @@ layout: landing
 # RITA UPDATE
 
 {% hint style="info" %}
-If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
+If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) and we will try and answer them.
 {% endhint %}
 
 ### **First things first**
@@ -136,5 +136,5 @@ If you have a question we have not answered, please reach out and ask it.
 These decisions have been agreed upon by the Core RITA Dev Team. If you have any issues please raise them privately or open a ticket for us to respond.&#x20;
 
 {% hint style="success" %}
-If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) **** and we will try and answer them.
+If you have any other Questions join our [**Discord Server**](https://discord.gg/mgNR64R) and we will try and answer them.
 {% endhint %}
