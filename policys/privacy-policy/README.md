@@ -5,7 +5,7 @@ description: 'In Effect Fom: May 01, 2023 / Last updated: April 05, 2023'
 # Privacy Policy
 
 {% hint style="info" %}
-Privacy Policy - Document Version 3 (In Effect May 01, 2022 > Current)
+Privacy Policy - Document Version 3 (In Effect May 01, 2023 > Current)
 {% endhint %}
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.

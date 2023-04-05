@@ -5,7 +5,7 @@ description: 'Last updated: September 27, 2022'
 # S.A.L.T.S Policy V2
 
 {% hint style="info" %}
-S.A.L.T.S Policy - Document Version 2 (In Effect September 27, 2022 > May 01, 2022)
+S.A.L.T.S Policy - Document Version 2 (In Effect September 27, 2022 > May 01, 2023)
 {% endhint %}
 
 S.A.L.T.S Stands for Subscription, Activation, Limitations, Termination and Suspension Policy. This describes Our policies and procedures on how each of the aforementioned processes are handled.&#x20;

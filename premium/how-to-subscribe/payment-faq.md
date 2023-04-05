@@ -38,7 +38,7 @@ No, we only use Patreon to facilitate our payments and automation.
 
 <summary>How do I claim a refund?</summary>
 
-Please refer to our [refund policy](../../policys/refund-policy/)
+Please refer to our [refund policy](../../policys/refund-policy.md)
 
 </details>
 

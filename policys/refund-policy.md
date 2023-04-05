@@ -1,18 +1,18 @@
 ---
-description: 'Last updated: April 22, 2022'
+description: 'In Effect Fom: May 01, 2023 / Last updated: April 05, 2023'
 ---
 
 # Refund Policy
 
 {% hint style="info" %}
-Refund Policy - Document Version 3 (In Effect May 01, 2022 > Current)
+Refund Policy - Document Version 3 (In Effect May 01, 2023 > Current)
 {% endhint %}
 
 This Refund Policy describes our policies regarding the handling of refunds in general and does not serve as a legal base, nor is it approved by professionals. It is used to lay down the foundations for any decision made upon requests. Any point listed here might be a reason for permitted initiations of any refund.
 
 ## Interpretation and Definitions
 
-The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](../interpretation-and-definitions.md).&#x20;
+The words of which the initial letter is capitalized have meanings defined under Interpretations and Definitions, they are located [Here](interpretation-and-definitions.md).&#x20;
 
 ## **Subscription Refunds -** Exclusion Timeframe
 
@@ -55,7 +55,7 @@ Please note that all refund requests are handled on a case by case basis, howeve
 ## Usage Exception&#x20;
 
 {% hint style="warning" %}
-IF you have activated RITA, defined in our SALTS Policy [#Activation](../s.a.l.t.s-policy/#activation-process), and have used RITA service with a Character count exceeding 10,000 Character, you will NOT be eligible for a refund under any circumstance. to see your character count type "!translate stats" in your server.&#x20;
+IF you have activated RITA, defined in our SALTS Policy [#Activation](s.a.l.t.s-policy/#activation-process), and have used RITA service with a Character count exceeding 10,000 Character, you will NOT be eligible for a refund under any circumstance. to see your character count type "!translate stats" in your server.&#x20;
 {% endhint %}
 
 ## Donation Refunds

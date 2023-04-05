@@ -5,7 +5,7 @@ description: 'Last updated: April 22, 2022'
 # Refund Policy V1
 
 {% hint style="info" %}
-Refund Policy - Document Version 1 (In Effect April 22, 2022 > May 01, 2022)
+Refund Policy - Document Version 1 (In Effect April 22, 2022 > May 01, 2023)
 {% endhint %}
 
 This Refund Policy describes our policies regarding the handling of refunds in general and does not serve as a legal base, nor is it approved by professionals. It is used to lay down the foundations for any decision made upon requests. Any point listed here might be a reason for permitted initiations of any refund.

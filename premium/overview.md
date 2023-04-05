@@ -25,7 +25,7 @@ There may be times RitaBot ceases to function, in which the procedure for us wil
 
 Furthermore, there may be times of maintenance in order to improve and exceed Rita's capabilities.\
 \
-In line with our [Refund Policy](../policys/refund-policy/), We aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
+In line with our [Refund Policy](../policys/refund-policy.md), We aim for a service uptime of >80% (24 Days in a rolling 30-day period) of core functionality.
 
 ## Servers
 

@@ -4,6 +4,10 @@ description: Refer to the below service and their Respective TOS and Policies
 
 # 3rd Party Policys
 
+{% hint style="info" %}
+Links provided are for convenience and may not be the sum of all policies and agreements that govern each end user in every region and territory. Please refer to respective services for more information and links to policies that may effect you.
+{% endhint %}
+
 <details>
 
 <summary>Discord</summary>

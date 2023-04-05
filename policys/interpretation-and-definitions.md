@@ -5,7 +5,7 @@ The following Interpretations and Definitions apply to the following Policies
 * [Terms of Service](terms-of-service.md) (TOS)
 * [S.A.L.T.S](s.a.l.t.s-policy/) Policy
 * [Privacy](privacy-policy/) Policy
-* [Refund](refund-policy/) Policy
+* [Refund](refund-policy.md) Policy
 
 ### Interpretation
 
@@ -27,7 +27,7 @@ For the purposes of these Terms Of Service/s:
 * **ML** is defined as RMT's Proprietary Machine Learning Translation Engine
 * **Personal Data** is any information that relates to an identified or identifiable individual.
 * **Privacy Policy** as defined [Here](privacy-policy/).
-* **Refund Policy** as defined [Here](refund-policy/).
+* **Refund Policy** as defined [Here](refund-policy.md).
 * **RitaBot**, **RITA/Rita**, **RitaBot Dev Team** are all references to the Services provided.
   * **RitaBot**: The Company that owns all assets associate with RITA and her Features and Services
   * **RITA/Rita**: Is the term used to define the Discord Bot, pronouns are also used in conjuction, these are **She/Her**
