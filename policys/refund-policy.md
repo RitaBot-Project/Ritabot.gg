@@ -25,7 +25,7 @@ Refunds for payments **may** be issued when the user requests it and one of the 
 
 ### Patreon Payments
 
-Users who subscribe via Patreon are charged as soon as you sign up. Patrons' payments are recurring on the 1st of every month after that. This mean you are charge for **the** month (January, February ect), not **a** month (30 Days) of access.
+Users who subscribe via Patreon are charged as soon as you sign up. Patrons' payments are recurring on the 1st of every month after that. This means you are charged for **the** month (January, February ect), not **a** month (30 Days) of access.
 
 Each charge for the month gives them membership access for that month. For example,&#x20;
 

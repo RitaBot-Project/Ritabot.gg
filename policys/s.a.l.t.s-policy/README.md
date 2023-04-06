@@ -205,7 +205,7 @@ No further contact to User will be attempted or made. The matter is classified a
 
 ## Suspension
 
-1. A Suspension of Service can be implemented for a varying number of reasons. This is refer to as Pausing.
+1. A Suspension of Service can be implemented for a varying number of reasons. This is referred to as Pausing.
 2. Pausing and resuming of service can only be conducted by the following RMS staff levels
    1. RITA
    2. Owners

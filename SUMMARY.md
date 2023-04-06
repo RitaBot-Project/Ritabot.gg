@@ -33,14 +33,14 @@
 
 ## Version History
 
-* [V1.2.?](version-history/120/README.md)
-  * [V1.2.0](version-history/120/v1.2.0.md)
-  * [V1.2.1](version-history/120/v1.2.1.md)
-  * [V1.2.2](version-history/120/v1.2.2.md)
-  * [V1.2.3](version-history/120/123.md)
-  * [V1.2.4](version-history/120/124.md)
-  * [V1.2.5](version-history/120/125.md)
-  * [V1.2.6](version-history/120/126.md)
+* [V1.2.?](version-history/v1.2./README.md)
+  * [V1.2.0](version-history/v1.2./v1.2.0.md)
+  * [V1.2.1](version-history/v1.2./v1.2.1.md)
+  * [V1.2.2](version-history/v1.2./v1.2.2.md)
+  * [V1.2.3](version-history/v1.2./123.md)
+  * [V1.2.4](version-history/v1.2./124.md)
+  * [V1.2.5](version-history/v1.2./125.md)
+  * [V1.2.6](version-history/v1.2./126.md)
 * [V1.3.0](version-history/130.md)
   * [V1.3.0](version-history/130/130.md)
   * [V1.3.5](version-history/130/v1.3.5.md)
@@ -68,8 +68,8 @@
   * [V1.3.27](version-history/130/v1.3.27.md)
   * [V1.3.28](version-history/130/v1.3.28.md)
   * [V1.3.29](version-history/130/v1.3.29.md)
-* [V1.4.0](version-history/140/README.md)
-  * [V1.4.0](version-history/140/v1.4.0.md)
+* [V1.4.0](version-history/v1.4.0/README.md)
+  * [V1.4.0](version-history/v1.4.0/v1.4.0.md)
 
 ## Updates
 
@@ -78,6 +78,8 @@
 * [22/05/2022](updates/22-05-2022.md)
 * [03/07/2022](updates/03-07-2022.md)
 * [27/09/2022](updates/27-09-2022.md)
+* [05/01/2023](updates/05-01-2023.md)
+* [31/03/2023](updates/31-03-2023.md)
 * [06/04/2023](updates/06-04-2023.md)
 
 ## Policys
