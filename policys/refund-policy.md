@@ -5,7 +5,7 @@ description: 'In Effect Fom: May 01, 2023 / Last updated: April 05, 2023'
 # Refund Policy
 
 {% hint style="info" %}
-Refund Policy - Document Version 3 (In Effect May 01, 2023 > Current)
+Refund Policy - Document Version 2 (In Effect May 01, 2023 > Current)
 {% endhint %}
 
 This Refund Policy describes our policies regarding the handling of refunds in general and does not serve as a legal base, nor is it approved by professionals. It is used to lay down the foundations for any decision made upon requests. Any point listed here might be a reason for permitted initiations of any refund.
