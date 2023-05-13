@@ -26,11 +26,19 @@ The group commands are interactive and require you to respond to any prompts cor
 
 #### Group Creation
 
-![Creating a group connects all the channels you assign to it interchangeably](<../../.gitbook/assets/image (10).png>)
+<div align="right">
+
+<img src="../../.gitbook/assets/image (10).png" alt="Creating a group connects all the channels you assign to it interchangeably">
+
+</div>
 
 #### Group List
 
-![Lists all groups in server](<../../.gitbook/assets/image (2) (2).png>)
+<div align="right">
+
+<img src="../../.gitbook/assets/image (2) (2).png" alt="Lists all groups in server">
+
+</div>
 
 #### Group Link
 

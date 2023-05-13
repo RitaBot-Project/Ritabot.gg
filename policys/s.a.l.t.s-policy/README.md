@@ -63,10 +63,9 @@ All Plans/Tiers are subject to other limitations, detailed below.
 
 1. User Invites RITA to server >
 2. User Joins RMS Server >
-3. User selects relevant plan provided by Ko-Fi/Patreon >
+3. User selects relevant plan provided by Patreon >
 4. User completes payment via platform
-   1. Ko-Fi > PayPal or Stripe
-   2. Patreon > Payment is handled by Patreon
+   1. Patreon > Payment is handled by Patreon
 5. Upon Confirmation of payment User activates Discord integration through account linking.
    1. Guide for [Patreon](../../premium/how-to-subscribe/patreon.md)
 6. Integration uses the Patreon Bot to apply relevant roles to User, a Role from Payment, Tier, and the Subscription section below are needed for RITA to work.
@@ -101,18 +100,17 @@ _Soft Cap = not enforced to the digit but close._ This is calculated by
 
 _(_Number of Characters in message \* Number of languages translated to) + Original Char Count = Total Char Count.
 
-* Example: English Message: Hello
-* Translated to French: Bonjour
-* (5 Characters \* 1 language translation) + 5 original chars = 10 Total Chars
+* Example from English to French: Hello -> Bonjour
+  * (5 Characters \* 1 language translation) + 5 original chars = 10 Total Chars
 
 1. Exceeding Character Limit. Either of the following Scenarios are taken, via automation by RITA or manual intervention by a member of RMS Staff
    * A server exceeds the soft caps assigned to their plan
-   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation for Languages we have trained and that are optimised to a high standard. See [Machine Learning API](./#machine-learning-api) for more information.
-   * At the start of the next calandar month Implicit Google API Translation is reactivated until breach of soft cap
+   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation for Languages we have trained and that are optimized to a high standard. See [Machine Learning API](./#machine-learning-api) for more information.
+   * At the start of the next calendar month Implicit Google API Translation is reactivated until breach of soft cap
 
 #### Machine Learning API
 
-ML API currently has an upper bound limit of 10 million characters translated per month. This upper bond if not hard coded in to RITA, however it is checked periodically throughout the month. If a User exceeds this a custom tier cost or solution may be required, however no suspention will happen as a result of this limit.
+ML API currently has an upper bound limit of 10 million characters translated per month. This upper bond if not hard coded in to RITA, however it is checked periodically throughout the month. If a User exceeds this a custom tier cost or solution may be required, however no suspension will happen as a result of this limit.
 
 #### Optimised Langauges&#x20;
 

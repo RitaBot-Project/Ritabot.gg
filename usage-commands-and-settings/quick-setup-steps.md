@@ -18,11 +18,12 @@ description: How to make RITA running in your Discord Server
 
 <details>
 
-<summary>I had an issue with my payments in Patreon, got over it, but <code>!tr sub</code>is still not working</summary>
+<summary>I had an issue with my payments in Patreon, got over it, but <code>!tr sub</code> is still not working</summary>
 
-It happens because of some patreon issues :&#x20;
+This occurs due to some issues with Patreon
 
-1. Check your paiment is OK now in Patreon
-2. Try to unlink/relink your discord account in Patreon and run `!tr sub` again in your server
+1. Check that your payment has been successful in Patreon
+2. Try to unlink/relink your discord account and then run `!tr sub` again in your server
+3. If none of this works - please open a support ticket
 
 </details>

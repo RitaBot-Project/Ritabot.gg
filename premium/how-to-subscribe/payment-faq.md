@@ -22,6 +22,8 @@ Patreon always charges on the 1st of each month.\
 \
 For example, if your purchase a subscription on the 28th of April. You will be charged for a month, and then charged again on the 1st of May. This is done every calendar month and is called upfront charging.\
 \
+If you were charged twice \
+\
 For more information, please click [here](https://support.patreon.com/hc/en-gb/articles/210291283-How-does-charge-upfront-billing-work-)
 
 </details>
@@ -30,7 +32,7 @@ For more information, please click [here](https://support.patreon.com/hc/en-gb/a
 
 <summary>Can I use &#x3C;insert service here> to pay for RITA?</summary>
 
-No, we only use Patreon to facilitate our payments and automation.
+No, we only use Patreon to facilitate our payments and automation. If the payment methods supported by Patreon do not include your desired payment service then we can't assist you regarding this.
 
 </details>
 
@@ -39,53 +41,5 @@ No, we only use Patreon to facilitate our payments and automation.
 <summary>How do I claim a refund?</summary>
 
 Please refer to our [refund policy](../../policys/refund-policy.md)
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
 
 </details>

@@ -21,7 +21,6 @@
 
 * [Overview](premium/overview.md)
 * [How to Subscribe](premium/how-to-subscribe/README.md)
-  * [Ko-Fi](premium/how-to-subscribe/method-1.md)
   * [Patreon](premium/how-to-subscribe/patreon.md)
   * [Payment FAQ](premium/how-to-subscribe/payment-faq.md)
 * [Contact Us](premium/contact-us.md)

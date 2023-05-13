@@ -63,7 +63,7 @@ All Plans/Tiers are subject to other limitations, detailed below.
    1. Ko-Fi > PayPal or Stripe
    2. Patreon > Payment is handled by Patreon
 5. Upon Confirmation of payment User activates Discord integration through account linking.
-   1. Guide for [Ko-Fi](../../premium/how-to-subscribe/method-1.md)
+   1. Guide for [Ko-Fi](broken-reference)
    2. Guide for [Patreon](../../premium/how-to-subscribe/patreon.md)
 6. Integration uses the Ko-Fi and Patreon Bot to apply relevant roles to User, a Role from Payment, Tier, and the Subscription section below are needed for RITA to work.
 7. RITA detects role additions and adds relevant and required data to our Subscription Database

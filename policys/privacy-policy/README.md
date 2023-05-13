@@ -26,9 +26,9 @@ The words of which the initial letter is capitalized have meanings defined under
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to identify You and provide your access to the Service. Personally identifiable information may include, but is not limited to: Discord Account ID's, Channel ID's, Server ID's and more.
 
-#### Anonymised Translation Data Collection
+#### Anonymized Translation Data Collection
 
-While using Our Service, We may collect anonymised translation data. This is used to train our in-house Machine Learning translation model. The data collected is comprised of the following values;
+While using Our Service, We may collect anonymized translation data. This is used to help train our in-house Machine Learning translation model. The data collected is comprised of the following values;
 
 * Source Language
 * Destination Language
@@ -37,7 +37,9 @@ While using Our Service, We may collect anonymised translation data. This is use
 
 This data cannot be linked to the source server. All identifiable values such as Guild ID, User ID, Username, Channel ID and other identifiable data found within the Discord API is not collected. This data is stored for a period of 60 days, or when the collection files (All possible Language Pairs) reach 200GB, which ever is sooner. Data is automatically overridden and non-recoverable.
 
-As this data is anonymised it is not possible to request this data as part of a Subject Access request, more commonly known as "Request My Data".
+As this data is anonymized it is not possible to request this data as part of a Subject Access request, more commonly known as "Request My Data".\
+\
+If you desire not to be part of this data collection you may open a ticket in order for us to find a solution for you.
 
 #### Usage Data
 
