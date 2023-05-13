@@ -40,7 +40,7 @@ This occurs due to some issues with Patreon
 
 1. Check that your payment has been successful in Patreon
 2. Try to unlink/relink your discord account and then run `!tr sub` again in your server
-3. If none of this works - please open a support ticket
+3. If none of this works - please open a support ticket in our discord server
 
 </details>
 
