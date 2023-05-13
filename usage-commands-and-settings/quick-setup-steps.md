@@ -44,3 +44,11 @@ This occurs due to some issues with Patreon
 
 </details>
 
+<details>
+
+<summary>I'm the owner of the server where RITA is, and i installed it / purchased the subscription. I don't want to configure it, can one of my server admin do it ?</summary>
+
+Yes of course !
+
+</details>
+
