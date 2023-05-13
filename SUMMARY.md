@@ -5,6 +5,7 @@
 
 ## Usage, Commands & Settings
 
+* [Quick setup steps](usage-commands-and-settings/quick-setup-steps.md)
 * [Basic Usage Information.](usage-commands-and-settings/untitled.md)
 * [Translation Commands](usage-commands-and-settings/translation/README.md)
   * [Channel Translation](usage-commands-and-settings/chan.md)
