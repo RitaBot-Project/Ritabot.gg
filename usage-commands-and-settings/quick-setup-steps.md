@@ -52,3 +52,10 @@ Yes of course !
 
 </details>
 
+<details>
+
+<summary>How to change the server where RITA is translating ? </summary>
+
+To move your subscription from one server to another you only need to invite RITA and run the command `!tr sub` in the server you wish it to be in.
+
+</details>
