@@ -6,7 +6,7 @@ All development and support of the self-hosted version has now been discontinued
 
 ## What is RITA and who are we? <a href="#what-is-rita-and-who-are-we" id="what-is-rita-and-who-are-we"></a>
 
-_RITA is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord. She is maintained by a small group of users (that have a real life and a job), each with different backgrounds and some learning as we go. You want to learn more about Rita and what it does ? Just take a loot at the_ [_introduction page_](http://127.0.0.1:5000/o/-MWdaXW0QCun-ckj\_qWB/s/-MYAVk\_hG8DjP4l7rB5Z/)_._
+_RITA is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord. She is maintained by a small group of users (that have a real life and a job), each with different backgrounds and some learning as we go. You want to learn more about Rita and what she does ? Just take a loot at the_ [_introduction page_](http://127.0.0.1:5000/o/-MWdaXW0QCun-ckj\_qWB/s/-MYAVk\_hG8DjP4l7rB5Z/)_._
 
 ## Why did you make Rita? <a href="#why-did-you-make-rita" id="why-did-you-make-rita"></a>
 
