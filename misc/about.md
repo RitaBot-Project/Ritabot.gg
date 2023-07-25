@@ -4,13 +4,9 @@
 All development and support of the self-hosted version has now been discontinued
 {% endhint %}
 
-{% hint style="info" %}
-**NOTICE**: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it. For updated info on the future of the Ritabot-Project be sure to follow the **ANNOUNCEMENTS** channel in our Discord Server.
-{% endhint %}
-
 ## What is RITA and who are we? <a href="#what-is-rita-and-who-are-we" id="what-is-rita-and-who-are-we"></a>
 
-_RITA is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord, Self-hosted on Heroku (or a local install) and Completely 100% Free. She is maintained by a small group of users, each with different backgrounds and some learning as we go._
+_RITA is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord. She is maintained by a small group of users (that have a real life and a job), each with different backgrounds and some learning as we go. You want to learn more about Rita and what it does ? Just take a loot at the_ [_introduction page_](http://127.0.0.1:5000/o/-MWdaXW0QCun-ckj\_qWB/s/-MYAVk\_hG8DjP4l7rB5Z/)_._
 
 ## Why did you make Rita? <a href="#why-did-you-make-rita" id="why-did-you-make-rita"></a>
 
@@ -27,5 +23,7 @@ _Originally called discord-translator and made by Aziz, then forked By NotMyself
 _I and a group of fellow C-3P0 users decided that collectively we could do better, plagued with crashes, API changes, relentless bugs and issues, the drive to make something better was born._
 
 _Rita’s history and various iterations each added something extra, it just needed to be brought together and molded, molded into something amazing, molded into Rita. The Real-Time Interchangeable Translating Assistant._
+
+_Then we provided for a few time a self-hosted version before making the actual version of Unified Rita as it was impossible for everyone to request the google API, to maintain all codes, to help everyone with his particular settings. And moreover, self hosting would not answer to an easy installation with an invite link. Also code was not already used in a good way (meaning, taking some code in order to add it in some exepensive ones)._
 
 _There you have it, the story, dramatized and electrified for effect, but all true, of how RITA was born._
