@@ -8,7 +8,9 @@ description: Get to know us, we dont Bite.
 
 ### Artanis - CDO
 
-> **The real geek one**
+> I'm Artanis, the resident geek on the team. When I'm not procrastinating or playing video games (including Starcraft of course), I train and manage our Machine Learning API and models. I'm curious person at heart, and always love to learn about new things. I taught myself to code in Node as a 13 year old (at the beginning of Rita), and have since expanded to Python, Typescript, and some scripting languages such as AutoHotKey for some gaming side projects.\
+> \
+> I'll be the one to disappear into random projects only to leave them unfinished.
 
 ### Jupiter - CCO
 
@@ -18,7 +20,7 @@ description: Get to know us, we dont Bite.
 
 > **The funny one (when he forget he's an HR** :smile:).
 >
-> Always thinking about improvment of bot from user-ends, he will always listen to your feedbacks (even if he hates writing)
+> Always thinking about improvement of bot from user-ends, he will always listen to your feedbacks (even if he hates writing)
 
 ### Zycore - CFO
 

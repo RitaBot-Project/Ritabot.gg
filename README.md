@@ -33,10 +33,8 @@ If you need help at any point join our [**Discord Server**](https://discord.gg/m
 If you have any suggestions for future features feel free to join our [**Discord Server**](https://discord.gg/mgNR64R) and add a request to <mark style="color:blue;">#feature-request</mark>
 {% endhint %}
 
+### How much does it cost?
 
+In order to pay for translations, for both Google's API and our own Machine Learning API, RITA makes use of a subscriptions with given tiers.&#x20;
 
-### How much it costs ?
-
-To afford for google translation and servers for Machine Learning, RITA needs a subscription.&#x20;
-
-You can have the [overview here](premium/overview.md), and how much it costs on [patreon](https://www.patreon.com/RitaBotProject)
+The [overview here](premium/overview.md) explains further, and you can see how much it costs on [Patreon](https://www.patreon.com/RitaBotProject)
