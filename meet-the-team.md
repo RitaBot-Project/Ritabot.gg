@@ -12,7 +12,7 @@ description: Get to know us, we dont Bite.
 
 ### Jupiter - CCO
 
-> **He looks sometimes like if he was not bor in eartch, but he's nice too**
+> **He looks sometimes like if he was not born in earth, but he's nice too**
 
 ### JShep89 - CHRO
 
