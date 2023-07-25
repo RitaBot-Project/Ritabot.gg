@@ -18,7 +18,7 @@ description: Get to know us, we dont Bite.
 
 > **The funny one (when he forget he's an HR** :smile:).
 >
-> Always thinking about improvment of bot from user-ends, he will always listen to your feedbacks
+> Always thinking about improvment of bot from user-ends, he will always listen to your feedbacks (even if he hates writing)
 
 ### Zycore - CFO
 
