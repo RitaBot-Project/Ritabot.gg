@@ -57,11 +57,7 @@ In order to provide a virtually "unlimited" pricing model, we've incorporated so
 
 The only difference between our plans at the moment, and for the foreseeable future is the task limit that you are restricted to. If this changes however we will let you know, You won't lose access to anything you don't already have.&#x20;
 
-| Function / Command             | Casual        | Tinkerer      | Pro                     |
-| ------------------------------ | ------------- | ------------- | ----------------------- |
-| Task Limit                     | 100           | 200           | 350                     |
-| Soft Limit (characters)        | \~200k Google | \~450k Google | <p>~700k Google<br></p> |
-| Character Limit (backed by ML) | Unlimited     | Unlimited     | Unlimited               |
+<table><thead><tr><th width="150">Function / Command</th><th width="150">Casual</th><th width="150">Tinkerer</th><th>Pro</th></tr></thead><tbody><tr><td>Task Limit</td><td>100</td><td>200</td><td>350</td></tr><tr><td>Soft Limit (characters)</td><td>~200k Google</td><td>~450k Google</td><td>~700k Google<br></td></tr><tr><td>Character Limit (backed by ML)</td><td>Unlimited</td><td>Unlimited</td><td>Unlimited</td></tr></tbody></table>
 
 ## What is a task?
 
