@@ -1,11 +1,11 @@
 ---
-description: 'In Effect From: August 20, 2023 / Last updated: August 15, 2023'
+description: 'Last updated: August 15, 2023'
 ---
 
-# S.A.L.T.S Policy
+# S.A.L.T.S Policy V3
 
 {% hint style="info" %}
-S.A.L.T.S Policy - Document Version 4 (In Effect August 20, 2023 > Current)
+S.A.L.T.S Policy - Document Version 3 (In Effect May 01, 2023 > August 20, 2023)
 {% endhint %}
 
 S.A.L.T.S Stands for Subscription, Activation, Limitations, Termination and Suspension Policy. This describes Our policies and procedures on how each of the aforementioned processes are handled.&#x20;
@@ -33,21 +33,19 @@ Subscriptions are renewed on different days depending on the platform.
 
 #### ACTIVE - Subscription Tier's and Cost
 
-These plans are the base subscription plans on offer. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. See [Tier Cost Changes & Availability](./#tier-cost-changes-and-availability) for More information.
+These plans are the base subscription plans on offer. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. See [Tier Cost Changes & Availability](s.a.l.t.s-policy-v3.md#tier-cost-changes-and-availability) for More information.
 
-<table><thead><tr><th width="289">Plan Name</th><th width="147">Cost</th><th>Availability</th><th data-hidden></th></tr></thead><tbody><tr><td>TRIAL USER</td><td>FREE* 1 Month</td><td>COMING SOON</td><td></td></tr><tr><td>The "Reaction" Plan</td><td>$2.99</td><td>20/08/23 - Current</td><td></td></tr><tr><td>The "Casual" Plan</td><td>$6.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Casual" Plan]</td></tr><tr><td>The "Tinkerer" Plan</td><td>$10.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Tinkerer" Plan]</td></tr><tr><td>The "Pro" Plan</td><td>$15.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Pro" Plan]</td></tr><tr><td>The "Ultima" Plan</td><td>$21.99</td><td>20/08/23 - Current</td><td></td></tr></tbody></table>
-
-_TRIAL USER -_ The TRIAL will allow a user to try RITA for a period of one (1) month, or until limits have been reached, whichever comes first. Servers are limited to 1 TRIAL Per Server - Per Users.&#x20;
+<table><thead><tr><th width="289">Plan Name</th><th width="147">Cost</th><th>Availability</th><th data-hidden></th></tr></thead><tbody><tr><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td><td></td></tr><tr><td>The "Casual" Plan</td><td>$6.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Casual" Plan]</td></tr><tr><td>The "Tinkerer" Plan</td><td>$10.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Tinkerer" Plan]</td></tr><tr><td>The "Pro" Plan</td><td>$15.99</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Pro" Plan]</td></tr><tr><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td><td></td></tr></tbody></table>
 
 #### PROMOTIONAL- Subscription Tier's and Cost
 
-These plans are subject to availability and are time-limited. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. Once an offer window has passed there is not guarantee it will be available again. See [Tier Cost Changes & Availability](./#tier-cost-changes-and-availability) for More information.
+These plans are subject to availability and are time-limited. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. Once an offer window has passed there is not guarantee it will be available again. See [Tier Cost Changes & Availability](s.a.l.t.s-policy-v3.md#tier-cost-changes-and-availability) for More information.
 
 <table><thead><tr><th width="287">Plan Name</th><th>Cost</th><th width="312">Availability</th><th data-hidden>Other Details</th></tr></thead><tbody><tr><td>The "Casual" Plan - Offer</td><td>$4.83</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Casual" Plan]</td></tr><tr><td>The "Tinkerer" Plan - Offer</td><td>$8.24</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Tinkerer" Plan]</td></tr><tr><td>The "Pro" Plan - Offer</td><td>$11.19</td><td>01/06/22 - Current</td><td>Replacement Tier to [The OG "Pro" Plan]</td></tr></tbody></table>
 
 #### RETIRED - Subscription Tier's and Cost
 
-These plans are retired and no longer available. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. Once an is retired it will be available again. See [Tier Cost Changes & Availability](./#tier-cost-changes-and-availability) for More information.
+These plans are retired and no longer available. Costs are fixed and can not be changed. Once a user has subscribed to the plan they will remain on the plan until the subscription is cancelled. Once an is retired it will be available again. See [Tier Cost Changes & Availability](s.a.l.t.s-policy-v3.md#tier-cost-changes-and-availability) for More information.
 
 <table><thead><tr><th width="287.3333333333333">Plan Name</th><th width="148">Cost</th><th>Availability</th><th data-hidden>Other Details</th></tr></thead><tbody><tr><td>The OG "Casual" Plan</td><td>$5.99</td><td>01/05/22 - 31/05/22</td><td>Plan Discontinued, Existing Users remain.</td></tr><tr><td>The OG "Tinkerer" Plan</td><td>$9.99</td><td>01/05/22 - 31/05/22</td><td>Plan Discontinued, Existing Users remain.</td></tr><tr><td>The OG "Pro" Plan</td><td>$14.99</td><td>01/05/22 - 31/05/22</td><td>Plan Discontinued, Existing Users remain.</td></tr></tbody></table>
 
@@ -61,7 +59,7 @@ These plans are retired and no longer available. Costs are fixed and can not be 
 
 All Plans/Tiers are subject to other limitations, detailed below.
 
-## Subscription Activation
+## Activation
 
 1. User Invites RITA to server >
 2. User Joins RMS Server >
@@ -78,28 +76,13 @@ All Plans/Tiers are subject to other limitations, detailed below.
    1. RITA must be in the server before the command is run, else an error will be provided.
 10. RITA is activated and the subscription process is completed.
 
-## TRIAL Activation
-
-1. User Invites RITA to server >
-2. User types \`!tr trial\` in their own server.&#x20;
-3. RITA is activated and the TRIAL Activation process is completed.
-
 ## Limitations
 
 **Each plan has the following limitation applied.**
 
 Due to the rising cost of our Hosting, Charges to Google and Payment Processing Services, we have made changes to the character limitations applied to each plan, this will take effect on the 1st of May 2023
 
-<table><thead><tr><th width="281">Plan Name</th><th>Task Limit</th><th width="172">Char Limit</th><th width="155">Engine Used</th></tr></thead><tbody><tr><td>TRIAL USER</td><td>25</td><td>10,000 Hard Cap</td><td>Google API / ML</td></tr><tr><td>The "Reaction" Plan</td><td>0</td><td>100,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The OG "Casual" Plan</td><td>100</td><td>200,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Casual" Plan - Offer</td><td>100</td><td>200,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Casual" Plan</td><td>100</td><td>200,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The OG "Tinkerer" Plan</td><td>200</td><td>400,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Tinkerer" Plan - Offer</td><td>200</td><td>400,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Tinkerer" Plan</td><td>200</td><td>400,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The OG "Pro" Plan</td><td>350</td><td>600,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Pro" Plan - Offer</td><td>350</td><td>600,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Pro" Plan</td><td>350</td><td>600,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Ultima" Plan</td><td>550</td><td>800,000 Soft Cap</td><td>Google API / ML</td></tr></tbody></table>
-
-_TRIAL USER -_ The TRIAL will allow a user to try RITA for a period of one (1) month, or until limits have been reached, whichever comes first. Servers are limited to 1 TRIAL Per Server - Per Users. Once Limit has been reached RITA will stop functioning for translations. Users do not need to be a Member of the RMS (RITA Management Server) to use the TRIAL.
-
-Hard Cap = _not enforced to the digit but close._ This is calculated by
-
-* Example from English to French: Hello -> Bonjour
-  * (5 Characters \* 1 language translation) + 5 original chars = 10 Total Chars
-
-Exceeding Character Limit will result in bot ceasing to respond to translation requests.
+<table><thead><tr><th width="281">Plan Name</th><th>Task Limit</th><th width="172">Char Limit</th><th width="155">Engine Used</th></tr></thead><tbody><tr><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td></tr><tr><td>The OG "Casual" Plan</td><td>100</td><td>200,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Casual" Plan - Offer</td><td>100</td><td>200,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Casual" Plan</td><td>100</td><td>200,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The OG "Tinkerer" Plan</td><td>200</td><td>400,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Tinkerer" Plan - Offer</td><td>200</td><td>400,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Tinkerer" Plan</td><td>200</td><td>400,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The OG "Pro" Plan</td><td>350</td><td>600,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Pro" Plan - Offer</td><td>350</td><td>600,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>The "Pro" Plan</td><td>350</td><td>600,000 Soft Cap</td><td>Google API / ML</td></tr><tr><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td><td>REDACTED</td></tr></tbody></table>
 
 _Soft Cap = not enforced to the digit but close._ This is calculated by
 
@@ -110,7 +93,7 @@ _(_Number of Characters in message \* Number of languages translated to) + Origi
 
 1. Exceeding Character Limit. Either of the following Scenarios are taken, via automation by RITA or manual intervention by a member of RMS Staff
    * A server exceeds the soft caps assigned to their plan
-   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation for Languages we have trained and that are optimized to a high standard. See [Machine Learning API](./#machine-learning-api) for more information.
+   * Translation Services are swapped from Implicit Google API Translation to Implicit Machine Learning API Translation for Languages we have trained and that are optimized to a high standard. See [Machine Learning API](s.a.l.t.s-policy-v3.md#machine-learning-api) for more information.
    * At the start of the next calendar month Implicit Google API Translation is reactivated until breach of soft cap
 
 #### Machine Learning API

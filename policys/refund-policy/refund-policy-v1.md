@@ -32,7 +32,7 @@ Each charge for the month gives them membership access for that month. For examp
 * You subscribe to RITA on the **1st January**, this payment gives you access throughout the rest of January. Your next payment is **1st February** then **1st March** ect ect.&#x20;
 * You subscribe to RITA on the **15th January**, this payment gives you access throughout the rest of January. Your next payment is **1st February** then **1st March** ect ect.&#x20;
 
-### KOFI Payments
+### KOFI Payments (DISCONTINUED)
 
 Users who subscribe via Kofi are subject to recurring billing. You are charged as soon as they sign up. KOFIs' payments are recurring on the same day of every month after that. This mean you are charge for **a** month (30 Days), not **the** month (January, February ect) of access.
 
@@ -80,8 +80,8 @@ All/Any of the reasons above require viable proof to be accepted as possible inq
 If you choose to or threaten to chargeback, we reserve the right to ban and/or blacklist you from the bot. This includes but is not limited to:
 
 * Immediate termination of service
-* Permanent and non reversavble ban
-* Support requestswill not be answered
+* Permanent and non reversible ban
+* Support requests will not be answered
 * Guild ID is excluded from the usage of our service indefinitely
 
 Performing a chargeback on behalf of the payment processor your transaction was handled through, without contacting or attempting to contact RitaBot, In most situations means we can, and will, fight such cases to dispute the chargeback.

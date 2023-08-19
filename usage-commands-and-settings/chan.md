@@ -10,9 +10,11 @@ _Please note that when you setup an auto command the target channel will not sen
 
 ## Command <a href="#command" id="command"></a>
 
-**`!tr channel from [lang] to [lang] for # [dest]`**
+**`!tr channel from [lang] to [lang] for #[dest]`**
 
-**`!tr auto to [lang] for # [same channel dest]`**
+**`!tr auto to [lang] for #[same channel dest]`**
+
+**`!tr channel from [lang] to [lang] for #[dest] filter @[role]`**
 
 ### Parameters
 
@@ -21,6 +23,7 @@ _Please note that when you setup an auto command the target channel will not sen
   &#x20;The language to translate to, defaults to server default language if none provided.
 * from **`[lang]`**\
   &#x20;The language to translate from.
+* filter \[role] can be used to restriction translation to a specific role.
 * NOTE : Auto is for a single ( same channel ) translations, as photos, and Gifs, will not be duplicated or sent.
 
 ## Examples <a href="#examples" id="examples"></a>
@@ -133,6 +136,4 @@ _Help command for automatic translation: **`!translate help auto`**._
 **Important Note**
 
 _The bot’s default prefix is !tr (or !translate) - All commands must start with this prefix for the bot to process them. Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**)._
-
-_Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**._
 {% endhint %}

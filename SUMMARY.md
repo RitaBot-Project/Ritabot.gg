@@ -81,11 +81,13 @@
 * [05/01/2023](updates/05-01-2023.md)
 * [31/03/2023](updates/31-03-2023.md)
 * [06/04/2023](updates/06-04-2023.md)
+* [20/08/2023](updates/20-08-2023.md)
 
 ## Policys
 
 * [Terms Of Service](policys/terms-of-service.md)
 * [S.A.L.T.S Policy](policys/s.a.l.t.s-policy/README.md)
+  * [S.A.L.T.S Policy V3](policys/s.a.l.t.s-policy/s.a.l.t.s-policy-v3.md)
   * [S.A.L.T.S Policy V2](policys/s.a.l.t.s-policy/s.a.l.t.s-policy-v2.md)
   * [S.A.L.T.S Policy V1](policys/s.a.l.t.s-policy/s.a.l.t.s-policy-v1.md)
 * [Privacy Policy](policys/privacy-policy/README.md)
