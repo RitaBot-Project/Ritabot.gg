@@ -22,6 +22,7 @@
 * [Overview](premium/overview.md)
 * [How to Subscribe](premium/how-to-subscribe/README.md)
   * [Patreon](premium/how-to-subscribe/patreon.md)
+  * [Available Plans](premium/how-to-subscribe/available-plans.md)
   * [Payment FAQ](premium/how-to-subscribe/payment-faq.md)
 * [Contact Us](premium/contact-us.md)
 
