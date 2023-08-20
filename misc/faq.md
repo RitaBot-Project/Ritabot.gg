@@ -111,10 +111,13 @@ Currently we offer subscriptions though Patreon. Patreon utilizes PayPal and car
 <summary>What Subscription levels will be offered?</summary>
 
 Currently, we are offering 3 levels.\
-\
+
+
+Reaction = 0 Tasks - Translation by Reaction only\
 Casual = 100 Tasks\
 Tinkerer = 200 Tasks\
 Pro= 350 Tasks\
+Ultima = 550 Tasks\
 \
 All levels come with Discord access and roles, with bot support for the lifetime of your subscription. To hold your subscription you must be in our support server.
 
