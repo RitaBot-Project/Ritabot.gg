@@ -74,15 +74,14 @@ const plans = [
   }
 ];
 
-// Reordering array to put Pro in middle visually
 const displayPlans = [plans[0], plans[1], plans[3], plans[2], plans[4]];
 
 export function Pricing() {
   return (
-    <section id="pricing" className="py-24 relative bg-background/50 border-t border-white/5">
+    <section id="pricing" className="py-24 relative bg-background/50 border-t border-border/50 dark:border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="text-3xl md:text-5xl font-display font-bold text-white mb-6">
+          <h2 className="text-3xl md:text-5xl font-display font-bold text-foreground mb-6">
             Simple, predictable pricing
           </h2>
           <p className="text-lg text-muted-foreground">
@@ -98,23 +97,23 @@ export function Pricing() {
               className={`relative flex flex-col w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-22px)] rounded-3xl p-8 transition-all duration-300 ${
                 plan.highlighted 
                   ? "bg-secondary border-2 border-primary shadow-[0_0_30px_rgba(88,101,242,0.15)] transform md:-translate-y-4 z-10" 
-                  : "bg-card border border-white/10 hover:border-white/20"
+                  : "bg-card border border-border/50 dark:border-white/10 hover:border-border dark:hover:border-white/20"
               }`}
             >
               {plan.highlighted && (
-                <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1 bg-primary text-white text-xs font-bold uppercase tracking-wider rounded-full shadow-lg">
+                <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-4 py-1 bg-primary text-primary-foreground text-xs font-bold uppercase tracking-wider rounded-full shadow-lg">
                   Most Popular
                 </div>
               )}
               
               <div className="mb-8">
-                <h3 className="text-xl font-bold text-white mb-2">{plan.name}</h3>
+                <h3 className="text-xl font-bold text-foreground mb-2">{plan.name}</h3>
                 <p className="text-sm text-muted-foreground h-10">{plan.description}</p>
               </div>
               
-              <div className="mb-8 pb-8 border-b border-white/10">
+              <div className="mb-8 pb-8 border-b border-border/50 dark:border-white/10">
                 <div className="flex items-baseline gap-1">
-                  <span className="text-4xl font-display font-extrabold text-white">{plan.price}</span>
+                  <span className="text-4xl font-display font-extrabold text-foreground">{plan.price}</span>
                   {plan.period && <span className="text-muted-foreground font-medium">{plan.period}</span>}
                 </div>
                 <div className="mt-2 text-sm font-medium text-primary bg-primary/10 inline-block px-3 py-1 rounded-full">
@@ -135,8 +134,8 @@ export function Pricing() {
                 href="https://dashboard.ritabot.gg"
                 className={`w-full py-3.5 rounded-xl font-bold text-sm text-center transition-all duration-200 mt-auto ${
                   plan.highlighted
-                    ? "bg-primary text-white hover:bg-primary/90 shadow-lg shadow-primary/25 hover:shadow-primary/40"
-                    : "bg-white/5 text-white hover:bg-white/10"
+                    ? "bg-primary text-primary-foreground hover:bg-primary/90 shadow-lg shadow-primary/25 hover:shadow-primary/40"
+                    : "bg-muted dark:bg-white/5 text-foreground hover:bg-muted/80 dark:hover:bg-white/10"
                 }`}
               >
                 {plan.cta}
@@ -146,15 +145,15 @@ export function Pricing() {
         </div>
 
         <div className="mt-16 space-y-8 max-w-4xl mx-auto">
-          <div className="p-6 bg-card border border-white/10 rounded-2xl">
-            <h3 className="text-lg font-bold text-white mb-4">What is a Task?</h3>
+          <div className="p-6 bg-card border border-border/50 dark:border-white/10 rounded-2xl">
+            <h3 className="text-lg font-bold text-foreground mb-4">What is a Task?</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
               A task is a singular channel setup for automatic channel translation. For example; 1 channel translating from english to french counts as 1 task, If you wanted to create an interchangeable setup of 10 channels (10 languages which are all connected); it would be 10 * (10-1) tasks so 90 tasks overall.
             </p>
           </div>
 
-          <div className="p-6 bg-card border border-white/10 rounded-2xl">
-            <h3 className="text-lg font-bold text-white mb-4">Character Limits & Soft Caps</h3>
+          <div className="p-6 bg-card border border-border/50 dark:border-white/10 rounded-2xl">
+            <h3 className="text-lg font-bold text-foreground mb-4">Character Limits & Soft Caps</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Each plan has a Soft Limit on the number of Google Characters they are assigned for the Google Translation API. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for transaltion then it will continue to use the Google Translation API for translation. There is no Hard Limit on the number of Characters that a user can use on the Google API however after 2 Million a review may be conducted to ensure there is no abuse of service.
             </p>
