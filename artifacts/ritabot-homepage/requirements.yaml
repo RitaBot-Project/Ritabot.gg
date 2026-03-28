@@ -1,0 +1,15 @@
+packages:
+  "lucide-react": "For beautiful consistent iconography across features and UI"
+
+images:
+  - path: "artifacts/ritabot-homepage/public/images/hero-bg.png"
+    description: "Abstract dark background with subtle glowing geometric shapes and tech-inspired grid lines in deep blurple and dark slate colors. Very minimal, professional, and ethereal."
+    aspect_ratio: "16:9"
+  - path: "artifacts/ritabot-homepage/public/images/logo-icon.png"
+    description: "A modern, minimal robot face or abstract geometric R logo mark, transparent background, bright blurple color (#5865F2) on dark base."
+    aspect_ratio: "1:1"
+
+notes:
+  - This is a pure static frontend landing page.
+  - No backend API routes are required or expected.
+  - Links navigate to external RitaBot services (dashboard, docs, invite).

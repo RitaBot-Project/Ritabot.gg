@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "RitaBot Homepage"
+version = "1.0.0"
+id = "artifacts/ritabot-homepage"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21566
+
+[services.development]
+run = "pnpm --filter @workspace/ritabot-homepage run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ritabot-homepage", "run", "build" ]
+publicDir = "artifacts/ritabot-homepage/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21566"
+BASE_PATH = "/"
