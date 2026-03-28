@@ -27,6 +27,9 @@ export function Footer() {
           <a href="https://ritabot.gg/invite" className="text-sm font-medium text-primary hover:text-primary/80 transition-colors">
             Invite Bot
           </a>
+          <a href={`${import.meta.env.BASE_URL}partners`} className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+            Partners
+          </a>
         </nav>
 
         <div className="text-sm text-muted-foreground/60">

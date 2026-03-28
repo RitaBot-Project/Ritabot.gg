@@ -7,6 +7,7 @@ import { useTheme } from "@/hooks/use-theme";
 import { ThemeContext } from "@/hooks/theme-context";
 
 import Home from "@/pages/Home";
+import Partners from "@/pages/Partners";
 import NotFound from "@/pages/not-found";
 
 const queryClient = new QueryClient();
@@ -15,6 +16,7 @@ function Router() {
   return (
     <Switch>
       <Route path="/" component={Home} />
+      <Route path="/partners" component={Partners} />
       <Route component={NotFound} />
     </Switch>
   );
