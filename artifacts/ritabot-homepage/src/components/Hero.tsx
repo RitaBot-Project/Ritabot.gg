@@ -14,9 +14,32 @@ export function Hero() {
       </div>
 
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-muted/60 dark:bg-white/5 border border-border dark:border-white/10 backdrop-blur-sm mb-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
-          <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse"></span>
-          <span className="text-sm font-medium text-muted-foreground">Online and translating in 1000+ servers</span>
+        <div className="inline-flex flex-wrap items-center justify-center gap-3 mb-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-muted/60 dark:bg-white/5 border border-border dark:border-white/10 backdrop-blur-sm">
+            <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse"></span>
+            <span className="text-sm font-medium text-muted-foreground">Online and translating in 1000+ servers</span>
+          </div>
+          <a
+            href="https://top.gg/bot/1028760535879131176"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-muted/60 dark:bg-white/5 border border-border dark:border-white/10 backdrop-blur-sm hover:bg-muted dark:hover:bg-white/10 transition-colors"
+          >
+            <svg viewBox="0 0 256 256" className="w-4 h-4" aria-label="Top.gg">
+              <rect width="256" height="256" rx="48" fill="#FF3366" />
+              <path d="M80 72h56c30.928 0 56 25.072 56 56v0c0 30.928-25.072 56-56 56H80V72z" fill="white" />
+            </svg>
+            <span className="text-sm font-medium text-muted-foreground">Verified on Top.gg</span>
+          </a>
+          <a
+            href="https://discordforge.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-muted/60 dark:bg-white/5 border border-border dark:border-white/10 backdrop-blur-sm hover:bg-muted dark:hover:bg-white/10 transition-colors"
+          >
+            <img src={`${import.meta.env.BASE_URL}images/discordforge.png`} alt="DiscordForge" className="w-4 h-4 rounded-sm" />
+            <span className="text-sm font-medium text-muted-foreground">Partnered with DiscordForge</span>
+          </a>
         </div>
         
         <h1 className="text-5xl md:text-7xl font-display font-extrabold text-foreground mb-6 leading-[1.1] animate-in fade-in slide-in-from-bottom-6 duration-700 delay-100 fill-mode-both">
