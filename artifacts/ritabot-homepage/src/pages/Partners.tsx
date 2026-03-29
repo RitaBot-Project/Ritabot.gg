@@ -1,6 +1,6 @@
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, HeadphonesIcon, Mail } from "lucide-react";
 
 const partners = [
   {
@@ -69,6 +69,35 @@ export default function Partners() {
                 </p>
               </a>
             ))}
+          </div>
+
+          <div className="mt-12 max-w-5xl mx-auto">
+            <div className="bg-card rounded-2xl md:rounded-3xl p-6 md:p-8 border border-dashed border-border dark:border-white/10 text-center">
+              <h3 className="text-xl font-bold text-foreground font-display mb-3">
+                Interested in partnering with RitaBot?
+              </h3>
+              <p className="text-muted-foreground text-sm md:text-base mb-6 max-w-xl mx-auto">
+                We're always looking for like-minded platforms and communities to collaborate with. Reach out to us via our support server or send us an email.
+              </p>
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
+                <a
+                  href="https://discord.com/invite/mgNR64R"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-xl font-bold text-sm hover:bg-primary/90 transition-all duration-200 shadow-lg shadow-primary/25"
+                >
+                  <HeadphonesIcon className="w-4 h-4" />
+                  Join Support Server
+                </a>
+                <a
+                  href="mailto:partnership@ritabot.gg"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-zinc-200 dark:bg-white/5 text-foreground rounded-xl font-bold text-sm hover:bg-zinc-300 dark:hover:bg-white/10 transition-all duration-200"
+                >
+                  <Mail className="w-4 h-4" />
+                  partnership@ritabot.gg
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </main>

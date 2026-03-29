@@ -18,6 +18,8 @@ export function Cta() {
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
                 href="https://ritabot.gg/invite"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-full sm:w-auto flex items-center justify-center gap-2 px-8 py-4 rounded-2xl font-bold text-lg bg-primary text-primary-foreground hover:bg-primary/90 hover:scale-105 transition-all duration-200 shadow-xl shadow-primary/20"
               >
                 <MessageSquarePlus className="w-5 h-5" />

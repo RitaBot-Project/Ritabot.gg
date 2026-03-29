@@ -1,5 +1,6 @@
 import { Menu, X, Sun, Moon } from "lucide-react";
 import { useState, useEffect, useMemo, useContext } from "react";
+import { useLocation } from "wouter";
 import RitaLogo from "@/assets/logo.svg?react";
 import { ThemeContext } from "@/hooks/theme-context";
 
@@ -30,17 +31,28 @@ const lightLogoColors = [
 ];
 
 const navLinks = [
-  { name: "Features", href: "#features" },
-  { name: "Pricing", href: "#pricing" },
-  { name: "Docs", href: "https://docs.ritabot.gg/ritabot-docs" },
-  { name: "Dashboard", href: "https://dashboard.ritabot.gg/" },
-  { name: "Support", href: "https://discord.com/invite/mgNR64R" },
+  { name: "Home", href: import.meta.env.BASE_URL, newTab: false, showOn: "non-home", hideOn: "" },
+  { name: "Features", href: "#features", newTab: false, showOn: "home", hideOn: "" },
+  { name: "Pricing", href: "#pricing", newTab: false, showOn: "home", hideOn: "" },
+  { name: "Pricing", href: `${import.meta.env.BASE_URL}compare`, newTab: false, showOn: "non-home", hideOn: "/compare" },
+  { name: "Docs", href: "https://docs.ritabot.gg/ritabot-docs", newTab: false, showOn: "all", hideOn: "" },
+  { name: "Dashboard", href: "https://dashboard.ritabot.gg/", newTab: false, showOn: "all", hideOn: "" },
+  { name: "Support", href: "https://discord.com/invite/mgNR64R", newTab: true, showOn: "all", hideOn: "" },
+  { name: "Partners", href: `${import.meta.env.BASE_URL}partners`, newTab: false, showOn: "all", hideOn: "/partners" },
 ];
 
 export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { isDark, toggleTheme } = useContext(ThemeContext);
+  const [location] = useLocation();
+  const isHome = location === "/" || location === "";
+  const visibleLinks = navLinks.filter((link) => {
+    if (link.showOn === "home" && !isHome) return false;
+    if (link.showOn === "non-home" && isHome) return false;
+    if (link.hideOn && location === link.hideOn) return false;
+    return true;
+  });
 
   const logoColorIndex = useMemo(
     () => Math.floor(Math.random() * darkLogoColors.length),
@@ -66,7 +78,7 @@ export function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
-          <div className="flex-shrink-0 flex items-center gap-3">
+          <a href={import.meta.env.BASE_URL} className="flex-shrink-0 flex items-center gap-3 no-underline">
             <RitaLogo
               aria-label="RitaBot Logo"
               className="w-10 h-10"
@@ -75,13 +87,14 @@ export function Navbar() {
             <span className="font-display font-bold text-2xl tracking-tight text-foreground">
               RitaBot
             </span>
-          </div>
+          </a>
 
           <nav className="hidden md:flex items-center gap-8">
-            {navLinks.map((link) => (
+            {visibleLinks.map((link) => (
               <a
                 key={link.name}
                 href={link.href}
+                {...(link.newTab ? { target: "_blank", rel: "noopener noreferrer" } : {})}
                 className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors duration-200"
               >
                 {link.name}
@@ -99,6 +112,8 @@ export function Navbar() {
             </button>
             <a
               href="https://ritabot.gg/invite"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-5 py-2.5 rounded-xl font-semibold text-sm bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_0_20px_rgba(88,101,242,0.3)] hover:shadow-[0_0_25px_rgba(88,101,242,0.5)] hover:-translate-y-0.5 transition-all duration-200"
             >
               Get RITA Now
@@ -126,10 +141,11 @@ export function Navbar() {
       {mobileMenuOpen && (
         <div className="md:hidden bg-card border-b border-border shadow-xl absolute w-full">
           <div className="px-4 pt-2 pb-6 space-y-1">
-            {navLinks.map((link) => (
+            {visibleLinks.map((link) => (
               <a
                 key={link.name}
                 href={link.href}
+                {...(link.newTab ? { target: "_blank", rel: "noopener noreferrer" } : {})}
                 onClick={() => setMobileMenuOpen(false)}
                 className="block px-3 py-3 text-base font-medium text-muted-foreground hover:text-foreground hover:bg-muted/50 rounded-lg"
               >
@@ -139,6 +155,8 @@ export function Navbar() {
             <div className="pt-4">
               <a
                 href="https://ritabot.gg/invite"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block w-full text-center px-5 py-3 rounded-xl font-semibold bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
               >
                 Get RITA Now

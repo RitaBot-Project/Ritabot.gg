@@ -55,6 +55,8 @@ export function Hero() {
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 animate-in fade-in slide-in-from-bottom-8 duration-700 delay-300 fill-mode-both">
           <a
             href="https://ritabot.gg/invite"
+            target="_blank"
+            rel="noopener noreferrer"
             className="w-full sm:w-auto group relative flex items-center justify-center gap-2 px-8 py-4 rounded-2xl font-bold text-lg bg-primary text-primary-foreground shadow-[0_0_40px_rgba(88,101,242,0.4)] hover:shadow-[0_0_60px_rgba(88,101,242,0.6)] hover:-translate-y-1 transition-all duration-300 overflow-hidden"
           >
             <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out"></div>
