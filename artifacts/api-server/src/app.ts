@@ -6,6 +6,8 @@ import { logger } from "./lib/logger";
 
 const app: Express = express();
 
+app.set("trust proxy", true);
+
 app.use(
   pinoHttp({
     logger,
@@ -25,7 +27,15 @@ app.use(
     },
   }),
 );
-app.use(cors());
+app.use(cors({
+  origin: [
+    "https://ritabot.gg",
+    "https://www.ritabot.gg",
+    /\.replit\.dev$/,
+    /\.worf\.replit\.dev$/,
+    /localhost/,
+  ],
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
