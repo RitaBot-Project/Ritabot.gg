@@ -91,6 +91,19 @@ Generated Zod schemas from the OpenAPI spec (e.g. `HealthCheckResponse`). Used b
 
 Generated React Query hooks and fetch client from the OpenAPI spec (e.g. `useHealthCheck`, `healthCheck`).
 
+### `artifacts/ritabot-homepage` (`@workspace/ritabot-homepage`)
+
+Static React+Vite homepage for ritabot.gg (Discord translation bot). Compiles to static HTML/JS for GitHub Pages hosting.
+
+- **Theme system**: Light/dark mode with `.dark` class on `<html>`. CSS variables defined in `src/index.css` with `:root` (light) and `.dark` (dark) selectors. Uses `@custom-variant dark (&:is(.dark *))` for Tailwind dark mode.
+- **Theme hook**: `src/hooks/use-theme.ts` — reads from `localStorage("ritabot-theme")`, defaults to dark. Exposed via `ThemeContext` in `App.tsx`.
+- **Flash prevention**: `index.html` has inline script to check `localStorage` before React hydrates.
+- **Logo**: SVG logo (`src/assets/logo.svg`) imported via `vite-plugin-svgr` as a React component with `fill="currentColor"`. Two color palettes (bright for dark mode, darker for light mode) pick a random color per page load.
+- **Favicon**: Set dynamically in `App.tsx` using `logo-white.svg` from `public/images/`.
+- **Redirects**: `public/invite-beta/`, `public/invite-blue/`, `public/invite-max/`, `public/invite-min/` — HTML redirect pages to Discord OAuth URLs.
+- **GitHub Pages**: `.github/workflows/deploy.yml` builds with `BASE_PATH=/Rita-Bot-Home/` and deploys. `public/CNAME` set to `ritabot.gg`.
+- **Vite config**: PORT and BASE_PATH default to 3000 and "/" respectively when not set.
+
 ### `scripts` (`@workspace/scripts`)
 
 Utility scripts package. Each script is a `.ts` file in `src/` with a corresponding npm script in `package.json`. Run scripts via `pnpm --filter @workspace/scripts run <script>`. Scripts can import any workspace package (e.g., `@workspace/db`) by adding it as a dependency in `scripts/package.json`.

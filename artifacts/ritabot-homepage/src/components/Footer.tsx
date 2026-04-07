@@ -30,7 +30,7 @@ export function Footer() {
         </nav>
 
         <div className="text-sm text-muted-foreground/60">
-          &copy; {currentYear} RitaBot. All rights reserved.
+          &copy; {currentYear} RitaBot. All rights reserved. V2
         </div>
       </div>
     </footer>

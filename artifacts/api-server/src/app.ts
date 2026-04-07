@@ -8,18 +8,20 @@ const app: Express = express();
 
 app.set("trust proxy", true);
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const pinoHttpFn = pinoHttp as any;
 app.use(
-  pinoHttp({
+  pinoHttpFn({
     logger,
     serializers: {
-      req(req) {
+      req(req: { id: unknown; method: string; url?: string }) {
         return {
           id: req.id,
           method: req.method,
           url: req.url?.split("?")[0],
         };
       },
-      res(res) {
+      res(res: { statusCode: number }) {
         return {
           statusCode: res.statusCode,
         };
