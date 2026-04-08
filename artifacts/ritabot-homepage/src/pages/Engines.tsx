@@ -57,8 +57,19 @@ async function translateWithGoogle(text: string, source: Language, target: Langu
   return data.translation;
 }
 
-async function translateWithML(_text: string, _source: Language, _target: Language): Promise<string> {
-  return "ML Engine translation is not yet available. Details coming soon.";
+async function translateWithML(text: string, source: Language, target: Language): Promise<string> {
+  const res = await fetch(`${API_BASE_URL}/api/translate/ml`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      text,
+      source: source.code,
+      target: target.code,
+    }),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return data.translation;
 }
 
 async function translateWithDeepL(text: string, source: Language, target: Language): Promise<string> {

@@ -186,4 +186,61 @@ router.post("/translate/deepl", async (req: Request, res: ExpressResponse) => {
   }
 });
 
+router.post("/translate/ml", async (req: Request, res: ExpressResponse) => {
+  const ip = getClientIp(req);
+  if (!checkServerRateLimit(ip)) {
+    res.status(429).json({ error: "Rate limit exceeded. Please try again later." });
+    return;
+  }
+
+  const validation = validateBody(req.body as Record<string, unknown>);
+  if (typeof validation === "string") {
+    res.status(400).json({ error: validation });
+    return;
+  }
+
+  const mlServer = process.env["ML_SERVER"];
+  const apiKey = process.env["ML_API_KEY"];
+  if (!mlServer || !apiKey) {
+    logger.error("ML_SERVER or ML_API_KEY is not configured");
+    res.status(500).json({ error: "Translation service is not configured" });
+    return;
+  }
+
+  try {
+    const params = new URLSearchParams({
+      API_KEY: apiKey,
+      langTo: validation.target.toLowerCase(),
+      langFrom: validation.source.toLowerCase(),
+    });
+
+    const response = await httpPost(
+      `${mlServer}/translate?${params.toString()}`,
+      { "Content-Type": "application/json; charset=utf-8" },
+      JSON.stringify({ "X-Translate-Text": validation.text })
+    );
+
+    if (!response.ok) {
+      const errorBody = await response.text();
+      logger.error({ status: response.status, body: errorBody }, "ML API error");
+      res.status(502).json({ error: "Translation service returned an error" });
+      return;
+    }
+
+    const data = await response.json() as [unknown, { data?: { translations?: Array<{ translatedText?: string }> } }];
+
+    const translated = data?.[1]?.data?.translations?.[0]?.translatedText;
+    if (!translated) {
+      logger.error({ data }, "Unexpected ML response format");
+      res.status(502).json({ error: "Unexpected response from translation service" });
+      return;
+    }
+
+    res.json({ translation: translated });
+  } catch (err) {
+    logger.error({ err }, "ML request failed");
+    res.status(502).json({ error: "Failed to reach translation service" });
+  }
+});
+
 export default router;
