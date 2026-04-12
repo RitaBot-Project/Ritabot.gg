@@ -22,7 +22,7 @@ const comparisonRows: ComparisonRow[] = [
     label: "Monthly cost",
     subtext: "for an active server",
     rita: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-green-500/15 text-green-400 border border-green-500/30">Flat rate</span>,
-    others: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-medium border border-border text-muted-foreground">$50\u2013200+</span>,
+    others: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-medium border border-border text-muted-foreground">$50+</span>,
     highlight: true,
   },
   {
@@ -523,6 +523,41 @@ export default function WhyRita() {
             </p>
           </div>
 
+          {/* Mobile comparison */}
+          <div className="md:hidden flex flex-col gap-3">
+            {comparisonRows.map((row, i) => (
+              <div
+                key={i}
+                className={`rounded-xl px-4 py-4 border ${
+                  row.highlight
+                    ? "border-green-500/20 bg-green-500/[0.03]"
+                    : i % 2 === 0
+                      ? "border-border/50 bg-muted/20 dark:bg-white/[0.02]"
+                      : "border-border/30 bg-transparent"
+                }`}
+              >
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-sm font-bold text-foreground">{row.label}</span>
+                  {row.learnMore && (
+                    <a href={row.learnMore} className="text-xs font-semibold text-primary hover:underline">How?</a>
+                  )}
+                </div>
+                <div className="grid grid-cols-2 gap-3">
+                  <div>
+                    <div className="text-[10px] font-bold text-primary uppercase tracking-wider mb-1.5 text-center">RITA</div>
+                    <div className="flex justify-center">{row.rita}</div>
+                  </div>
+                  <div>
+                    <div className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-1.5 text-center">Others</div>
+                    <div className="flex justify-center">{row.others}</div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Desktop comparison */}
+          <div className="hidden md:block">
           {/* Column headers */}
           <div className="grid grid-cols-[1fr_1fr_1fr] gap-4 mb-2 px-4">
             <div />
@@ -545,7 +580,7 @@ export default function WhyRita() {
               >
                 <div>
                   <div className="flex items-center gap-2">
-                    <span className="text-sm md:text-base font-bold text-foreground">{row.label}</span>
+                    <span className="text-base font-bold text-foreground">{row.label}</span>
                     {row.learnMore && (
                       <a
                         href={row.learnMore}
@@ -555,12 +590,13 @@ export default function WhyRita() {
                       </a>
                     )}
                   </div>
-                  <span className="text-xs md:text-sm text-muted-foreground">{row.subtext}</span>
+                  <span className="text-sm text-muted-foreground">{row.subtext}</span>
                 </div>
                 <div className="flex justify-center">{row.rita}</div>
                 <div className="flex justify-center">{row.others}</div>
               </div>
             ))}
+          </div>
           </div>
 
           {/* Calculator CTA inside comparison */}

@@ -44,10 +44,6 @@ Thumbs.db
 .cursor/rules/nx-rules.mdc
 .github/
 
-# Replit
-.cache/
-.local/
-
 # Local environment secrets
 .env.local
 .env.*.local

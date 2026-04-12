@@ -33,8 +33,6 @@ app.use(cors({
   origin: [
     "https://ritabot.gg",
     "https://www.ritabot.gg",
-    /\.replit\.dev$/,
-    /\.worf\.replit\.dev$/,
     /localhost/,
   ],
 }));
