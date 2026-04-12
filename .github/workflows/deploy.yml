@@ -39,7 +39,7 @@ jobs:
           NODE_ENV: production
           VITE_API_BASE_URL: https://rita-bot-home-api-server.vercel.app
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
+        uses: actions/upload-pages-artifact@v4
         with:
           path: artifacts/ritabot-homepage/dist/public
 
