@@ -163,14 +163,14 @@ export function Pricing() {
           <div className="p-6 bg-card border border-border/50 dark:border-white/10 rounded-2xl">
             <h3 className="text-lg font-bold text-foreground mb-4">What is a Task?</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              A task is a singular channel setup for automatic channel translation. For example; 1 channel translating from english to french counts as 1 task, If you wanted to create an interchangeable setup of 10 channels (10 languages which are all connected); it would be 10 * (10-1) tasks so 90 tasks overall.
+              A task is a singular channel setup for automatic channel translation. For example: 1 channel translating from English to French counts as 1 task. If you wanted to create an interchangeable setup of 10 channels (10 languages which are all connected), it would be 10 × (10-1) tasks, so 90 tasks overall.
             </p>
           </div>
 
           <div className="p-6 bg-card border border-border/50 dark:border-white/10 rounded-2xl">
             <h3 className="text-lg font-bold text-foreground mb-4">Character Limits & Soft Caps</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Each plan has a Soft Limit on the number of Google Characters they are assigned for the Google Translation API. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for transaltion then it will continue to use the Google Translation API for translation. There is no Hard Limit on the number of Characters that a user can use on the Google API however after 2 Million a review may be conducted to ensure there is no abuse of service.
+              Each plan has a soft limit on the number of Google characters they are assigned for the Google Translation API. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for translation, it will continue to use the Google Translation API for translation. There is no hard limit on the number of characters that a user can use on the Google API. However, after 2 million characters, a review may be conducted to ensure there is no abuse of service.
             </p>
           </div>
         </div>

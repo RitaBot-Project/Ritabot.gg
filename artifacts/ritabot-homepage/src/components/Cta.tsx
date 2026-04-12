@@ -1,4 +1,5 @@
 import { MessageSquarePlus } from "lucide-react";
+import { INVITE_URL, DASHBOARD_URL } from "@/lib/constants";
 
 export function Cta() {
   return (
@@ -17,7 +18,7 @@ export function Cta() {
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
-                href="https://ritabot.gg/invite"
+                href={INVITE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto flex items-center justify-center gap-2 px-8 py-4 rounded-2xl font-bold text-lg bg-primary text-primary-foreground hover:bg-primary/90 hover:scale-105 transition-all duration-200 shadow-xl shadow-primary/20"
@@ -26,7 +27,7 @@ export function Cta() {
                 Get RITA Now
               </a>
               <a
-                href="https://dashboard.ritabot.gg"
+                href={DASHBOARD_URL}
                 className="w-full sm:w-auto px-8 py-4 rounded-2xl font-bold text-lg text-foreground hover:bg-muted/50 dark:hover:bg-white/5 transition-colors duration-200"
               >
                 Open Dashboard

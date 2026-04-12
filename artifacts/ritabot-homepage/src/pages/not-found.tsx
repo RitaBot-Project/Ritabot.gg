@@ -1,6 +1,8 @@
 import { Link } from "wouter";
+import { usePageTitle } from "@/hooks/use-page-title";
 
 export default function NotFound() {
+  usePageTitle("Page Not Found");
   return (
     <div className="min-h-screen w-full flex items-center justify-center bg-background text-foreground">
       <div className="text-center p-8 max-w-md bg-card rounded-3xl border border-white/10 shadow-2xl">

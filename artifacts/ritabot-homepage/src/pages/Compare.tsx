@@ -2,6 +2,8 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { Check, X, ExternalLink, MessageSquare, BookOpen, HeadphonesIcon, Copy, CheckCheck } from "lucide-react";
 import { useState } from "react";
+import { usePageTitle } from "@/hooks/use-page-title";
+import { BOT_INVITE_URL, SUPPORT_URL, DOCS_URL } from "@/lib/constants";
 
 const plans = [
   { name: "Trial", price: "FREE FOR 1 MONTH", sub: "or until limits have been reached.", period: "", highlighted: false },
@@ -39,18 +41,18 @@ const descriptions = [
   "Do you just need something to get started with RITA? Are you running a small server? This should be sufficient for your needs, 100 tasks is a good place to start.",
   "Do you run a community server, or have a game focused server? Are you trying to coordinate between large groups? This plan is perfect for Medium-sized servers. 200 tasks gives you freedom to expand.",
   "Do you run a large community or game server? Then this is perfect for you. 350 tasks will give you the ability to have multiple large groups all translating to each other in real-time.",
-  "Our \"ultima\" Plan is our highest plan we offer, with 550 tasks, and BITA Access for 1 Additional servers. Allowing you to coordinate and translate the even the largest servers going.",
+  "Our \"Ultima\" plan is our highest plan we offer, with 550 tasks, and BITA Access for 1 additional server. Allowing you to coordinate and translate even the largest servers going.",
 ];
 
 const footnotes = [
-  { num: 1, text: "The TRIAL will allow a user to try RITA for a period of one (1) month, or until limits have been reached, whichever comes first. Servers are limited to 1 TRIAL Per Server \u00b7 Per User. Once Limit has been reached RITA will stop functioning for translations. Users do not need to be a Member of the RMS (RITA Management Server) to use the TRIAL." },
-  { num: 2, text: "Edited messages will always utilise our ML Engine for translations, regardless if google soft limits are reached or not." },
-  { num: 3, text: "A task is a singular channel setup for automatic channel translation. For example; 1 channel translating from english to french counts as 1 task, if you wanted to create an interchangeable setup of 10 channels (10 languages which are all connected); it would be 10 \u00d7 (10-1) tasks so 90 tasks overall." },
-  { num: 4, text: "Each plan has a Soft Limit on the number of Google Characters they are assigned for the Google Translation API. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for translation then it will continue to use the Google Translation API for translation. There is no Hard Limit on the number of Characters that a user can use on the Google API however after 2 Million a review may be conducted to ensure there is no abuse of service." },
-  { num: 5, text: "A Hard limit for 30 Million Characters is applied to our ML Translation Engine. Once a user has reached this limit a Review of service will be conducted to ensure there is no abuse of service, this is not restriction from the service and is only intended to ensure service can be maintained." },
+  { num: 1, text: "The TRIAL will allow a user to try RITA for a period of one (1) month, or until limits have been reached, whichever comes first. Servers are limited to 1 TRIAL Per Server \u00b7 Per User. Once the limit has been reached, RITA will stop functioning for translations. Users do not need to be a Member of the RMS (RITA Management Server) to use the TRIAL." },
+  { num: 2, text: "Edited messages will always utilize our ML Engine for translations, regardless if Google soft limits are reached or not." },
+  { num: 3, text: "A task is a singular channel setup for automatic channel translation. For example: 1 channel translating from English to French counts as 1 task. If you wanted to create an interchangeable setup of 10 channels (10 languages which are all connected), it would be 10 \u00d7 (10-1) tasks, so 90 tasks overall." },
+  { num: 4, text: "Each plan has a soft limit on the number of Google characters they are assigned for the Google Translation API. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for translation, it will continue to use the Google Translation API for translation. There is no hard limit on the number of characters that a user can use on the Google API. However, after 2 million characters, a review may be conducted to ensure there is no abuse of service." },
+  { num: 5, text: "A hard limit of 30 million characters is applied to our ML Translation Engine. Once a user has reached this limit, a review of service will be conducted to ensure there is no abuse of service. This is not a restriction from the service and is only intended to ensure service can be maintained." },
 ];
 
-const INVITE_URL = "https://discord.com/oauth2/authorize?client_id=1028760535879131176&permissions=8&integration_type=0&scope=bot+applications.commands";
+const INVITE_URL = BOT_INVITE_URL;
 
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
@@ -144,7 +146,7 @@ function TrialModal({ open, onClose }: { open: boolean; onClose: () => void }) {
           </p>
           <div className="flex gap-3 justify-center">
             <a
-              href="https://discord.com/invite/mgNR64R"
+              href={SUPPORT_URL}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-zinc-200 dark:bg-white/5 text-foreground rounded-xl font-bold text-sm hover:bg-zinc-300 dark:hover:bg-white/10 transition-all duration-200"
@@ -153,7 +155,7 @@ function TrialModal({ open, onClose }: { open: boolean; onClose: () => void }) {
               Support
             </a>
             <a
-              href="https://docs.ritabot.gg"
+              href={DOCS_URL}
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-zinc-200 dark:bg-white/5 text-foreground rounded-xl font-bold text-sm hover:bg-zinc-300 dark:hover:bg-white/10 transition-all duration-200"
             >
               <BookOpen className="w-4 h-4" />
@@ -253,6 +255,7 @@ function MobileCard({ plan, index, onTrialClick }: { plan: typeof plans[0]; inde
 
 export default function Compare() {
   const [trialModalOpen, setTrialModalOpen] = useState(false);
+  usePageTitle("Compare Plans");
 
   return (
     <div className="min-h-screen bg-background text-foreground flex flex-col selection:bg-primary/30 selection:text-primary-foreground">
@@ -292,22 +295,7 @@ export default function Compare() {
                   ))}
                 </tr>
                 <tr>
-                  <td className="p-4 align-top">
-                    <span className="text-sm font-semibold text-muted-foreground">Description</span>
-                  </td>
-                  {descriptions.map((desc, i) => (
-                    <td
-                      key={i}
-                      className={`p-4 align-top text-center ${plans[i].highlighted ? "bg-primary/10" : ""}`}
-                    >
-                      <p className="text-xs text-muted-foreground leading-relaxed whitespace-pre-line">{desc}</p>
-                    </td>
-                  ))}
-                </tr>
-                <tr>
-                  <td className="p-4 border-b border-border/50 dark:border-white/10">
-                    <span className="text-sm font-semibold text-muted-foreground">Cost</span>
-                  </td>
+                  <td className="p-4 border-b border-border/50 dark:border-white/10"></td>
                   {plans.map((plan) => (
                     <td
                       key={plan.name}

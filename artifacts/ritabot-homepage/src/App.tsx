@@ -21,7 +21,7 @@ function Router() {
       <Route path="/" component={Home} />
       <Route path="/partners" component={Partners} />
       <Route path="/compare" component={Compare} />
-      <Route path="/engines" component={Engines} />
+      <Route path="/playground" component={Engines} />
       <Route path="/why-rita" component={WhyRita} />
       <Route component={NotFound} />
     </Switch>

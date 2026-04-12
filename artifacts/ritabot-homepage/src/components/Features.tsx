@@ -39,7 +39,7 @@ const features = [
   {
     icon: Zap,
     title: "Lightning Fast",
-    description: "Built for scale and speed. Rita handles high-volume active chats without breaking a sweat, ensuring conversations flow naturally.",
+    description: "Built for scale and speed. RITA handles high-volume active chats without breaking a sweat, ensuring conversations flow naturally.",
     color: "text-purple-400",
     bg: "bg-purple-400/10",
   },
@@ -79,7 +79,7 @@ export function Features() {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-6">
           {features.map((feature, index) => {
             const Icon = feature.icon;
             return (

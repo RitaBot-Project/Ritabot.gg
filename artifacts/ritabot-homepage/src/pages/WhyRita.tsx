@@ -1,9 +1,164 @@
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
-import { Languages, Link2, MessageSquare, Flag, MousePointer2, MessageCircle } from "lucide-react";
+import { Languages, Link2, MessageSquare, Flag, MousePointer2, MessageCircle, Check, X, Calculator, HelpCircle } from "lucide-react";
 import { useLocation } from "wouter";
+import React, { useState } from "react";
+import { usePageTitle } from "@/hooks/use-page-title";
+import { INVITE_URL } from "@/lib/constants";
 
-const INVITE_URL = "https://ritabot.gg/invite";
+// ── RITA vs Others comparison data ──────────────────────────────────────────
+
+interface ComparisonRow {
+  label: string;
+  subtext: string;
+  rita: React.ReactNode;
+  others: React.ReactNode;
+  highlight?: boolean;
+  learnMore?: string;
+}
+
+const comparisonRows: ComparisonRow[] = [
+  {
+    label: "Monthly cost",
+    subtext: "for an active server",
+    rita: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-green-500/15 text-green-400 border border-green-500/30">Flat rate</span>,
+    others: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-medium border border-border text-muted-foreground">$50\u2013200+</span>,
+    highlight: true,
+  },
+  {
+    label: "How you pay",
+    subtext: "the way you're charged",
+    rita: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-green-500/15 text-green-400 border border-green-500/30">Monthly sub</span>,
+    others: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-medium border border-border text-muted-foreground">Per character</span>,
+  },
+  {
+    label: "Translation engine",
+    subtext: "what powers your translations",
+    rita: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-green-500/15 text-green-400 border border-green-500/30">Premium hybrid</span>,
+    others: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-red-500/15 text-red-400 border border-red-500/30">Inadequate or pricey</span>,
+    learnMore: "/playground",
+  },
+  {
+    label: "Surprise bills",
+    subtext: "unexpected charges at month end",
+    rita: <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-green-500/15 border border-green-500/30"><X className="w-4 h-4 text-green-400" /></span>,
+    others: <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-muted/50 border border-border"><Check className="w-4 h-4 text-muted-foreground" /></span>,
+  },
+  {
+    label: "Character limits",
+    subtext: "when you hit the cap",
+    rita: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-green-500/15 text-green-400 border border-green-500/30">None</span>,
+    others: <span className="block w-full px-3 py-1.5 rounded-full text-sm text-center font-semibold bg-red-500/15 text-red-400 border border-red-500/30">Wait or pay extra</span>,
+    highlight: true,
+  },
+  {
+    label: "Active support",
+    subtext: "real humans ready to help",
+    rita: <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-green-500/15 border border-green-500/30"><Check className="w-4 h-4 text-green-400" /></span>,
+    others: <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-muted/50 border border-border"><HelpCircle className="w-4 h-4 text-muted-foreground" /></span>,
+  },
+];
+
+// ── Plan Calculator Modal ──────────────────────────────────────────────────
+
+function PlanCalculatorModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
+  const [channels, setChannels] = useState(2);
+  const [languages, setLanguages] = useState(2);
+
+  if (!isOpen) return null;
+
+  const tasksNeeded = channels * (languages - 1);
+
+  let recommendedPlan = "Trial";
+  let recommendedPrice = "FREE";
+  if (tasksNeeded > 350) {
+    recommendedPlan = "Ultima";
+    recommendedPrice = "$21.99/mo";
+  } else if (tasksNeeded > 200) {
+    recommendedPlan = "Pro";
+    recommendedPrice = "$15.99/mo";
+  } else if (tasksNeeded > 100) {
+    recommendedPlan = "Tinkerer";
+    recommendedPrice = "$10.99/mo";
+  } else if (tasksNeeded > 25) {
+    recommendedPlan = "Casual";
+    recommendedPrice = "$6.99/mo";
+  } else if (tasksNeeded > 0) {
+    recommendedPlan = "Trial";
+    recommendedPrice = "FREE";
+  }
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4" onClick={onClose}>
+      <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
+      <div
+        className="relative w-full max-w-md bg-card border border-border/50 dark:border-white/10 rounded-3xl p-8 md:p-10 shadow-2xl"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <button
+          onClick={onClose}
+          className="absolute top-4 right-4 text-muted-foreground hover:text-foreground transition-colors text-xl leading-none p-1"
+        >
+          &times;
+        </button>
+
+        <h2 className="text-2xl font-display font-bold text-foreground mb-2 text-center">
+          Find Your Plan
+        </h2>
+        <p className="text-sm text-muted-foreground text-center mb-8">
+          Find out which plan fits your server setup.
+        </p>
+
+        <div className="space-y-6">
+          <div>
+            <label className="block text-sm font-semibold text-foreground mb-2">
+              Number of channels to translate
+            </label>
+            <input
+              type="range"
+              min={1}
+              max={50}
+              value={channels}
+              onChange={(e) => setChannels(Number(e.target.value))}
+              className="w-full accent-primary"
+            />
+            <div className="text-right text-sm text-primary font-bold mt-1">{channels} channels</div>
+          </div>
+
+          <div>
+            <label className="block text-sm font-semibold text-foreground mb-2">
+              Number of languages
+            </label>
+            <input
+              type="range"
+              min={2}
+              max={20}
+              value={languages}
+              onChange={(e) => setLanguages(Number(e.target.value))}
+              className="w-full accent-primary"
+            />
+            <div className="text-right text-sm text-primary font-bold mt-1">{languages} languages</div>
+          </div>
+
+          <div className="border-t border-border/50 dark:border-white/10 pt-6">
+            <div className="flex justify-between items-center mb-2">
+              <span className="text-sm text-muted-foreground">Tasks needed:</span>
+              <span className="text-lg font-bold text-foreground">{tasksNeeded} tasks</span>
+            </div>
+            <div className="text-xs text-muted-foreground mb-4">
+              Formula: {channels} channels × ({languages} languages − 1) = {tasksNeeded} tasks
+            </div>
+            <div className="rounded-xl bg-primary/10 border border-primary/20 p-4 text-center">
+              <div className="text-sm text-muted-foreground mb-1">Recommended plan</div>
+              <div className="text-xl font-display font-bold text-primary">{recommendedPlan}</div>
+              <div className="text-sm text-foreground font-semibold">{recommendedPrice}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
 
 // ── Discord mockup primitives ──────────────────────────────────────────────
 
@@ -56,7 +211,7 @@ function MsgText({ dim, children }: { dim?: boolean; children: React.ReactNode }
   );
 }
 
-function Embed({ color, authorColor, authorInitials, authorName, text, footer }: {
+function EmbedBlock({ color, authorColor, authorInitials, authorName, text, footer }: {
   color: string; authorColor: string; authorInitials: string;
   authorName: string; text: string; footer: string;
 }) {
@@ -183,12 +338,14 @@ function ModeRow({
 
 export default function WhyRita() {
   const [, navigate] = useLocation();
+  const [isCalculatorOpen, setIsCalculatorOpen] = useState(false);
+  usePageTitle("Why RITA");
 
   return (
     <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       <Navbar />
 
-      <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col gap-20 pb-24">
+      <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col gap-16 pb-24">
 
         {/* ── Hero ── */}
         <section className="relative flex flex-col items-center text-center pt-32 md:pt-44 pb-4">
@@ -196,11 +353,11 @@ export default function WhyRita() {
           <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/4 w-[700px] h-[400px] bg-primary/10 dark:bg-primary/20 rounded-full blur-[130px] pointer-events-none" />
 
           <h1 className="relative z-10 text-4xl md:text-[2.8rem] leading-tight font-display font-extrabold text-foreground mb-4 animate-in fade-in slide-in-from-bottom-6 duration-700 fill-mode-both">
-            The Smarter Way to Translate<br className="hidden md:block" /> Your Discord Server
+            Break the language barrier in your Discord
           </h1>
 
           <p className="relative z-10 text-lg text-muted-foreground mb-8 max-w-[540px] leading-relaxed animate-in fade-in slide-in-from-bottom-6 duration-700 delay-100 fill-mode-both">
-            Real-time, automatic translation that works the way your community does — naturally, quietly, and always there.
+            Your community speaks different languages. Now they can all understand each other — automatically.
           </p>
 
           {/* Stats */}
@@ -226,13 +383,14 @@ export default function WhyRita() {
               className="group relative flex items-center justify-center gap-2 px-10 py-4 rounded-2xl font-bold text-lg bg-primary text-primary-foreground shadow-[0_0_40px_rgba(88,101,242,0.4)] hover:shadow-[0_0_60px_rgba(88,101,242,0.6)] hover:-translate-y-1 transition-all duration-300 overflow-hidden"
             >
               <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
-              <span className="relative z-10">Get Started Free</span>
+              <span className="relative z-10">Get Started</span>
             </a>
             <button
-              onClick={() => navigate("/compare")}
+              onClick={() => setIsCalculatorOpen(true)}
               className="flex items-center gap-2 px-8 py-4 rounded-2xl font-bold text-lg text-foreground bg-muted dark:bg-secondary border border-border dark:border-white/10 hover:bg-muted/80 dark:hover:bg-white/10 transition-all duration-300"
             >
-              View Plans
+              <Calculator className="w-5 h-5" />
+              Calculate Your Plan
             </button>
           </div>
         </section>
@@ -241,13 +399,13 @@ export default function WhyRita() {
         <section className="flex flex-col items-center gap-8">
           <SectionHeader
             title="How It Works"
-            subtitle="Get up and running in minutes. No technical knowledge required."
+            subtitle="Set up in minutes, works forever"
           />
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 w-full max-w-3xl">
             {[
-              { n: "1", icon: <Languages className="w-7 h-7" />, title: "Set Your Languages", desc: "Choose the source and target languages for your server channels." },
-              { n: "2", icon: <Link2 className="w-7 h-7" />, title: "Connect Your Server", desc: "Invite RITA and link the channels you want to bridge together." },
-              { n: "3", icon: <MessageSquare className="w-7 h-7" />, title: "Translate Automatically", desc: "Messages flow between channels in real-time, translated instantly." },
+              { n: "1", icon: <Languages className="w-7 h-7" />, title: "Add RITA", desc: "Invite RITA to your Discord server with one click." },
+              { n: "2", icon: <Link2 className="w-7 h-7" />, title: "Link Your Channels", desc: "Connect channels that should translate between languages." },
+              { n: "3", icon: <MessageSquare className="w-7 h-7" />, title: "Chat Freely", desc: "Messages are automatically translated. Your community connects." },
             ].map(({ n, icon, title, desc }) => (
               <div
                 key={n}
@@ -269,8 +427,8 @@ export default function WhyRita() {
         {/* ── Translation Modes ── */}
         <section className="flex flex-col items-center gap-10">
           <SectionHeader
-            title="Multiple Ways to Translate"
-            subtitle="Choose how RITA fits into your server's workflow."
+            title="Translation Modes"
+            subtitle="Multiple ways to translate — pick what works for your server"
           />
 
           <div className="flex flex-col gap-14 w-full">
@@ -278,9 +436,9 @@ export default function WhyRita() {
             {/* Mode 1 – Webhook (auto-translate) */}
             <ModeRow
               icon={<MessageCircle className="w-6 h-6" />}
-              title="Auto-translate via Webhook"
+              title="Auto-Translate (Webhook)"
               badge="Most Popular"
-              description="RITA silently re-posts messages through a webhook with the translated text — keeping your channels clean and native-looking."
+              description="Messages are automatically translated and reposted with the original user's name and avatar. Seamless and natural."
               mockup={
                 <DiscordShell>
                   <DiscordMsg avatarColor="#e91e63" initials="M" username="Maria" usernameColor="#e91e63" time="Today at 3:42 PM">
@@ -298,13 +456,13 @@ export default function WhyRita() {
             <ModeRow
               reverse
               icon={<MessageCircle className="w-6 h-6" />}
-              title="Auto-translate via Embed"
-              description="RITA appends an embed below the original message with the translation — great for servers that want to keep context and attribution visible."
+              title="Auto-Translate (Embed)"
+              description="Translations appear as embeds below the original message. Great for keeping both versions visible."
               mockup={
                 <DiscordShell>
                   <DiscordMsg avatarColor="#4caf50" initials="T" username="Takeshi" usernameColor="#4caf50" time="Today at 5:15 PM">
                     <MsgText>このゲームは素晴らしいです！</MsgText>
-                    <Embed
+                    <EmbedBlock
                       color="#4caf50"
                       authorColor="#4caf50"
                       authorInitials="T"
@@ -320,8 +478,8 @@ export default function WhyRita() {
             {/* Mode 3 – Flag reactions */}
             <ModeRow
               icon={<Flag className="w-6 h-6" />}
-              title="Flag Emoji Reactions"
-              description="Anyone can react to a message with a flag emoji to request a translation on demand. Perfect for servers that only need occasional translations."
+              title="Flag Reactions"
+              description="React with a flag emoji to translate any message on demand. Perfect for casual use or specific messages."
               mockup={
                 <DiscordShell>
                   <DiscordMsg avatarColor="#2196f3" initials="J" username="John" usernameColor="#2196f3" time="Today at 2:30 PM">
@@ -340,8 +498,8 @@ export default function WhyRita() {
             <ModeRow
               reverse
               icon={<MousePointer2 className="w-6 h-6" />}
-              title="Right-Click to Translate"
-              description={"Use Discord's right-click \"Apps\" menu to translate any message instantly to your personal language preference — visible only to you."}
+              title="Right-Click Menu"
+              description={"Right-click any message and select 'Translate' from the Apps menu. Quick and private."}
               mockup={
                 <DiscordShell>
                   <DiscordMsg avatarColor="#ff9800" initials="L" username="Lucas" usernameColor="#ff9800" time="Today at 4:00 PM">
@@ -354,47 +512,112 @@ export default function WhyRita() {
           </div>
         </section>
 
-        {/* ── Comparison CTA ── */}
-        <section className="w-full rounded-2xl border border-border bg-card/60 p-8 md:p-12 flex flex-col items-center text-center gap-4">
-          <h2 className="text-2xl md:text-3xl font-display font-bold text-foreground">
-            Find the Right Plan for Your Server
-          </h2>
-          <p className="text-muted-foreground max-w-lg leading-relaxed">
-            From small communities to large multilingual servers — RITA has a plan that fits. Compare all features and limits side by side.
-          </p>
-          <div className="flex flex-wrap gap-3 justify-center mt-2">
-            <button
-              onClick={() => navigate("/compare")}
-              className="group relative flex items-center gap-2 px-8 py-3.5 rounded-xl font-semibold text-base bg-primary text-primary-foreground shadow-[0_0_30px_rgba(88,101,242,0.3)] hover:shadow-[0_0_50px_rgba(88,101,242,0.5)] hover:-translate-y-0.5 transition-all duration-300 overflow-hidden"
-            >
-              <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
-              <span className="relative z-10">Compare Plans</span>
-            </button>
+        {/* ── Comparison Section ── */}
+        <section className="w-full rounded-2xl border border-border bg-card/60 p-6 md:p-8">
+          <div className="text-center mb-8">
+            <h2 className="text-2xl md:text-3xl font-display font-bold text-foreground mb-2">
+              RITA vs Others
+            </h2>
+            <p className="text-muted-foreground max-w-md mx-auto text-sm md:text-base">
+              See why server owners choose RITA
+            </p>
+          </div>
+
+          {/* Column headers */}
+          <div className="grid grid-cols-[1fr_1fr_1fr] gap-4 mb-2 px-4">
+            <div />
+            <div className="text-center text-sm font-bold text-primary uppercase tracking-wider">RITA</div>
+            <div className="text-center text-sm font-semibold text-muted-foreground uppercase tracking-wider">Others</div>
+          </div>
+
+          {/* Rows */}
+          <div className="flex flex-col gap-2">
+            {comparisonRows.map((row, i) => (
+              <div
+                key={i}
+                className={`grid grid-cols-[1fr_1fr_1fr] gap-4 items-center rounded-xl px-4 py-4 border ${
+                  row.highlight
+                    ? "border-green-500/20 bg-green-500/[0.03]"
+                    : i % 2 === 0
+                      ? "border-border/50 bg-muted/20 dark:bg-white/[0.02]"
+                      : "border-transparent bg-transparent"
+                }`}
+              >
+                <div>
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm md:text-base font-bold text-foreground">{row.label}</span>
+                    {row.learnMore && (
+                      <a
+                        href={row.learnMore}
+                        className="text-xs font-semibold text-primary hover:underline"
+                      >
+                        How?
+                      </a>
+                    )}
+                  </div>
+                  <span className="text-xs md:text-sm text-muted-foreground">{row.subtext}</span>
+                </div>
+                <div className="flex justify-center">{row.rita}</div>
+                <div className="flex justify-center">{row.others}</div>
+              </div>
+            ))}
+          </div>
+
+          {/* Calculator CTA inside comparison */}
+          <div className="flex flex-col items-center text-center p-6 mt-6 bg-primary/5 dark:bg-primary/10 border border-primary/20 rounded-2xl">
+            <h3 className="text-lg font-display font-bold text-foreground mb-2">
+              Not sure which is right for you?
+            </h3>
+            <p className="text-sm text-muted-foreground mb-4 max-w-sm">
+              Every server is different. Plug in your numbers and see exactly what you'd pay.
+            </p>
+            <div className="flex flex-wrap gap-3 justify-center">
+              <button
+                onClick={() => setIsCalculatorOpen(true)}
+                className="flex items-center gap-2 px-6 py-3 rounded-xl font-semibold text-sm bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-200 shadow-lg shadow-primary/25"
+              >
+                <Calculator className="w-4 h-4" />
+                Calculate Your Savings
+              </button>
+              <a
+                href={`${import.meta.env.BASE_URL}compare`}
+                className="flex items-center gap-2 px-6 py-3 rounded-xl font-semibold text-sm text-foreground bg-muted dark:bg-secondary border border-border dark:border-white/10 hover:bg-muted/80 dark:hover:bg-white/10 transition-all duration-200"
+              >
+                Compare Plans
+              </a>
+            </div>
           </div>
         </section>
 
         {/* ── Bottom CTA ── */}
         <section className="rounded-2xl border border-primary/20 bg-primary/5 dark:bg-primary/10 p-10 md:p-16 flex flex-col items-center text-center gap-4">
           <h2 className="text-2xl md:text-3xl font-display font-bold text-foreground">
-            Ready to Break Language Barriers?
+            Ready to connect your community?
           </h2>
           <p className="text-muted-foreground max-w-md leading-relaxed">
-            Join thousands of servers already using RITA to connect people across languages.
+            Join hundreds of servers already breaking language barriers.
           </p>
-          <a
-            href={INVITE_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group relative mt-2 flex items-center gap-2 px-10 py-4 rounded-2xl font-bold text-lg bg-primary text-primary-foreground shadow-[0_0_40px_rgba(88,101,242,0.4)] hover:shadow-[0_0_60px_rgba(88,101,242,0.6)] hover:-translate-y-1 transition-all duration-300 overflow-hidden"
-          >
-            <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
-            <span className="relative z-10">Add RITA to Discord — It's Free</span>
-          </a>
+          <div className="flex flex-wrap gap-3 justify-center">
+            <a
+              href={INVITE_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative mt-2 flex items-center gap-2 px-10 py-4 rounded-2xl font-bold text-lg bg-primary text-primary-foreground shadow-[0_0_40px_rgba(88,101,242,0.4)] hover:shadow-[0_0_60px_rgba(88,101,242,0.6)] hover:-translate-y-1 transition-all duration-300 overflow-hidden"
+            >
+              <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
+              <span className="relative z-10">Get Started Now</span>
+            </a>
+          </div>
         </section>
 
       </main>
 
       <Footer />
+
+      <PlanCalculatorModal
+        isOpen={isCalculatorOpen}
+        onClose={() => setIsCalculatorOpen(false)}
+      />
     </div>
   );
 }

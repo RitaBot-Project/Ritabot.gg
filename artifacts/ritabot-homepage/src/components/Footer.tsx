@@ -1,4 +1,7 @@
 import RitaLogo from "@/assets/logo.svg?react";
+import { SUPPORT_URL, DOCS_URL, DASHBOARD_URL } from "@/lib/constants";
+
+declare const __APP_VERSION__: string;
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -15,22 +18,25 @@ export function Footer() {
         </div>
 
         <nav className="flex flex-wrap justify-center gap-6 md:gap-8">
-          <a href="https://docs.ritabot.gg" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+          <a href={DOCS_URL} className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
             Documentation
           </a>
-          <a href="https://dashboard.ritabot.gg" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+          <a href={DASHBOARD_URL} className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
             Dashboard
           </a>
-          <a href="https://discord.com/invite/yQg3MtHnm5" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+          <a href={SUPPORT_URL} target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
             Support Server
           </a>
           <a href={`${import.meta.env.BASE_URL}partners`} className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
             Partners
           </a>
+          <a href={`${import.meta.env.BASE_URL}why-rita`} className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+            Why RITA
+          </a>
         </nav>
 
         <div className="text-sm text-muted-foreground/60">
-          &copy; {currentYear} RitaBot. All rights reserved. V2
+          &copy; {currentYear} RitaBot. All rights reserved. V{__APP_VERSION__}
         </div>
       </div>
     </footer>

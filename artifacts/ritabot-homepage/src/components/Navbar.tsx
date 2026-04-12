@@ -2,6 +2,7 @@ import { Menu, X, Sun, Moon } from "lucide-react";
 import { useState, useEffect, useMemo, useContext } from "react";
 import { useLocation } from "wouter";
 import { ThemeContext } from "@/hooks/theme-context";
+import { INVITE_URL, SUPPORT_URL, DOCS_URL, DASHBOARD_URL } from "@/lib/constants";
 import RitaLogoAnimated from "@/assets/rita_logo_animated.svg?react";
 
 const darkLogoColors = [
@@ -19,10 +20,12 @@ const navLinks = [
   { name: "Features", href: "#features", newTab: false, showOn: "home", hideOn: "" },
   { name: "Pricing", href: "#pricing", newTab: false, showOn: "home", hideOn: "" },
   { name: "Pricing", href: `${import.meta.env.BASE_URL}compare`, newTab: false, showOn: "non-home", hideOn: "/compare" },
-  { name: "Docs", href: "https://docs.ritabot.gg/ritabot-docs", newTab: false, showOn: "all", hideOn: "" },
-  { name: "Dashboard", href: "https://dashboard.ritabot.gg/", newTab: false, showOn: "all", hideOn: "" },
-  { name: "Support", href: "https://discord.com/invite/mgNR64R", newTab: true, showOn: "all", hideOn: "" },
+  { name: "Docs", href: DOCS_URL, newTab: false, showOn: "all", hideOn: "" },
+  { name: "Dashboard", href: DASHBOARD_URL, newTab: false, showOn: "all", hideOn: "" },
+  { name: "Support", href: SUPPORT_URL, newTab: true, showOn: "all", hideOn: "" },
   { name: "Partners", href: `${import.meta.env.BASE_URL}partners`, newTab: false, showOn: "all", hideOn: "/partners" },
+  { name: "Playground", href: `${import.meta.env.BASE_URL}playground`, newTab: false, showOn: "all", hideOn: "/playground" },
+  { name: "Why RITA", href: `${import.meta.env.BASE_URL}why-rita`, newTab: false, showOn: "all", hideOn: "/why-rita" },
 ];
 
 export function Navbar() {
@@ -95,7 +98,7 @@ export function Navbar() {
               {isDark ? <Sun size={18} /> : <Moon size={18} />}
             </button>
             <a
-              href="https://ritabot.gg/invite"
+              href={INVITE_URL}
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2.5 rounded-xl font-semibold text-sm bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_0_20px_rgba(88,101,242,0.3)] hover:shadow-[0_0_25px_rgba(88,101,242,0.5)] hover:-translate-y-0.5 transition-all duration-200"
@@ -138,7 +141,7 @@ export function Navbar() {
             ))}
             <div className="pt-4">
               <a
-                href="https://ritabot.gg/invite"
+                href={INVITE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center px-5 py-3 rounded-xl font-semibold bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"

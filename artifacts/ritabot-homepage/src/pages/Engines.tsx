@@ -3,6 +3,7 @@ import { Footer } from "@/components/Footer";
 import { Copy, CheckCheck, Globe, Cpu, Languages, ArrowLeftRight, ChevronDown } from "lucide-react";
 import { useState, useEffect, useCallback, useRef } from "react";
 import { languages, type Language } from "@/lib/languages";
+import { usePageTitle } from "@/hooks/use-page-title";
 
 const MAX_CHARS = 200;
 const COOLDOWN_MS = 30_000;
@@ -191,6 +192,7 @@ const engines: EngineConfig[] = [
 ];
 
 export default function Engines() {
+  usePageTitle("Playground");
   const [inputText, setInputText] = useState("");
   const [sourceLang, setSourceLang] = useState("en");
   const [targetLang, setTargetLang] = useState("de");

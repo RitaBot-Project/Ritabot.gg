@@ -1,6 +1,8 @@
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { ExternalLink, HeadphonesIcon, Mail } from "lucide-react";
+import { usePageTitle } from "@/hooks/use-page-title";
+import { SUPPORT_URL } from "@/lib/constants";
 
 const partners = [
   {
@@ -15,6 +17,7 @@ const partners = [
 ];
 
 export default function Partners() {
+  usePageTitle("Partners");
   return (
     <div className="min-h-screen bg-background text-foreground flex flex-col selection:bg-primary/30 selection:text-primary-foreground">
       <Navbar />
@@ -81,7 +84,7 @@ export default function Partners() {
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
                 <a
-                  href="https://discord.com/invite/mgNR64R"
+                  href={SUPPORT_URL}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-xl font-bold text-sm hover:bg-primary/90 transition-all duration-200 shadow-lg shadow-primary/25"
