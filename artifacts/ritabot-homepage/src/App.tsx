@@ -10,6 +10,7 @@ import Home from "@/pages/Home";
 import Partners from "@/pages/Partners";
 import Compare from "@/pages/Compare";
 import Engines from "@/pages/Engines";
+import WhyRita from "@/pages/WhyRita";
 import NotFound from "@/pages/not-found";
 
 const queryClient = new QueryClient();
@@ -21,6 +22,7 @@ function Router() {
       <Route path="/partners" component={Partners} />
       <Route path="/compare" component={Compare} />
       <Route path="/engines" component={Engines} />
+      <Route path="/why-rita" component={WhyRita} />
       <Route component={NotFound} />
     </Switch>
   );
