@@ -158,6 +158,7 @@ router.post("/translate/deepl", async (req: Request, res: ExpressResponse) => {
         text: [validation.text],
         source_lang: validation.source,
         target_lang: validation.target,
+        model_type: "prefer_quality_optimized",
       })
     );
 

@@ -76,7 +76,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         "Authorization": `DeepL-Auth-Key ${apiKey}`,
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ text: [text.trim()], source_lang: source, target_lang: target }),
+      body: JSON.stringify({
+        text: [text.trim()],
+        source_lang: source,
+        target_lang: target,
+        model_type: "prefer_quality_optimized",
+      }),
     });
 
     if (!response.ok) {
