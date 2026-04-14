@@ -1,11 +1,12 @@
 #!/usr/bin/env node
-import { spawn } from "node:child_process";
+import { spawn, spawnSync } from "node:child_process";
 import { existsSync, readFileSync, rmSync } from "node:fs";
 import path from "node:path";
 import process from "node:process";
 
 const isWin = process.platform === "win32";
 const COREPACK_BIN = isWin ? "corepack.cmd" : "corepack";
+const NPM_BIN = isWin ? "npm.cmd" : "npm";
 
 let apiProc = null;
 let webProc = null;
@@ -73,6 +74,10 @@ function wirePrefixedStream(stream, prefix) {
   });
 }
 
+function quoteShellArg(arg) {
+  return arg.includes(" ") ? `"${arg.replaceAll('"', '\\"')}"` : arg;
+}
+
 function spawnLogged(command, args, options, prefix) {
   const child = spawn(command, args, {
     ...options,
@@ -90,18 +95,69 @@ function spawnLogged(command, args, options, prefix) {
   return child;
 }
 
-function getCorepackCommandArgs(args) {
-  if (!isWin) {
-    return { command: COREPACK_BIN, args };
+function commandExists(command) {
+  const result = isWin
+    ? spawnSync("where.exe", [command], {
+        stdio: "ignore",
+        windowsHide: true,
+      })
+    : spawnSync("which", [command], {
+        stdio: "ignore",
+        windowsHide: true,
+      });
+
+  return !result.error && result.status === 0;
+}
+
+function getPinnedPnpmPackageSpec() {
+  const packageJsonPath = path.resolve(process.cwd(), "package.json");
+  const packageJson = JSON.parse(readFileSync(packageJsonPath, "utf8"));
+  const packageManager = String(packageJson.packageManager ?? "");
+
+  if (!packageManager.startsWith("pnpm@")) {
+    throw new Error("root package.json is missing a pnpm packageManager entry");
   }
 
-  const escaped = args
-    .map((part) => (part.includes(" ") ? `\"${part}\"` : part))
-    .join(" ");
+  const versionWithMetadata = packageManager.slice("pnpm@".length);
+  const version = versionWithMetadata.split("+")[0];
+
+  if (!version) {
+    throw new Error("unable to determine pnpm version from root packageManager entry");
+  }
+
+  return `pnpm@${version}`;
+}
+
+function getPackageManagerCommandArgs(args) {
+  if (commandExists(COREPACK_BIN)) {
+    if (!isWin) {
+      return { command: COREPACK_BIN, args };
+    }
+
+    return {
+      command: "cmd.exe",
+      args: ["/d", "/s", "/c", `corepack ${args.map(quoteShellArg).join(" ")}`],
+    };
+  }
+
+  if (!commandExists(NPM_BIN)) {
+    throw new Error("neither corepack nor npm is available on PATH");
+  }
+
+  const pnpmPackageSpec = getPinnedPnpmPackageSpec();
+
+  log("local-dev", `corepack not found, falling back to ${pnpmPackageSpec} via npm exec`);
 
   return {
-    command: "cmd.exe",
-    args: ["/d", "/s", "/c", `corepack ${escaped}`],
+    command: isWin ? "cmd.exe" : NPM_BIN,
+    args: isWin
+      ? [
+          "/d",
+          "/s",
+          "/c",
+          `npm exec --yes ${pnpmPackageSpec} -- ${args.map(quoteShellArg).join(" ")}`,
+        ]
+      : ["exec", "--yes", pnpmPackageSpec, "--", ...args],
   };
 }
 
@@ -207,8 +263,7 @@ async function main() {
 
   log("local-dev", "building api package");
 
-  const buildCmd = getCorepackCommandArgs([
-    "pnpm",
+  const buildCmd = getPackageManagerCommandArgs([
     "--filter",
     "@workspace/api-server",
     "run",
@@ -244,8 +299,7 @@ async function main() {
 
   log("local-dev", "starting web dev server");
 
-  const webCmd = getCorepackCommandArgs([
-    "pnpm",
+  const webCmd = getPackageManagerCommandArgs([
     "--filter",
     "@workspace/ritabot-homepage",
     "run",
