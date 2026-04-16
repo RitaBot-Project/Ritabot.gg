@@ -35,7 +35,7 @@ jobs:
           PORT: 3000
           BASE_PATH: /
           NODE_ENV: production
-          VITE_API_BASE_URL: https://wqrk0khrutn2iczoef5cy6xb.51.222.30.213.sslip.io/api/healthz
+          VITE_API_BASE_URL: https://wqrk0khrutn2iczoef5cy6xb.51.222.30.213.sslip.io
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
