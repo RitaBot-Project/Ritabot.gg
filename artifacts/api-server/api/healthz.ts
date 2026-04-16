@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
-const VERSION = "2.1.0";
+const VERSION = "2.1.1";
 
 export default async function handler(_req: VercelRequest, res: VercelResponse) {
   const google = !!process.env.GOOGLE_API_KEY;
