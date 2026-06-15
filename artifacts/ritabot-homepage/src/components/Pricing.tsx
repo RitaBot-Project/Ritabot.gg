@@ -170,7 +170,7 @@ export function Pricing() {
           <div className="p-6 bg-card border border-border/50 dark:border-white/10 rounded-2xl">
             <h3 className="text-lg font-bold text-foreground mb-4">Character Limits & Soft Caps</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Each plan has a soft limit on the number of Google characters they are assigned for the Google Translation API. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for translation, it will continue to use the Google Translation API for translation. There is no hard limit on the number of characters that a user can use on the Google API. However, after 2 million characters, a review may be conducted to ensure there is no abuse of service.
+              Each plan has a soft limit on the number of Google/DeepL characters assigned for translation. This soft limit comes into effect for all translations. Once a user hits the assigned limit, translations will fall back to our Machine Learning (ML) Translation Engine. However, if our ML Engine is not trained in the target language or its confidence is not suitable for translation, it will continue to use Google/DeepL for translation. There is no hard limit on the number of characters that a user can use on Google/DeepL. However, after 2 million characters, a review may be conducted to ensure there is no abuse of service.
             </p>
           </div>
         </div>

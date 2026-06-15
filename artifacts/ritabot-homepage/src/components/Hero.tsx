@@ -41,6 +41,10 @@ export function Hero() {
             <img src={`${import.meta.env.BASE_URL}images/discordforge.png`} alt="DiscordForge" className="w-4 h-4 rounded-sm" />
             <span className="text-sm font-medium text-muted-foreground">Partnered with DiscordForge</span>
           </a>
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-muted/60 dark:bg-white/5 border border-border dark:border-white/10 backdrop-blur-sm">
+            <span className="text-xs font-semibold px-1.5 py-0.5 rounded bg-primary/15 text-primary">NEW</span>
+            <span className="text-sm font-medium text-muted-foreground">Now using DeepL</span>
+          </div>
         </div>
         
         <h1 className="text-5xl md:text-7xl font-display font-extrabold text-foreground mb-6 leading-[1.1] animate-in fade-in slide-in-from-bottom-6 duration-700 delay-100 fill-mode-both">

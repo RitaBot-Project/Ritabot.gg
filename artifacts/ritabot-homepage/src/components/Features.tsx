@@ -3,8 +3,8 @@ import { Globe, RefreshCw, Flag, Users, Webhook, Zap, Command, Brain, MessageCir
 const features = [
   {
     icon: Globe,
-    title: "100+ Languages",
-    description: "Communicate globally. RitaBot supports highly accurate translations across more than 100 languages powered by Google Translate.",
+    title: "166+ Languages",
+    description: "Communicate globally. RitaBot supports highly accurate translations across 166+ languages, powered by Google and DeepL.",
     color: "text-blue-400",
     bg: "bg-blue-400/10",
   },
